@@ -2,7 +2,7 @@
 The Full text is licensed under [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/)
 Written by [Victor Gregory Matos](https://thevikkodamus.bearblog.dev) (_TheVikkodamus_)
 
-Follo me on: 
+Follow me on: 
 - [X](https://twitter.com/TheVikkodamus)
 - [Mastodon](https://dice.camp/@TheVikkodamus)
 - Got _**Barebones**_ Questions? [Email me](mailto:vikkobarebonesrpg@gmail.com) those questions!
