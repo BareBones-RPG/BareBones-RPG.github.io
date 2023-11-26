@@ -408,4 +408,4 @@ From [Knave](https://preview.drivethrurpg.com/en/product/250888/Knave) by Ben Mi
 
 100. **X-Ray Vision:** You gain X-Ray vision.
 
-#### BareBones RPG is licensed under the [CC by 4.0](https://creativecommons.org/licenses/by/4.0/)
+#### BareBones RPG is licensed under the [CC by 4.0](https://creativecommons.org/licenses/by/4.0/) Written by [Victor Gregory Matos](https://thevikkodamus.bearblog.dev) (_TheVikkodamus_)
