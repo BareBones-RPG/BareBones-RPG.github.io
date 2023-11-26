@@ -272,7 +272,7 @@ From [Knave](https://preview.drivethrurpg.com/en/product/250888/Knave) by Ben Mi
 
 32. **Gate:** A portal to a random plane opens.
 
-33. **Gravity Shift:** You can change the direction of gravity (for yourself only) up to once per round.
+33. **Gravity Shift:** You can change the direction of gravity (for yourself only) once per round.
 
 34. **Greed:** ESSENCE creatures develop an overwhelming urge to possess a visible item of your choice.
 
