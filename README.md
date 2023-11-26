@@ -5,7 +5,7 @@ Written by [Victor Gregory Matos](https://thevikkodamus.bearblog.dev) (_TheVikko
 Follo me on: 
 - [X](https://twitter.com/TheVikkodamus)
 - [Mastodon](https://dice.camp/@TheVikkodamus)
-- Got Barebones Questions? [Email me](vikkobarebonesrpg@gmail.com) those questions!
+- Got Barebones Questions? [Email me](mailto:vikkobarebonesrpg@gmail.com) those questions!
 
 #### A fast-paced six-sided dice system for TTRPG with rules and mechanics.
 
