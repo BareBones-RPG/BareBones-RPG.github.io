@@ -79,7 +79,7 @@ Individual initiative can be utilized. Both the enemy and the player will roll a
 
 GM may use a deck of cards and assign each player and enemy a card. The lowest or highest number on the card will go first. Follow from First to Last or Royalty to Peasant rules. If players get an Ace, they will always go first in battle.
 
-- Royalty to Peasant setting: **Colored Joker, King, Queen, Jack, 10, 9, 8, 7, 6, 5, 4, 3, 2, Ace and Black and White (B&W) Joker**.
+- Royalty to Peasant setting: _**Colored Joker, King, Queen, Jack, 10, 9, 8, 7, 6, 5, 4, 3, 2, Ace and Black and White (B&W) Joker**_.
 
 ### Attack Roll
 
