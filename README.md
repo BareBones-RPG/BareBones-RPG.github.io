@@ -83,7 +83,7 @@ GM may use a deck of cards and assign each player and enemy a card. The lowest o
 
 ### Attack Roll
 
-It is the player's turn, and they decide to go for an attack, depending on the type of weapon they may hold. They will then roll for their respective Attribute. Any time a player rolls a 5 or 6, the attack happens.
+It is the player's turn, and they decide to go for an attack, depending on the type of weapon they may hold. They will then roll for their respective Attribute. Anytime a player rolls a 5 or 6, the attack happens. nless, player holds their **action for a round or want to react** to an enemy's action this can bring the success treshold down to **4**, instead of **5-6** in normal circumstances.
 
 ### Enemy's Turn
 
