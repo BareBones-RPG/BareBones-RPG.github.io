@@ -68,8 +68,8 @@ Player's turn: they can move up to 30 feet, attack, defend, or wait for a reacti
 
 In a battle encounter, a designated player rolls a die on behalf of their group to determine the starting order. The player turns to initiate from the left side of the GM and progresses clockwise around the table.
 
-- 1-3.... **Enemies go first**
-- 4-6.... **Players go first**
+- 1-3... **Enemies go first**
+- 4-6... **Players go first**
 
 #### Optional Initiative Rule:
 
