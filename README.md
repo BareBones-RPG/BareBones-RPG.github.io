@@ -57,12 +57,12 @@ Players can gain (BL) with every **fumble roll**. Unless the player uses the fum
 
 Player's turn: they can move up to 30 feet, attack, defend, or wait for a reaction. If the player uses double movement, they can move up to 60 feet. Then, the player will wait for the next round to attack.
 
-- Whenever an attack is triggered, the player will use Might when a weapon has a close-range tag.
-- Whenever an attack is triggered, the player will use Insight when a weapon has a mid or far range due to aiming.
-- Whenever a defense is triggered, the player will use Mobility when wearing armor, including the worn armor tag.
-- Whenever a player casts a spell, they will use Essence.
-- Whenever a player is bitten by something. Or touch something poisonous, the PC will use GRIT to save.
-- When a player moves, and **holds their action**. They can _lower the success threshold to 4_ due to waiting for that moment to act!
+- _Whenever an attack is triggered_, the player will use **Might** when a weapon has a close-range tag.
+- _Whenever an attack is triggered_, the player will use **Insight** when a weapon has a mid or far range due to aiming.
+- _Whenever a defense is triggered_, the player will use **Mobility** when wearing armor, including the worn armor tag.
+- _Whenever a player casts a spell_, they will use **Essence**.
+- _Whenever a player is bitten by something_. Or touch something poisonous, the PC will use GRIT to save.
+- _When a player moves, and **holds their action**_. They can _lower the success threshold to 4_ due to waiting for that moment to act!
 
 ### Initiative Rules:
 
