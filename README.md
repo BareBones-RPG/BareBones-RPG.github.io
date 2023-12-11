@@ -156,9 +156,9 @@ PC can roll for damage instead of automatically doing damage. They will use the 
 
 ## Damage Bonuses
 
-- Small weapons: Roll 2d6 lowest result, then add damage bonus
-- Medium weapons: Roll 1d6 + damage bonus
-- Great weapons: Roll 2d6 takes the highest result and then adds your damage bonus.
+- Small weapons: Roll 2d6 **lowest result**, then add damage bonus
+- Medium weapons: Roll 1d6 + **damage bonus**
+- Great weapons: Roll 2d6 takes the **highest result** and then adds your damage bonus.
 
 The PC damage bonus will be half of their attributes rounded down.
 
@@ -173,7 +173,7 @@ The PC damage bonus will be half of their attributes rounded down.
 
 When players are in a somewhat safe area, with no active encounter:
 
-- The players can recover 1d6+GRIT health and regain Bones Luck to three. Whenever players eat a ration, they need to rest in a safe place with uninterrupted sleep.
+- The players can recover **1d6+GRIT** health and regain Bones Luck to three. Whenever players eat a ration, they need to rest in a safe place with uninterrupted sleep.
 - The players can eat rations and use their waterskin; this is taking a breather before going forward to their next stop. A player must declare a **Breather**; this way, the GM can allow the players to use their rations with a short rest. When the PCs do this, they can roll 1d3+GRIT health and will not recover Bones Luck.
 
 ## Weapons and Gear
