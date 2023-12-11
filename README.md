@@ -11,7 +11,7 @@ Written by [Victor Gregory Matos](https://thevikkodamus.bearblog.dev) (_TheVikko
 
 ## Game Mechanics
 
-In this game, players have attributes, and each attribute is associated with a specific number of d6 dice they will roll when attempting an action related to that attribute. A roll of 5 on a die is considered a soft success, while a roll of 6 is a critical success. Any result below 5 is considered a soft failure, and if a player rolls a 1, it's considered a fumble, resulting in potentially harmful consequences.
+In this game, players have attributes, and each attribute is associated with a specific number of **six-sided** dice they will roll when attempting an action related to that attribute. A roll of 5 on a die is considered a soft success, while a roll of 6 is a critical success. Any result below 5 is considered a soft failure, and if a player rolls a 1, it's considered a fumble, resulting in potentially harmful consequences. Unless, player holds their action for a round or want to react to an enemy's action this can bring the success treshold down to **4**, instead of 5-6.
 
 ## Character Creation
 
