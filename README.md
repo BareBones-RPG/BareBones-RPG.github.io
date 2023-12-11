@@ -37,7 +37,7 @@ The playable character can hold up to 9+ MIGHT slots. If they carry more than th
 
 ### How Much Currency Do I Start With?
 
-The player will roll **3d6*10** (_fantasy setting_) or **3d6*100** (_modern setting_) *money, gold, or credit*. The player can purchase their _starting gear, weapon, and armor_.
+The player will roll **3d6 * 10** (_fantasy setting_) or **3d6 * 100** (_modern setting_) *money, gold, or credit*. The player can purchase their _starting gear, weapon, and armor_.
 
 ### Bones Luck
 
