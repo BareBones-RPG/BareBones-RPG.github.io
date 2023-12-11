@@ -162,12 +162,12 @@ PC can roll for damage instead of automatically doing damage. They will use the 
 
 The PC damage bonus will be half of their attributes rounded down.
 
-- 1 point in attributes = 0 bonus
-- 2 points in attributes = 1 bonus
-- 3 points in attributes = 1 bonus
-- 4 points in attributes = 2 bonus
-- 5 points in attributes = 2 bonus
-- 6 points in attributes = 3 bonus
+- 1 point in attributes =  **0 bonus**
+- 2 points in attributes = **1 bonus**
+- 3 points in attributes = **1 bonus**
+- 4 points in attributes = **2 bonus**
+- 5 points in attributes = **2 bonus**
+- 6 points in attributes = **3 bonus**
 
 ## Resting
 
