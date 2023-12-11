@@ -23,7 +23,7 @@ Players who prefer to roll for their stats can roll 1d6 and subtract 1d6 to dete
 
 Stats can offer players flexibility when rolling dice. Each player begins with 8 points to allocate to any attribute in this game. Each attribute must have a minimum value of 1. This game grants players the freedom to create a character swiftly or discuss with the game master (GM) to shape their character.
 
-BareBones uses these Attributes:
+BareBones uses these **Attributes**:
 
 - **MIGHT**= _Crush, lift, strike, grapple_
 - **MOBILITY**= _Defend, balance, swim, flee_
