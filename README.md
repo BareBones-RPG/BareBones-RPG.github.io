@@ -11,7 +11,7 @@ Written by [Victor Gregory Matos](https://thevikkodamus.bearblog.dev) (_TheVikko
 
 ## Game Mechanics
 
-In this game, players have _attributes_, and each _attribute_ is associated with a specific number of **six-sided** dice they will roll when attempting an action related to that attribute. A roll of **5** on a die is considered a _soft success_, while a roll of **6** is a _critical success_! Any result below **4** is considered a _soft failure_, and if a player rolls a **1**, it's _considered a fumble_, resulting in **potentially harmful consequences**. Unless, player holds their **action for a round or want to react** to an enemy's action this can bring the success treshold down to **4**, instead of **5-6** in normal circumstances.
+BareBones RPG, players have _attributes_, and each _attribute_ is associated with a specific number of **six-sided** dice they will roll when attempting an action related to that attribute. A roll of **5** on a die is considered a _soft success_, while a roll of **6** is a _critical success_! Any result below **4** is considered a _soft failure_, and if a player rolls a **1**, it's _considered a fumble_, resulting in **potentially harmful consequences**. Unless, player holds their **action for a round or want to react** to an enemy's action this can bring the success treshold down to **4**, instead of **5-6** in normal circumstances.
 
 ## Character Creation
 
