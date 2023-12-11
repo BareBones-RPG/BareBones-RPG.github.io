@@ -214,7 +214,7 @@ Magic is accessible to anyone with points in their Essence attribute. To cast a 
 The GM may allow spells from other OSR books or resources. Conversion will be necessary to align with the mechanics of BareBones RPG.
 
 # 100 Level-Less Spells
-From [Knave](https://preview.drivethrurpg.com/en/product/250888/Knave) by Ben Milton.
+From [Knave](https://preview.drivethrurpg.com/en/product/250888/Knave) by _Ben Milton_.
 
 1. **Adhere:** The object is covered in extremely sticky slime.
 
