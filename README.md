@@ -95,16 +95,16 @@ It is the player's turn, and they decide to go for an attack, depending on the t
 
 ### Enemy's Turn
 
-Enemies can move and attack or take cover. When attacking, the player must make a Mobility Save roll. 
-- If the PC fails, then the attack occurs and players will roll damage reduction if wearing armor. 
-- **On a roll of 1** with their Mobility Save, the enemy crits their attack against the Player Character and they will roll damage reduction if wearing armor. This will reduce the **armor quality**. 
+Enemies can move and attack or take cover. When attacking, the player must make a **Mobility Save** roll. 
+- If the PC fails, then the attack occurs and players will **roll damage reduction** if wearing armor. 
+- **On a roll of 1** with their Mobility Save, the enemy crits their attack against the Player Character and they will **roll damage reduction** if wearing armor. This will reduce the **armor quality**. 
 
 ### Roll a Mobility Save to Dodge an Attack
 
 Players and NPCs about to be attacked will roll Mobility save against an upcoming attack.
 
 - If the defender rolls a 6, they can avoid the attack and make a free atack. This is not a critical attack.
-  >  This will count as a regular attack. Criticals only happens when the players does an attack roll. 
+  > **Designers' Note:**  This will count as a regular attack. Criticals only happens when the players does an attack roll. 
 - On a 5, the defender successfully avoids the attack.
 - On 4- roll the player will be hit and will need to roll for damage reduction depending on what armor they are wearing. 
 - If the defender rolls a 1, the attacker does a critical hit. A critical hit deals double the damage depending on what they are wearing. This will decrease the armor’s quality until is broken.
@@ -123,10 +123,14 @@ In BareBones RPG, players and enemies may roll more than 1 die. Success and fail
 ### Aiding
 
 In cases where a player receives aid during a check, the rolling player gains a **+1 bonus** for each player who helps. This bonus can turn a roll of 4 into a successful roll of 5 with the help of additional players.
+> **Designer's Note:** If this is a **social encounter** the GM or Player will roll a d6 for NPC's Reaction and add (+1 **per players aiding**)
+> - If this is during **combat** the player will get +1 **bonus towards** their roll.
+> - If this is during a **check** the player will have to discuss how this will work with the GM and the GM will decide if this aid will work. 
 
 ### Interfering
 
 In scenarios where a player encounters interference during a check, the rolling player incurs a **-1 penalty** for each interfering player. This penalty can result in a successful roll of 5 turning into an unsuccessful roll of 4 due to the presence of interfering players.
+
 
 ## A Boost and Burden Roll
 
