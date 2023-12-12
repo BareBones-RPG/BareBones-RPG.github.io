@@ -87,23 +87,35 @@ The GM uses a deck of cards and assigns each player and enemy a card. The turn o
 
 ### Attack Roll
 
-It is the player's turn, and they decide to go for an attack, depending on the type of weapon they may hold. They will then roll for their respective Attribute. Anytime a player rolls a 5 or 6, the attack happens. nless, player holds their **action for a round or want to react** to an enemy's action this can bring the success treshold down to **4**, instead of **5-6** in normal circumstances.
+It is the player's turn, and they decide to go for an attack, depending on the type of weapon they may hold. They will then roll for their respective Attribute. 
+
+- Anytime a player rolls a 5 or 6, the attack happens.
+- If player rolls a 6, this is a critical hit. The player will do double the damage against enemy. This attack will reduce the enemies armor. The armor will reduce from a d8-d6-d4-d2-0. 
+- A player holds their **action for a round or want to react** to an enemy's action this can bring the success treshold down to **4**, instead of **5-6** in normal circumstances.
 
 ### Enemy's Turn
 
-Enemies can move and attack or take cover. When attacking, the player must make a Defense roll. If the PC fails, then the attack occurs. On a roll of 1, the enemy crits the attack against PC.
+Enemies can move and attack or take cover. When attacking, the player must make a Mobility Save roll. 
+- If the PC fails, then the attack occurs and players will roll damage reduction if wearing armor. 
+- **On a roll of 1** with their Mobility Save, the enemy crits their attack against the Player Character and they will roll damage reduction if wearing armor. This will reduce the **armor quality**. 
 
 ### Roll a Mobility Save to Dodge an Attack
 
-Players and NPCs about to be attacked will roll Mobility save against an upcoming attack. If the defender rolls a 6, they can avoid the attack and make a counterattack. On a 5, the defender successfully avoids the attack. If the defender rolls a 1, the attacker does a critical hit. A critical hit deals double the damage depending on what weapon they are holding. This will decrease the weapon’s quality until the weapon is broken.
+Players and NPCs about to be attacked will roll Mobility save against an upcoming attack.
 
-When the PC holds a shield, they will receive a +1 bonus towards their roll result for defense. If the roll ends with multiple 1s, the shield will break.
+- If the defender rolls a 6, they can avoid the attack and make a counterattack.
+- On a 5, the defender successfully avoids the attack.
+- On 4- roll the player will be hit and will need to roll for damage reduction depending on what armor they are wearing. 
+- If the defender rolls a 1, the attacker does a critical hit. A critical hit deals double the damage depending on what they are wearing. This will decrease the armor’s quality until is broken.
+
+When the PC holds a shield, they will receive a -1 damage when hit. If the roll ends with multiple 1s, the shield will break. The PC can ignore all damage from one attack but the shield breaks.
 
 ### The Rule of Failure and Success Roll with Multiple Dice
 
 In BareBones RPG, players and enemies may roll more than 1 die. Success and failure rolls will differ in combat whenever multiple dice are rolled.
 
-If 1s and 6s are rolled together, if there are more 6s than 1s, it is ruled a success. If there are more 1s than 6s on the single roll, it is ruled a fumble. This also applies to Spell Mishap.
+- If 1s and 6s are rolled together, if there are more 6s than 1s, it is ruled a success.
+- If there are more 1s than 6s on the single roll, it is ruled a fumble. This also applies to Spell Mishap.
 
 ## Aiding or Interfering
 
