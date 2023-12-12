@@ -117,7 +117,10 @@ In scenarios where a player encounters interference during a check, the rolling 
 
 ## A Boost and Burden Roll
 
-BareBones uses Boost and Burden. Boost is a +1 point die towards the attribute, increasing the number of dice that can be rolled on that turn. A Burden imposes a -1 penalty die on a player's roll, depending on what they are wearing or facing a creature's ability.
+BareBones uses **Boost and Burden** . 
+
+- Boost is a +1 point die towards the attribute, increasing the number of dice that can be rolled on that turn.
+- A Burden imposes a -1 penalty die on a player's roll, depending on what they are wearing or facing a creature's ability.
 
 ### Two-Weapon Fighter Rules:
 
