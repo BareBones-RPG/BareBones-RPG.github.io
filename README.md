@@ -421,7 +421,12 @@ From [Knave](https://preview.drivethrurpg.com/en/product/250888/Knave) by _Ben M
 100. **X-Ray Vision:** You gain X-Ray vision.
 
 ## Spell Mishap
-This is similar to the **Critical or Fumble rule**. If 1s and 6s are rolled together, if there are more 6s than 1s, it is ruled a success. If there are more 1s than 6s on the single roll, it is ruled a fumble. **Magic is a dangerous power** in which only the bravest or the foolish will dabble with. The GM may consult this table whenever multiple ones are rolled on a single ESSENCE roll. Alternatively, inflict damage against the spell caster equal to the number of rolled 1s.
+This rule operates similarly to Critical or Fumble rules. When rolling dice for an ESSENCE check, if both 1s and 6s appear on the same roll, the outcome is determined as follows:
+
+- If there are more 6s than 1s, the roll is considered a success.
+- If there are more 1s than 6s, the roll is ruled a fumble.
+
+**Magic is a perilous power, only to be tampered with by the bravest or most foolish**. The GM can consult the following table when multiple ones are rolled on a single ESSENCE roll. Alternatively, the GM may choose to inflict damage on the spell caster equal to the number of rolled 1s rolled against casting player's Hit Points or Essence.
 
 | Roll | Spell Mishap                                            |
 |------|---------------------------------------------------------|
@@ -461,6 +466,17 @@ This is similar to the **Critical or Fumble rule**. If 1s and 6s are rolled toge
 | 64   | Soul Exchange: Caster briefly swaps souls with a random creature in the area.       |
 | 65   | Reality Shift: Environment undergoes a temporary surreal transformation.           |
 | 66   | Cataclysmic Event: Major magical event occurs, reshaping the surrounding landscape or summoning a powerful entity.|
+
+### Wild Magic Table
+| Roll | Wild Magic Effect                                 |
+|------|---------------------------------------------------|
+| 1    | Random Elemental Surge (Roll a d4: 1 - Fire, 2 - Ice, 3 - Lightning, 4 - Earth).|
+| 2    | Reality Distortion: Surroundings briefly warp and shift.|
+| 3    | Teleportation Mishap: Caster teleports to a random location within sight.|
+| 4    | Temporal Anomaly: Time briefly accelerates or slows down.|
+| 5    | Mirror Image: Illusory duplicates of the caster appear, confusing everyone.|
+| 6    | Arcane Amplification: Caster gains a random minor magical ability for 1d6 rounds.|
+
 
 
 #### BareBones RPG is licensed under the [CC by 4.0](https://creativecommons.org/licenses/by/4.0/) Written by [Victor Gregory Matos](https://thevikkodamus.bearblog.dev) (_TheVikkodamus_)
