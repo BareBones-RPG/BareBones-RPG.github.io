@@ -77,9 +77,13 @@ Individual initiative can be utilized. Both the enemy and the player will roll a
 
 #### Optional Initiative Rule:
 
-GM may use a deck of cards and assign each player and enemy a card. The lowest or highest number on the card will go first. Follow from First to Last or Royalty to Peasant rules. If players get an Ace, they will always go first in battle.
+The GM uses a deck of cards and assigns each player and enemy a card. The turn order is determined by the highest number on the card. 
 
 - Royalty to Peasant setting: _**Colored Joker, King, Queen, Jack, 10, 9, 8, 7, 6, 5, 4, 3, 2, Ace and Black and White (B&W) Joker**_.
+
+#### Joker Rules:
+- Colored Joker: If a player or enemy draws a colored Joker, they have the option to go first or choose when they will take their turn.
+- Black and White Joker: If a player or enemy draws a Black and White Joker, they will always go last.
 
 ### Attack Roll
 
@@ -415,5 +419,48 @@ From [Knave](https://preview.drivethrurpg.com/en/product/250888/Knave) by _Ben M
 99. **Wizard Mark:** Your finger can shoot a stream of ulfire-colored paint. This paint is only visible to you, and can be seen at any distance, even through solid objects.
 
 100. **X-Ray Vision:** You gain X-Ray vision.
+
+## Spell Mishap
+This is similar to the **Critical or Fumble rule**. If 1s and 6s are rolled together, if there are more 6s than 1s, it is ruled a success. If there are more 1s than 6s on the single roll, it is ruled a fumble. **Magic is a dangerous power** in which only the bravest or the foolish will dabble with. The GM may consult this table whenever multiple ones are rolled on a single ESSENCE roll. Alternatively, inflict damage against the spell caster equal to the number of rolled 1s.
+
+| Roll | Spell Mishap                                            |
+|------|---------------------------------------------------------|
+| 11   | Uncontrollable Laughter: Everyone laughs uncontrollably for 1d4 rounds.              |
+| 12   | Invisibility: The caster becomes invisible, losing control over actions.               |
+| 13   | Elemental Surge: Random elemental effect (1 - Fire, 2 - Ice, 3 - Lightning, 4 - Earth).|
+| 14   | Shrink: The caster shrinks in size, becoming half as tall for 1d6 hours.              |
+| 15   | Polymorph: The caster is transformed into a small creature for 1d4 hours.              |
+| 16   | Time Warp: Time briefly distorts, causing aging or de-aging by 1d6 years.             |
+| 21   | Teleportation: Caster teleported to a random location within a 1d100-mile radius.    |
+| 22   | Mirror Image: Illusory copies of the caster appear, making it unclear which is real.  |
+| 23   | Gravity Flux: Fluctuating gravity causes everyone to float for 1d4 rounds.           |
+| 24   | Shadow Binding: Caster bound by magical shadows, unable to move for 1d6 rounds.       |
+| 25   | Animal Transformation: Caster transformed into a random animal for 1d4 hours.         |
+| 26   | Mind Swap: Minds of two random creatures, including the caster, are swapped for 1d6 rounds.|
+| 31   | Colorful Explosion: Burst of vibrant colors blinds everyone in the area for 1d4 rounds.|
+| 32   | Echoing Voices: Caster's words are echoed loudly, making communication difficult.     |
+| 33   | Telekinetic Surge: Objects around the caster lifted and thrown randomly for 1d6 rounds.|
+| 34   | Memory Loss: Caster temporarily forgets the last 1d4 hours of events.                 |
+| 35   | Shadowy Whispers: Eerie whispers cause unease in the area for 1d6 rounds.             |
+| 36   | Illusory Terrain: Surroundings briefly transformed into an illusory landscape.       |
+| 41   | Plant Growth: Uncontrolled plant growth obstructs movement for 1d4 rounds.           |
+| 42   | Sonic Boom: Deafening noise deafens everyone in the area for 1d6 rounds.            |
+| 43   | Ice Patch: Slippery ice forms, causing Dexterity saves or prone status.             |
+| 44   | Gravity Well: Increased gravity makes movement difficult for 1d4 rounds.            |
+| 45   | Telepathic Link: Caster gains a temporary telepathic link with a random creature for 1d6 minutes.|
+| 46   | Mirror Reflection: Caster's reflection becomes independent and acts on its own for 1d6 rounds.|
+| 51   | Magic Dampening: All magic in the area temporarily suppressed for 1d4 rounds.      |
+| 52   | Elemental Convergence: Two random elemental effects occur simultaneously.           |
+| 53   | Temporal Stutter: Time briefly stutters, causing a momentary freeze for everyone in the area.|
+| 54   | Reality Ripple: Boundary between realities weakens, creating bizarre visual distortions.|
+| 55   | Ethereal Phantoms: Ghostly images of past events briefly manifest in the area.      |
+| 56   | Teleportation Cascade: Multiple teleportation effects occur simultaneously.        |
+| 61   | Wild Magic Surge: Roll on a wild magic table for an additional random effect.       |
+| 62   | Planar Breach: Briefly opens a small portal to another plane, releasing a random creature.|
+| 63   | Psychic Feedback: Caster experiences intense psychic feedback, taking psychic damage.|
+| 64   | Soul Exchange: Caster briefly swaps souls with a random creature in the area.       |
+| 65   | Reality Shift: Environment undergoes a temporary surreal transformation.           |
+| 66   | Cataclysmic Event: Major magical event occurs, reshaping the surrounding landscape or summoning a powerful entity.|
+
 
 #### BareBones RPG is licensed under the [CC by 4.0](https://creativecommons.org/licenses/by/4.0/) Written by [Victor Gregory Matos](https://thevikkodamus.bearblog.dev) (_TheVikkodamus_)
