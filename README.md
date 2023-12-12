@@ -143,11 +143,18 @@ Players can use their attributes to push their limit once a session using the bu
 
 ## Death
 
-BareBones is a dangerous game for PCs, with death being a possible outcome at the table. 0 means you are dying. A player can do an epic attack and automatically die after the epic attack. Or GM or Player can roll a death timer by rolling a d3. At the moment, the player goes over the x amount of rounds. If the PC is not handled with a medical kit or magic, the PC will roll a Saved By a Bone (Death Save).
+BareBones is a dangerous game for PCs, with death being a possible outcome at the table. 0 means you are dying. 
+- A player can do an epic attack and automatically die after the epic attack.
+- Or GM or Player can roll a death timer by rolling a d3. At the moment, the player goes over the x amount of rounds.
+-  If the PC is not handled with a medical kit or magic, the PC will roll a Saved By a Bone (Death Save).
 
 ## Saved By A Bone
 
-A player may roll a Saved by a Bone. This is our death save. If you roll a 1, this means the PC is dead. 2-4, they are still bleeding out. 5 they save. 5 the PC will get up with (x) amount GRIT as their HP. 6 the PC will get (x)*2 GRIT as their HP.
+A player may roll a Saved by a Bone. This is our death save. 
+- If you roll a 1, this means the PC is dead.
+- 2-4, they are still bleeding out.
+- 5 they save. 5 the PC will get up with (x) amount GRIT as their HP.
+- 6 the PC will get (x)*2 GRIT as their HP.
 
 ## Weapon Tag
 
