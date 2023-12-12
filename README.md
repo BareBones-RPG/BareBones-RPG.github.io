@@ -11,47 +11,47 @@ Written by [Victor Gregory Matos](https://thevikkodamus.bearblog.dev) (_TheVikko
 
 ## Game Mechanics
 
-**_BareBones RPG_**, players have _attributes_, and each _attribute_ is associated with a specific number of **six-sided** dice they will roll when attempting an action related to that attribute. A roll of **5** on a die is considered a _soft success_, while a roll of **6** is a _critical success_! Any result below **4** is considered a _soft failure_, and if a player rolls a **1**, it's _considered a fumble_, resulting in **potentially harmful consequences**. Unless, player holds their **action for a round or want to react** to an enemy's action this can bring the success treshold down to **4**, instead of **5-6** in normal circumstances.
+In **_BareBones RPG_**, players possess _attributes_, each associated with a specific number of **six-sided** dice for actions related to that attribute. Rolling a **5** on a die is a _soft success_, while a roll of **6** is a _critical success_. Any result below **4** is a _soft failure_, and a roll of **1** is a _fumble_, potentially leading to harmful consequences. However, if a player holds their **action for a round or wants to react** to an enemy's action, the success threshold is reduced to **4**, instead of the usual **5-6**.
 
 ## Character Creation
 
 ### Rolling for Stats
 
-Players who prefer to roll for their stats can roll 1d6 and subtract 1d6 to determine their stat results. These stats results are in order: **MIGHT, MOBILITY, INSIGHT, GRIT, and ESSENCE**. The player cannot roll for that particular save, combat, or check if any stat result is zero. The player may sacrifice an attribute by subtracting 2 points and adding those points to any zero attributes or have player roll until they get a result.
+For players who prefer to roll for their stats, they can roll 1d6 and subtract 1d6 to determine their stat results. The stats, in order, are: **MIGHT, MOBILITY, INSIGHT, GRIT, and ESSENCE**. A player cannot roll for a particular save, combat, or check if any stat result is zero. Alternatively, a player may sacrifice an attribute by subtracting 2 points and adding those points to any zero attributes, or they can reroll until they get a result.
 
 ### Customization Through Attribute Allocation
 
-Stats can offer players flexibility when rolling dice. Each player begins with 8 points to allocate to any attribute in this game. Each attribute must have a minimum value of 1. This game grants players the freedom to create a character swiftly or discuss with the game master (GM) to shape their character.
+Players begin with 8 points to allocate among their attributes, with each attribute having a minimum value of 1. This system provides the freedom to create a character quickly or collaborate with the game master (GM) for a more tailored character.
 
-BareBones uses these **Attributes**:
+**BareBones Attributes:**
 
-- **MIGHT**= _Crush, lift, strike, grapple_
-- **MOBILITY**= _Defend, balance, swim, flee_
-- **INSIGHT**= _Perceive, aim, charm, smarts_
-- **GRIT**= _Resist Poison/cold/heat, survive falling_
-- **ESSENCE**= _Willpower, using relics/magic weapons, casting spells, rituals_
+- **MIGHT** = _Crush, lift, strike, grapple_
+- **MOBILITY** = _Defend, balance, swim, flee_
+- **INSIGHT** = _Perceive, aim, charm, smarts_
+- **GRIT** = _Resist Poison/cold/heat, survive falling_
+- **ESSENCE** = _Willpower, using relics/magic weapons, casting spells, rituals_
 
 ### Calculating Hit Points
 
-In BareBones, the player will start with _10+ GRIT_ to generate max HP.
+In BareBones, the player will start with _10 + GRIT_ to generate max HP.
 
 ### How much can I hold?
 
-The playable character can hold up to 9+ MIGHT slots. If they carry more than they can handle, they become encumbered. The player will move at half their speed, and every roll will be with Burden on their Mobility, check, and defense rolls. Unless they have one, their attribute will go down to zero.
+The playable character can hold up to 9 + MIGHT slots. Carrying more than they can handle results in being encumbered. The player will move at half their speed, and every roll will be with Burden on their Mobility, check, and defense rolls. Unless they have one, their attribute will go down to zero.
 
 ### How Much Currency Do I Start With?
 
-The player will roll **3d6 * 10** (_fantasy setting_) or **3d6 * 100** (_modern setting_) *money, gold, or credit*. The player can purchase their _starting gear, weapon, and armor_.
+The player will roll **3d6 * 10** (_fantasy setting_) or **3d6 * 100** (_modern setting_) for money, gold, or credit. This currency can be used to purchase their _starting gear, weapon, and armor_.
 
 ### Bones Luck
 
-Players will begin with 3 Bones Luck. Bones luck can help change roll results:
+Players will begin with 3 Bones Luck. Bones Luck can help change roll results:
 - _Combat Roll_
 - _Mobility Save_
 - _Initiative Roll_
-- _Save by a Bone (**Death Save**)_
+- _Save by a Bone (Death Save)_
 
-Players can gain (BL) with every **fumble roll**. Unless the player uses the fumble as a _hold_ for a **burden roll**.
+Players can gain Bones Luck with every **fumble roll**. Unless the player uses the fumble as a _hold_ for a **burden roll**.
 
 ## Action and Movement
 
@@ -61,8 +61,8 @@ Player's turn: they can move up to 30 feet, attack, defend, or wait for a reacti
 - _Whenever an attack is triggered_, the player will use **Insight** when a weapon has a mid or far range due to aiming.
 - _Whenever a defense is triggered_, the player will use **Mobility** when wearing armor, including the worn armor tag.
 - _Whenever a player casts a spell_, they will use **Essence**.
-- _Whenever a player is bitten by something_. Or touch something poisonous, the PC will use GRIT to save.
-- _When a player moves, and **holds their action**_. They can _lower the success threshold to 4_ due to waiting for that moment to act!
+- _Whenever a player is bitten by something_ or touches something poisonous, the PC will use GRIT to save.
+- _When a player moves and **holds their action**_, they can _lower the success threshold to 4_ due to waiting for that moment to act!
 
 ### Initiative Rules:
 
@@ -104,7 +104,7 @@ Enemies can move and attack or take cover. When attacking, the player must make 
 Players and NPCs about to be attacked will roll Mobility save against an upcoming attack.
 
 - If the defender rolls a 6, they can avoid the attack and make a free atack. This is not a critical attack.
-  >  
+  >  This will count as a regular attack. Criticals only happens when the players does an attack roll. 
 - On a 5, the defender successfully avoids the attack.
 - On 4- roll the player will be hit and will need to roll for damage reduction depending on what armor they are wearing. 
 - If the defender rolls a 1, the attacker does a critical hit. A critical hit deals double the damage depending on what they are wearing. This will decrease the armor’s quality until is broken.
@@ -130,10 +130,10 @@ In scenarios where a player encounters interference during a check, the rolling 
 
 ## A Boost and Burden Roll
 
-BareBones uses **Boost and Burden** . 
+_BareBones_ uses **Boost and Burden** . 
 
-- A Boost is a +1 die towards the attribute, increasing the number of dice that can be rolled on that turn.
-- A Burden imposes a -1 penalty die on a player's roll, depending on what they are wearing and facing a creature's abilities.
+- A **Boost** is a +1 die towards the attribute, increasing the number of dice that can be rolled on that turn.
+- A **Burden** imposes a -1 penalty die on a player's roll, depending on what they are wearing and facing a creature's abilities.
 
 ### Two-Weapon Fighter Rules:
 
