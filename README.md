@@ -218,7 +218,7 @@ Magic is accessible to anyone with points in their Essence attribute. To cast a 
 The GM may allow spells from other OSR books or resources. Conversion will be necessary to align with the mechanics of BareBones RPG.
 
 # 100 Level-Less Spells
-Player can roll or pick their spells. Spells from [Knave](https://preview.drivethrurpg.com/en/product/250888/Knave) by _Ben Milton_.
+Player can **roll or pick** their spells. Spells from [Knave](https://preview.drivethrurpg.com/en/product/250888/Knave) by _Ben Milton_.
 
 | Roll | Spell                           | Effect                                                                                               |
 |------|--------------------------------|------------------------------------------------------------------------------------------------------|
@@ -380,7 +380,6 @@ This rule operates similarly to Critical or Fumble rules. When rolling dice for 
 | 4    | Temporal Anomaly: Time briefly accelerates or slows down.|
 | 5    | Mirror Image: Illusory duplicates of the caster appear, confusing everyone.|
 | 6    | Arcane Amplification: Caster gains a random minor magical ability for 1d6 rounds.|
-
 
 
 #### BareBones RPG is licensed under the [CC by 4.0](https://creativecommons.org/licenses/by/4.0/) Written by [Victor Gregory Matos](https://thevikkodamus.bearblog.dev) (_TheVikkodamus_)
