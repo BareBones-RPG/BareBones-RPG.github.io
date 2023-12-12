@@ -202,10 +202,10 @@ When players are in a somewhat safe area, with no active encounter:
 
 ## Armor
 
-- **Chain Mail:** While wearing this armor, the player will roll with burden against **Attack, Acrobatic & Stealth checks** and a **boost** towards Mobility Save. Cost: 30 GP, 5 Quality, 3 Slots, -d3 _damage reduction_ when hit.
-- **Leather:** The player rolls without burden against Attack rolls while wearing this armor. Cost: 15 GP, 3 Quality, 1 slot, -d2 _damage reduction_ when hit. 
-- **Plate Mail:** While wearing this armor, the player will roll with burden against **Attack, Acrobatic, and stealth checks** and a **boost** on Mobility Save rolls. Cost: 60 GP, 7 Quality, 5 slots, -d6 _damage reduction_ when hit. 
-- **Shield:** Cost 10 gp +1 defense, 1 quality, 1 slot The PC can ignore all damage from one attack but the shield breaks.
+- **Chain Mail:** While wearing this armor, the player will roll with burden against **Attack, Acrobatic & Stealth checks** and a **boost** towards Mobility Save. Cost: _30 GP, 5 Quality, 3 Slots_, -d3 _damage reduction_ when hit.
+- **Leather:** The player rolls without burden against Attack rolls while wearing this armor. Cost: _15 GP, 3 Quality, 1 slot_, -d2 _damage reduction_ when hit. 
+- **Plate Mail:** While wearing this armor, the player will roll with burden against **Attack, Acrobatic, and stealth checks** and a **boost** on Mobility Save rolls. Cost: _60 GP, 7 Quality, 5 slots_, -d6 _damage reduction_ when hit. 
+- **Shield:** Cost 10 gp **-1 damage** when being held, _1 quality, 1 slot_. The PC can ignore all damage from one attack but the shield breaks.
 
 ## BareBones Spell Casting
 
