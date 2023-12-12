@@ -17,7 +17,7 @@ Written by [Victor Gregory Matos](https://thevikkodamus.bearblog.dev) (_TheVikko
 
 ### Rolling for Stats
 
-Players who prefer to roll for their stats can roll 1d6 and subtract 1d6 to determine their stat results. These stats results are in order: **MIGHT, MOBILITY, INSIGHT, GRIT, and ESSENCE**. The player cannot roll for that particular save, combat, or check if any stat result is zero. The player may sacrifice an attribute by subtracting 2 points and adding those points to any zero attributes.
+Players who prefer to roll for their stats can roll 1d6 and subtract 1d6 to determine their stat results. These stats results are in order: **MIGHT, MOBILITY, INSIGHT, GRIT, and ESSENCE**. The player cannot roll for that particular save, combat, or check if any stat result is zero. The player may sacrifice an attribute by subtracting 2 points and adding those points to any zero attributes or have player roll until they get a result.
 
 ### Customization Through Attribute Allocation
 
