@@ -104,7 +104,8 @@ Enemies can move and attack or take cover. When attacking, the player must make 
 Players and NPCs about to be attacked will roll Mobility save against an upcoming attack.
 
 - If the defender rolls a 6, they can avoid the attack and make a free atack. This is not a critical attack.
-  > **Designers' Note:**  This will count as a regular attack. Criticals only happens when the players does an attack roll. 
+  > **Designers' Note:**
+  > - This will count as a regular attack. Criticals only happens when the players does an attack roll. 
 - On a 5, the defender successfully avoids the attack.
 - On 4- roll the player will be hit and will need to roll for damage reduction depending on what armor they are wearing. 
 - If the defender rolls a 1, the attacker does a critical hit. A critical hit deals double the damage depending on what they are wearing. This will decrease the armor’s quality until is broken.
@@ -123,9 +124,9 @@ In BareBones RPG, players and enemies may roll more than 1 die. Success and fail
 ### Aiding
 
 In cases where a player receives aid during a check, the rolling player gains a **+1 bonus** for each player who helps. This bonus can turn a roll of 4 into a successful roll of 5 with the help of additional players.
-> **Designer's Note:** If this is a **social encounter** the GM or Player will roll a d6 for NPC's Reaction and add (+1 **per players aiding**)
-> - If this is during **combat** the player will get +1 **bonus towards** their roll.
-> - If this is during a **check** the player will have to discuss how this will work with the GM and the GM will decide if this aid will work. 
+> **Designer's Note:**
+> - If this is a **social encounter** the GM or Player will roll a d6 for **NPC's Reaction** and add (+1 **per players who are aiding**)
+> - If this is during **combat** and **Check** rolls the player the player will have to discuss how this will work with the GM and the GM will decide if this aid makes sense and the GM can allow the +1 **bonus towards** their roll.
 
 ### Interfering
 
@@ -171,7 +172,7 @@ BareBones is a dangerous game for PCs, with death being a possible outcome at th
 
 A player may roll a Saved by a Bone. This is our death save. 
 - If you roll a 1, this means the PC is dead.
-- 2-4, they are still bleeding out.
+- 2-4, they are still bleeding out. The **GM will roll a d2 death timer**. 
 - 5 they save. 5 the PC will get up with (x) amount GRIT as their HP.
 - 6 the PC will get (x)*2 GRIT as their HP.
 
@@ -186,6 +187,7 @@ If not rolling for damage, the player will use their MIGHT/INSIGHT as a bonus.
 ### Optional Rule
 
 PC can roll for damage instead of automatically doing damage. They will use the damage bonus instead of the attribute points.
+> Designer
 
 ## Damage Bonuses
 
