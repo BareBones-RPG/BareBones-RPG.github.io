@@ -103,7 +103,8 @@ Enemies can move and attack or take cover. When attacking, the player must make 
 
 Players and NPCs about to be attacked will roll Mobility save against an upcoming attack.
 
-- If the defender rolls a 6, they can avoid the attack and make a counterattack.
+- If the defender rolls a 6, they can avoid the attack and make a free atack. This is not a critical attack.
+  >  
 - On a 5, the defender successfully avoids the attack.
 - On 4- roll the player will be hit and will need to roll for damage reduction depending on what armor they are wearing. 
 - If the defender rolls a 1, the attacker does a critical hit. A critical hit deals double the damage depending on what they are wearing. This will decrease the armor’s quality until is broken.
@@ -131,12 +132,14 @@ In scenarios where a player encounters interference during a check, the rolling 
 
 BareBones uses **Boost and Burden** . 
 
-- Boost is a +1 point die towards the attribute, increasing the number of dice that can be rolled on that turn.
-- A Burden imposes a -1 penalty die on a player's roll, depending on what they are wearing or facing a creature's ability.
+- A Boost is a +1 die towards the attribute, increasing the number of dice that can be rolled on that turn.
+- A Burden imposes a -1 penalty die on a player's roll, depending on what they are wearing and facing a creature's abilities.
 
 ### Two-Weapon Fighter Rules:
 
-A player who creates a two-weapon fighter will follow the Burden rule. The dominant hand will always roll with all attributes with no Burden. When attacking with the non-dominant hand, the player will roll with a Burden, losing 1 point from their MIGHT or INSIGHT if they use a small-range weapon on each hand.
+A player who creates a two-weapon fighter will follow the Burden rule. 
+- The dominant hand will always roll with all attributes with no Burden.
+- When attacking with the non-dominant hand, the player will roll with a Burden for their non-dominant hand attack, this can be MIGHT or INSIGHT depending on the type of weapon.
 
 ## Burn Mechanic
 
@@ -156,9 +159,9 @@ Players can use their attributes to push their limit once a session using the bu
 ## Death
 
 BareBones is a dangerous game for PCs, with death being a possible outcome at the table. 0 means you are dying. 
-- A player can do an epic attack and automatically die after the epic attack.
+- The down player can do an epic attack and automatically die after the epic attack.
 - Or GM or Player can roll a death timer by rolling a d3. At the moment, the player goes over the x amount of rounds.
--  If the PC is not handled with a medical kit or magic, the PC will roll a Saved By a Bone (Death Save).
+- If the PC is not handled with a medical kit or magic, the PC will roll a Saved By a Bone (Death Save).
 
 ## Saved By A Bone
 
