@@ -213,7 +213,7 @@ When players are in a somewhat safe area, with no active encounter:
 
 ## BareBones Spell Casting
 
-Magic is accessible to anyone with points in their Essence attribute. To cast a spell, roll your Essence attribute; if you roll a 5 or 6, the spell will take effect. However, be cautious of those fumble rolls, as they may have unintended consequences for the spell-caster. If player fails to cast their spell, the gm can afflict damage or make the pressence of the players known to the guards or monsters. Keep in mind that magic is dangerous! Only a _**brave or a foolish**_ soul may try this mysterious arcane power without considering its effects or repercussions.
+Magic is accessible to anyone with points in their Essence attribute. To cast a spell, roll your Essence attribute; if you roll a 5 or 6, the spell will take effect. However, be cautious of those fumble rolls, as they may have unintended consequences for the spell-caster. If player fails to cast their spell, the gm can afflict damage or make the pressence of the players known to the guards or monsters. Keep in mind that magic is dangerous! Only a _**brave or a foolish**_ soul may try this mysterious arcane power without considering its effects or repercussions. **Magic-User** will roll **_d3+Essence_** every morning to find out how many times they can cast their spells. 
 
 The GM may allow spells from other OSR books or resources. Conversion will be necessary to align with the mechanics of BareBones RPG.
 
