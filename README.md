@@ -187,7 +187,10 @@ If not rolling for damage, the player will use their MIGHT/INSIGHT as a bonus.
 ### Optional Rule
 
 PC can roll for damage instead of automatically doing damage. They will use the damage bonus instead of the attribute points.
-> Designer
+> **Designer Notes:**
+> - This is up to the GM and his player. Some players will like the automatic or rolling damage. This is up to the group.
+> - You can use the weapon tag for both type of gameplay.  
+ 
 
 ## Damage Bonuses
 
