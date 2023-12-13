@@ -126,7 +126,7 @@ In BareBones RPG, players and enemies may roll more than 1 die. Success and fail
 In cases where a player receives aid during a check, the rolling player gains a **+1 bonus** for each player who helps. This bonus can turn a roll of 4 into a successful roll of 5 with the help of additional players.
 > **Designer's Note:**
 > - If this is a **social encounter** the GM or Player will roll a d6 for **NPC's Reaction** and add (+1 **per players who are aiding**)
-> - If this is during **combat** and **Check** rolls the player the player will have to discuss how this will work with the GM and the GM will decide if this aid makes sense and the GM can allow the +1 **bonus towards** their roll.
+> - If this is during a **combat** and a **Check** roll the player will have to discuss how they will aid the player who is about to roll and the GM will decide if this aid makes sense and the GM can allow the +1 **bonus towards** their roll.
 
 ### Interfering
 
