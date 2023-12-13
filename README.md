@@ -188,8 +188,9 @@ If not rolling for damage, the player will use their MIGHT/INSIGHT as a bonus.
 
 PC can roll for damage instead of automatically doing damage. They will use the damage bonus instead of the attribute points.
 > **Designer Notes:**
-> - This is up to the GM and his player. Some players will like the automatic or rolling damage. This is up to the group.
-> - You can use the weapon tag for both type of gameplay.  
+> - This is up to the GM and their players. Some players will like the automatic or rolling damage.
+> - I would have this conversation before starting the game. If is a group of new players whom they never played TTRPG go with automatic, or if they like rolling for damage try it and adapt the game according to the style of the table.
+> - Or the GM can run a more lethal game, rolling damage and automatically hitting the enemy. However, the crit or fumble will happen when rolling for the attack. If you go down this path... remember, the player will still roll for mobility save and will not roll for Attack (to hit).
  
 
 ## Damage Bonuses
