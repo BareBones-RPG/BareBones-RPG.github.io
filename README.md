@@ -1,5 +1,3 @@
-# BareBones TTRPG
-
 **The Full text is licensed under** [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/)
 Written by [Victor Gregory Matos](https://thevikkodamus.bearblog.dev) (_TheVikkodamus_)
 
@@ -514,6 +512,6 @@ This rule operates similarly to Critical or Fumble rules. When rolling dice for 
 |  65  | Elemental Fusion: Caster fuses briefly with an elemental, gaining new abilities. |
 |  66  | Reality Shatter: A localized distortion briefly rends the fabric of reality. |
 
-![](https://storage.ko-fi.com/cdn/kofi2.png)](https://ko-fi.com/U7U3S994D)
+![[](https://storage.ko-fi.com/cdn/kofi2.png)](https://ko-fi.com/U7U3S994D)
 
 #### BareBones RPG is licensed under the [CC by 4.0](https://creativecommons.org/licenses/by/4.0/) Written by [Victor Gregory Matos](https://thevikkodamus.bearblog.dev) (_TheVikkodamus_)
