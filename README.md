@@ -432,7 +432,7 @@ This rule operates similarly to Critical or Fumble rules. When rolling dice for 
 - If there are more 6s than 1s, the roll is considered a success.
 - If there are more 1s than 6s, the roll is ruled a fumble.
 
-**Magic is a perilous power, only to be tampered with by the bravest or most foolish**. The GM can consult the following table when multiple ones are rolled on a single ESSENCE roll. Alternatively, the GM may choose to inflict damage on the spell caster equal to the number of rolled 1s rolled against casting player's Hit Points or Essence.
+**Magic is a perilous power, only to be tampered with by the bravest or most foolish**. The GM can consult the following table when multiple ones are rolled on a single ESSENCE roll. Alternatively, the GM may inflict damage on the spell caster equal to the number of rolled 1s against the casting player's Hit Points or Essence.
 
 | Roll | Spell Mishap                                                 |
 | ---- | ------------------------------------------------------------ |
@@ -459,7 +459,7 @@ This rule operates similarly to Critical or Fumble rules. When rolling dice for 
 | 43   | Ice Patch: Slippery ice forms, causing Dexterity saves or prone status. |
 | 44   | Gravity Well: Increased gravity makes movement difficult for 1d4 rounds. |
 | 45   | Telepathic Link: Caster gains a temporary telepathic link with a random creature for 1d6 minutes. |
-| 46   | Mirror Reflection: Caster's reflection becomes independent and acts on its own for 1d6 rounds. |
+| 46   | Mirror Reflection: Caster's reflection becomes independent and acts independently for 1d6 rounds. |
 | 51   | Magic Dampening: All magic in the area is temporarily suppressed for 1d4 rounds. |
 | 52   | Elemental Convergence: Two random elemental effects occur simultaneously. |
 | 53   | Temporal Stutter: Time briefly stutters, causing a momentary freeze for everyone in the area. |
