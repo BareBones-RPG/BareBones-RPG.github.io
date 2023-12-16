@@ -17,7 +17,7 @@ In **_BareBones RPG_**, players possess _attributes_, each associated with a spe
 
 ### Rolling for Stats
 
-For players who prefer to roll for their stats, they can roll 1d6 and subtract 1d6 to determine their stat results. The stats, in order, are: **MIGHT, MOBILITY, INSIGHT, GRIT, and ESSENCE**. A player cannot roll for a particular save, combat, or check if any stat result is zero. Alternatively, a player may sacrifice an attribute by subtracting 2 points and adding those points to any zero attributes, or they can reroll until they get a result.
+Players who prefer to roll for their stats can roll 1d6 and subtract 1d6 to determine their stat results. The stats, in order, are: **MIGHT, MOBILITY, INSIGHT, GRIT, and ESSENCE**. A player cannot roll for a particular save, combat, or check if any stat result is zero. Alternatively, a player may sacrifice an attribute by subtracting 2 points and adding those points to any zero attributes, or they can reroll until they get a result.
 
 ### Customization Through Attribute Allocation
 
@@ -73,16 +73,16 @@ In a battle encounter, a designated player rolls a die on behalf of their group 
 
 #### Optional Initiative Rule:
 
-Individual initiative can be utilized. Both the enemy and the player will roll a d6 + MOBILITY. The highest roll will determine the winner of the initiative. This roll will occur at the beginning of every turn.
+You can use individual initiative if you like. Both the enemy and the player will roll a d6 + MOBILITY. The highest roll will determine the winner of the initiative. This roll will occur at the beginning of every turn.
 
 #### Optional Initiative Rule:
 
-The GM uses a deck of cards and assigns each player and enemy a card. The turn order is determined by the highest number on the card. 
+The GM uses a deck of cards and assigns each player and enemy a card. The highest number on the card determines the turn order. 
 
 - Royalty to Peasant setting: _**Colored Joker, King, Queen, Jack, 10, 9, 8, 7, 6, 5, 4, 3, 2, Ace and Black and White (B&W) Joker**_.
 
 #### Joker Rules:
-- Colored Joker: If a player or enemy draws a colored Joker, they have the option to go first or choose when they will take their turn.
+- Colored Joker: If a player or enemy draws a colored Joker, they can go first or choose when to take their turn.
 - Black and White Joker: If a player or enemy draws a Black and White Joker, they will always go last.
 
 ### Attack Roll
@@ -90,27 +90,27 @@ The GM uses a deck of cards and assigns each player and enemy a card. The turn o
 It is the player's turn, and they decide to go for an attack, depending on the type of weapon they may hold. They will then roll for their respective Attribute. 
 
 - Anytime a player rolls a 5 or 6, the attack happens.
-- If player rolls a 6, this is a critical hit. The player will do double the damage against enemy. This attack will reduce the enemies armor. The armor will reduce from a d8-d6-d4-d2-0. 
-- A player holds their **action for a round or want to react** to an enemy's action this can bring the success treshold down to **4**, instead of **5-6** in normal circumstances.
+- If a player rolls a 6, this is a critical hit. The player will do double the damage against the enemy. This attack will reduce the enemy's armor. The armor will reduce from a d8-d6-d4-d2-0. 
+- A player holds their **action for a round or wants to react** to an enemy's action. This can reduce the success threshold to **4** instead of **5-6** in normal circumstances.
 
 ### Enemy's Turn
 
 Enemies can move and attack or take cover. When attacking, the player must make a **Mobility Save** roll. 
-- If the PC fails, then the attack occurs and players will **roll damage reduction** if wearing armor. 
+- If the PC fails, the attack occurs, and players will **roll damage reduction** if wearing armor. 
 - **On a roll of 1** with their Mobility Save, the enemy crits their attack against the Player Character and they will **roll damage reduction** if wearing armor. This will reduce the **armor quality**. 
 
 ### Roll a Mobility Save to Dodge an Attack
 
 Players and NPCs about to be attacked will roll Mobility save against an upcoming attack.
 
-- If the defender rolls a 6, they can avoid the attack and make a free atack. This is not a critical attack.
+- If the defender rolls a 6, they can avoid the attack and make a free attack. This is not a critical attack.
   > **Designers' Note:**
-  > - This will count as a regular attack. Criticals only happens when the players does an attack roll. 
+  > - This will count as a regular attack. Criticals only happen when the player does an attack roll. 
 - On a 5, the defender successfully avoids the attack.
-- On 4- roll the player will be hit and will need to roll for damage reduction depending on what armor they are wearing. 
-- If the defender rolls a 1, the attacker does a critical hit. A critical hit deals double the damage depending on what they are wearing. This will decrease the armor’s quality until is broken.
+- On 4- roll, the player will be hit and need to roll for damage reduction depending on their armor. 
+- The attacker does a critical hit if the defender rolls a 1. A critical hit deals double the damage depending on what they are wearing. This will decrease the armor’s quality until is broken.
 
-When the PC holds a shield, they will receive a -1 damage when hit. If the roll ends with multiple 1s, the shield will break. The PC can ignore all damage from one attack but the shield breaks.
+When the PC holds a shield, it will negate a -1 damage when hit. If the roll ends with multiple 1s, the shield will break. The PC can ignore all damage from one attack but the shield breaks.
 
 ### The Rule of Failure and Success Roll with Multiple Dice
 
@@ -126,7 +126,7 @@ In BareBones RPG, players and enemies may roll more than 1 die. Success and fail
 In cases where a player receives aid during a check, the rolling player gains a **+1 bonus** for each player who helps. This bonus can turn a roll of 4 into a successful roll of 5 with the help of additional players.
 > **Designer's Note:**
 > - If this is a **social encounter** the GM or Player will roll a d6 for **NPC's Reaction** and add (+1 **per players who are aiding**)
-> - If this is during a **combat** and a **Check** roll the player will have to discuss how they will aid the player who is about to roll and the GM will decide if this aid makes sense and the GM can allow the +1 **bonus towards** their roll.
+> - If this is during a **combat** and a **Check** roll, the player will have to discuss how they will aid the player who is about to roll and the GM will decide if this aid makes sense and the GM can allow the +1 **bonus towards** their roll.
 
 ### Interfering
 
