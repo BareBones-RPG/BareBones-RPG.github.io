@@ -514,6 +514,6 @@ This rule operates similarly to Critical or Fumble rules. When rolling dice for 
 |  65  | Elemental Fusion: Caster fuses briefly with an elemental, gaining new abilities. |
 |  66  | Reality Shatter: A localized distortion briefly rends the fabric of reality. |
 
-![](https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com)
+![](https://storage.ko-fi.com/cdn/kofi2.png)
 
 #### BareBones RPG is licensed under the [CC by 4.0](https://creativecommons.org/licenses/by/4.0/) Written by [Victor Gregory Matos](https://thevikkodamus.bearblog.dev) (_TheVikkodamus_)
