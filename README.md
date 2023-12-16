@@ -501,7 +501,7 @@ This rule operates similarly to Critical or Fumble rules. When rolling dice for 
 |  44  | Reality Weave: Caster can alter the fabric of reality in a minor way. |
 |  45  | Soundwave Surge: A burst of sound disorients everyone in the vicinity. |
 |  46  | Arcane Echo: The next spell cast has a delayed secondary effect. |
-|  51  | Feywild Glimpse: A brief view of the Feywild enchants the surroundings. |
+|  51  | Fey Plane Glimpse: A brief view of the Fey plane enchants the surroundings. |
 |  52  | Elemental Infusion: Caster's attacks gain elemental damage for a short duration. |
 |  53  | Spatial Displacement: Caster and target swap places unexpectedly. |
 |  54  | Chrono Disturbance: Time becomes difficult to track for a short duration. |
