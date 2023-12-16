@@ -9,7 +9,7 @@ Written by [Victor Gregory Matos](https://thevikkodamus.bearblog.dev) (_TheVikko
 
 #### A fast-paced six-sided dice system for TTRPG with rules and mechanics.
 
-[TOC]
+[Game Mechanics](https://github.com/BareBones-RPG/BareBones-RPG.github.io/blob/main/README.md#game-mechanics)
 
 
 
