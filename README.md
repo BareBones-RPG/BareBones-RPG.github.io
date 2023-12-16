@@ -9,7 +9,7 @@ Written by [Victor Gregory Matos](https://thevikkodamus.bearblog.dev) (_TheVikko
 
 #### A fast-paced six-sided dice system for TTRPG with rules and mechanics.
 
-[Game Mechanics](https://github.com/BareBones-RPG/BareBones-RPG.github.io/blob/main/README.md#game-mechanics)
+[TOC]
 
 
 
@@ -374,7 +374,7 @@ Player can **roll or pick** their spells. Spells from [Knave](https://preview.dr
 | 93   | True Sight          | You see through all nearby illusions.                        |
 | 94   | Upwell              | A spring of seawater appears.                                |
 | 95   | Vision              | You control entirely what a creature sees.                   |
-| 96   | Visual Illusion     | A silent, immobile illusion of your choice appears, up to the size of a bedroom. |
+| 96   | Visual Illusion     | A silent, immobile illusion of your choice appears up to the size of a bedroom. |
 | 97   | Ward                | A silver circle 40ft across appears on the ground. Choose one thing that cannot cross it: Living creatures, dead creatures, projectiles or metal. |
 | 98   | Web                 | Your wrists can shoot thick webbing.                         |
 | 99   | Wizard Mark         | Your finger can shoot a stream of ulfire-colored paint. This paint is only visible to you, and can be seen at any distance, even through solid objects. |
@@ -388,7 +388,7 @@ This rule operates similarly to Critical or Fumble rules. When rolling dice for 
 - If there are more 6s than 1s, the roll is considered a success.
 - If there are more 1s than 6s, the roll is ruled a fumble.
 
-**Magic is a perilous power, only to be tampered with by the bravest or most foolish**. The GM can consult the following table when multiple ones are rolled on a single ESSENCE roll. Alternatively, the GM may choose to inflict damage on the spell caster equal to the number of rolled 1s rolled against casting player's Hit Points or Essence.
+**Magic is a perilous power, only to be tampered with by the bravest or most foolish**. The GM can consult the following table when multiple ones are rolled on a single ESSENCE roll. Alternatively, the GM may inflict damage on the spell caster equal to the number of rolled 1s against the casting player's Hit Points or Essence.
 
 | Roll | Spell Mishap                                                 |
 | ---- | ------------------------------------------------------------ |
@@ -415,7 +415,7 @@ This rule operates similarly to Critical or Fumble rules. When rolling dice for 
 | 43   | Ice Patch: Slippery ice forms, causing Dexterity saves or prone status. |
 | 44   | Gravity Well: Increased gravity makes movement difficult for 1d4 rounds. |
 | 45   | Telepathic Link: Caster gains a temporary telepathic link with a random creature for 1d6 minutes. |
-| 46   | Mirror Reflection: Caster's reflection becomes independent and acts on its own for 1d6 rounds. |
+| 46   | Mirror Reflection: Caster's reflection becomes independent and acts independently for 1d6 rounds. |
 | 51   | Magic Dampening: All magic in the area is temporarily suppressed for 1d4 rounds. |
 | 52   | Elemental Convergence: Two random elemental effects occur simultaneously. |
 | 53   | Temporal Stutter: Time briefly stutters, causing a momentary freeze for everyone in the area. |
@@ -429,16 +429,45 @@ This rule operates similarly to Critical or Fumble rules. When rolling dice for 
 | 65   | Reality Shift: The environment undergoes a temporary surreal transformation. |
 | 66   | Cataclysmic Event: A major magical event occurs, reshaping the surrounding landscape or summoning a powerful entity. |
 
-### Wild Magic Table
+### Wild Magic Table (d66)
 
 | Roll | Wild Magic Effect                                            |
 | :--: | ------------------------------------------------------------ |
-|  1   | Random Elemental Surge (Roll a d4: 1 - Fire, 2 - Ice, 3 - Lightning, 4 - Earth). |
-|  2   | Reality Distortion: Surroundings briefly warp and shift.     |
-|  3   | Teleportation Mishap: Caster teleports to a random location within sight. |
-|  4   | Temporal Anomaly: Time briefly accelerates or slows down.    |
-|  5   | Mirror Image: Illusory duplicates of the caster appear, confusing everyone. |
-|  6   | Arcane Amplification: Caster gains a random minor magical ability for 1d6 rounds. |
-
+|  11  | Random Elemental Surge (Roll a d4: 1 - Fire, 2 - Ice, 3 - Lightning, 4 - Earth). |
+|  12  | Reality Distortion: Surroundings briefly warp and shift.     |
+|  13  | Teleportation Mishap: Caster teleports to a random location within sight. |
+|  14  | Temporal Anomaly: Time briefly accelerates or slows down.    |
+|  15  | Mirror Image: Illusory duplicates of the caster appear, confusing everyone. |
+|  16  | Arcane Amplification: Caster gains a random minor magical ability for 1d6 rounds. |
+|  21  | Invisibility Burst: Caster becomes invisible for a short duration. |
+|  22  | Gravity Flux: Gravity in the area becomes unpredictable, affecting movement. |
+|  23  | Polymorphic Burst: Caster briefly transforms into a random creature. |
+|  24  | Psychic Surge: Everyone in the vicinity hears each other's thoughts. |
+|  25  | Enchanted Echo: The last spell cast is repeated immediately at a random target. |
+|  26  | Colorful Radiance: A dazzling array of colors fills the air, blinding onlookers. |
+|  31  | Elemental Shield: Caster gains resistance to the next damage type they receive. |
+|  32  | Time Loop: The last round of combat repeats as if time rewounds briefly. |
+|  33  | Ethereal Phantoms: Ghostly apparitions appear and whisper cryptic messages. |
+|  34  | Shapeshifter's Gift: Casters can transform into any creature they can imagine. |
+|  35  | Magic Surge: The next magical effect in the area is amplified in power. |
+|  36  | Shadow Veil: The area becomes shrouded in magical darkness for a short duration. |
+|  41  | Telekinetic Fling: Nearby objects are flung into the air and dance around the caster. |
+|  42  | Elemental Imprint: Caster leaves a temporary mark corresponding to their elemental affinity. |
+|  43  | Astral Projection: Caster's consciousness temporarily travels to the Astral Plane. |
+|  44  | Reality Weave: Caster can alter the fabric of reality in a minor way. |
+|  45  | Soundwave Surge: A burst of sound disorients everyone in the vicinity. |
+|  46  | Arcane Echo: The next spell cast has a delayed secondary effect. |
+|  51  | Feywild Glimpse: A brief view of the Feywild enchants the surroundings. |
+|  52  | Elemental Infusion: Caster's attacks gain elemental damage for a short duration. |
+|  53  | Spatial Displacement: Caster and target swap places unexpectedly. |
+|  54  | Chrono Disturbance: Time becomes difficult to track for a short duration. |
+|  55  | Holographic Illusion: Multiple illusory images of the caster appear, confusing enemies. |
+|  56  | Temporal Echo: The caster simultaneously exists in two places. |
+|  61  | Elemental Burst: A wave of energy corresponding to the caster's elemental alignment emanates outward. |
+|  62  | Blinking Shadows: Caster gains the ability to step into the plane of shadows briefly. |
+|  63  | Quantum Flux: Nearby objects briefly exhibit quantum behavior. |
+|  64  | Enchanted Infestation: A harmless but colorful magical effect infests the area. |
+|  65  | Elemental Fusion: Caster fuses briefly with an elemental, gaining new abilities. |
+|  66  | Reality Shatter: A localized distortion briefly rends the fabric of reality. |
 
 #### BareBones RPG is licensed under the [CC by 4.0](https://creativecommons.org/licenses/by/4.0/) Written by [Victor Gregory Matos](https://thevikkodamus.bearblog.dev) (_TheVikkodamus_)
