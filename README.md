@@ -55,7 +55,7 @@ Players will begin with 3 Bones Luck. Bones Luck can help change roll results:
 - _Initiative Roll_
 - _Save by a Bone (Death Save)_
 
-Players can gain Bones Luck with every **fumble roll**. Unless the player uses the fumble as a _hold_ for a **burden roll**.
+Players can gain Bones Luck with every **fumble roll**. Players cannot use BL with fumble roll on a _check, combat, save, and magic_. 
 
 ## Action and Movement
 
