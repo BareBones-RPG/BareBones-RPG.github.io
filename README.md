@@ -410,7 +410,7 @@ This rule operates similarly to Critical or Fumble rules. When rolling dice for 
 
 ### Wild Magic Table
 | Roll | Wild Magic Effect                                 |
-|:------:|---------------------------------------------------|
+|:---:|---|
 | 1    | Random Elemental Surge (Roll a d4: 1 - Fire, 2 - Ice, 3 - Lightning, 4 - Earth).|
 | 2    | Reality Distortion: Surroundings briefly warp and shift.|
 | 3    | Teleportation Mishap: Caster teleports to a random location within sight.|
