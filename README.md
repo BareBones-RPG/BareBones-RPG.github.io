@@ -1,3 +1,5 @@
+# BareBones TTRPG
+
 **The Full text is licensed under** [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/)
 Written by [Victor Gregory Matos](https://thevikkodamus.bearblog.dev) (_TheVikkodamus_)
 
@@ -50,24 +52,21 @@ Written by [Victor Gregory Matos](https://thevikkodamus.bearblog.dev) (_TheVikko
    * [Spell Mishap](#spell-mishap)
       + [Wild Magic Table (d66)](#wild-magic-table-d66)
         
+
 <!-- TOC end -->
 
 
 
-<!-- TOC --><a name="game-mechanics"></a>
 ## Game Mechanics
 
 In **_BareBones RPG_**, players possess _attributes_, each associated with a specific number of **six-sided** dice for actions related to that attribute. Rolling a **5** on a die is a _soft success_, while a roll of **6** is a _critical success_. Any result below **4** is a _soft failure_, and a roll of **1** is a _fumble_, potentially leading to harmful consequences. However, if a player holds their **action for a round or wants to react** to an enemy's action, the success threshold is reduced to **4**, instead of the usual **5-6**.
 
-<!-- TOC --><a name="character-creation"></a>
 ## Character Creation
 
-<!-- TOC --><a name="rolling-for-stats"></a>
 ### Rolling for Stats
 
 Players who prefer to roll for their stats can roll 1d6 and subtract 1d6 to determine their stat results. The stats, in order, are: **MIGHT, MOBILITY, INSIGHT, GRIT, and ESSENCE**. A player cannot roll for a particular save, combat, or check if any stat result is zero. Alternatively, a player may sacrifice an attribute by subtracting 2 points and adding those points to any zero attributes, or they can reroll until they get a result.
 
-<!-- TOC --><a name="customization-through-attribute-allocation"></a>
 ### Customization Through Attribute Allocation
 
 Players begin with 8 points to allocate among their attributes, with each attribute having a minimum value of 1. This system provides the freedom to create a character quickly or collaborate with the game master (GM) for a more tailored character.
@@ -80,27 +79,22 @@ Players begin with 8 points to allocate among their attributes, with each attrib
 - **GRIT** = _Resist Poison/cold/heat, survive falling_
 - **ESSENCE** = _Willpower, using relics/magic weapons, casting spells, rituals_
 
-<!-- TOC --><a name="calculating-hit-points"></a>
 ### Calculating Hit Points
 
 In BareBones, the player will start with _10 + GRIT_ to generate max HP.
 
-<!-- TOC --><a name="optional-rule"></a>
 #### Optional Rule:
 
 GM may allow 13+GRIT for a stronger hero. 
 
-<!-- TOC --><a name="how-much-can-i-hold"></a>
 ### How much can I hold?
 
 The playable character can hold up to 9 + MIGHT slots. Carrying more than they can handle results in being encumbered. The player will move at half their speed, and every roll will be with Burden on their Mobility, check, and defense rolls. Unless they have one, their attribute will go down to zero.
 
-<!-- TOC --><a name="how-much-currency-do-i-start-with"></a>
 ### How Much Currency Do I Start With?
 
 The player will roll **3d6 * 10** (_fantasy setting_) or **3d6 * 100** (_modern setting_) for money, gold, or credit. This currency can be used to purchase their _starting gear, weapon, and armor_.
 
-<!-- TOC --><a name="bones-luck"></a>
 ### Bones Luck
 
 Players will begin with 3 Bones Luck. Bones Luck can help change roll results:
@@ -110,9 +104,8 @@ Players will begin with 3 Bones Luck. Bones Luck can help change roll results:
 - _Initiative Roll_
 - _Save by a Bone (Death Save)_
 
-Players can gain Bones Luck with every **fumble roll**. Players cannot use BL with fumble roll on a _check, combat, save, and magic_. 
+Players can gain Bones Luck with every **fumble roll**. Players cannot use BL with **fumble** roll on a _check, combat, save, and magic_. 
 
-<!-- TOC --><a name="action-and-movement"></a>
 ## Action and Movement
 
 Player's turn: they can move up to 30 feet, attack, defend, or wait for a reaction. If the player uses double movement, they can move up to 60 feet. Then, the player will wait for the next round to attack.
@@ -124,7 +117,6 @@ Player's turn: they can move up to 30 feet, attack, defend, or wait for a reacti
 - _Whenever a player is bitten by something_ or touches something poisonous, the PC will use GRIT to save.
 - _When a player moves and **holds their action**_, they can _lower the success threshold to 4_ due to waiting for that moment to act!
 
-<!-- TOC --><a name="initiative-rules"></a>
 ### Initiative Rules:
 
 In a battle encounter, a designated player rolls a die on behalf of their group to determine the starting order. The player turns to initiate from the left side of the GM and progresses clockwise around the table.
@@ -132,25 +124,21 @@ In a battle encounter, a designated player rolls a die on behalf of their group 
 - 1-3... **Enemies go first**
 - 4-6... **Players go first**
 
-<!-- TOC --><a name="optional-initiative-rule"></a>
 #### Optional Initiative Rule:
 
 You can use individual initiative if you like. Both the enemy and the player will roll a d6 + MOBILITY. The highest roll will determine the winner of the initiative. This roll will occur at the beginning of every turn.
 
-<!-- TOC --><a name="optional-initiative-rule-1"></a>
 #### Optional Initiative Rule:
 
 The GM uses a deck of cards and assigns each player and enemy a card. The highest number on the card determines the turn order. 
 
 - Royalty to Peasant setting: _**Colored Joker, King, Queen, Jack, 10, 9, 8, 7, 6, 5, 4, 3, 2, Ace and Black and White (B&W) Joker**_.
 
-<!-- TOC --><a name="joker-rules"></a>
 #### Joker Rules:
 
 - Colored Joker: If a player or enemy draws a colored Joker, they can go first or choose when to take their turn.
 - Black and White Joker: If a player or enemy draws a Black and White Joker, they will always go last.
 
-<!-- TOC --><a name="attack-roll"></a>
 ### Attack Roll
 
 It is the player's turn, and they decide to go for an attack, depending on the type of weapon they may hold. They will then roll for their respective Attribute. 
@@ -159,7 +147,6 @@ It is the player's turn, and they decide to go for an attack, depending on the t
 - If a player rolls a 6, this is a critical hit. The player will do double the damage against the enemy. This attack will reduce the enemy's armor. The armor will reduce from a d8-d6-d4-d2-0. 
 - A player holds their **action for a round or wants to react** to an enemy's action. This can reduce the success threshold to **4** instead of **5-6** in normal circumstances.
 
-<!-- TOC --><a name="enemys-turn"></a>
 ### Enemy's Turn
 
 Enemies can move and attack or take cover. When attacking, the player must make a **Mobility Save** roll. 
@@ -167,7 +154,6 @@ Enemies can move and attack or take cover. When attacking, the player must make 
 - If the PC fails, the attack occurs, and players will **roll damage reduction** if wearing armor. 
 - **On a roll of 1** with their Mobility Save, the enemy crits their attack against the Player Character and they will **roll damage reduction** if wearing armor. This will reduce the **armor quality**. 
 
-<!-- TOC --><a name="roll-a-mobility-save-to-dodge-an-attack"></a>
 ### Roll a Mobility Save to Dodge an Attack
 
 Players and NPCs about to be attacked will roll Mobility save against an upcoming attack.
@@ -186,7 +172,6 @@ Players and NPCs about to be attacked will roll Mobility save against an upcomin
 
 When the PC holds a shield, it will negate a -1 damage when hit. If the roll ends with multiple 1s, the shield will break. The PC can ignore all damage from one attack but the shield breaks.
 
-<!-- TOC --><a name="the-rule-of-failure-and-success-roll-with-multiple-dice"></a>
 ### The Rule of Failure and Success Roll with Multiple Dice
 
 In BareBones RPG, players and enemies may roll more than 1 die. Success and failure rolls will differ in combat whenever multiple dice are rolled.
@@ -194,10 +179,8 @@ In BareBones RPG, players and enemies may roll more than 1 die. Success and fail
 - If 1s and 6s are rolled together, if there are more 6s than 1s, it is ruled a success.
 - If there are more 1s than 6s on the single roll, it is ruled a fumble. This also applies to Spell Mishap.
 
-<!-- TOC --><a name="aiding-or-interfering"></a>
 ## Aiding or Interfering
 
-<!-- TOC --><a name="aiding"></a>
 ### Aiding
 
 In cases where a player receives aid during a check, the rolling player gains a **+1 bonus** for each player who helps. This bonus can turn a roll of 4 into a successful roll of 5 with the help of additional players.
@@ -207,13 +190,11 @@ In cases where a player receives aid during a check, the rolling player gains a 
 > - If this is a **social encounter** the GM or Player will roll a d6 for **NPC's Reaction** and add (+1 **per players who are aiding**)
 > - If this is during a **combat** and a **Check** roll, the player will have to discuss how they will aid the player who is about to roll and the GM will decide if this aid makes sense and the GM can allow the +1 **bonus towards** their roll.
 
-<!-- TOC --><a name="interfering"></a>
 ### Interfering
 
 In scenarios where a player encounters interference during a check, the rolling player incurs a **-1 penalty** for each interfering player. This penalty can result in a successful roll of 5 turning into an unsuccessful roll of 4 due to the presence of interfering players.
 
 
-<!-- TOC --><a name="a-boost-and-burden-roll"></a>
 ## A Boost and Burden Roll
 
 _BareBones_ uses **Boost and Burden** . 
@@ -221,7 +202,6 @@ _BareBones_ uses **Boost and Burden** .
 - A **Boost** is a +1 die towards the attribute, increasing the number of dice that can be rolled on that turn.
 - A **Burden** imposes a -1 penalty die on a player's roll, depending on what they are wearing and facing a creature's abilities.
 
-<!-- TOC --><a name="two-weapon-fighter-rules"></a>
 ### Two-Weapon Fighter Rules:
 
 A player who creates a two-weapon fighter will follow the Burden rule. 
@@ -229,25 +209,21 @@ A player who creates a two-weapon fighter will follow the Burden rule.
 - The dominant hand will always roll with all attributes with no Burden.
 - When attacking with the non-dominant hand, the player will roll with a Burden for their non-dominant hand attack, this can be MIGHT or INSIGHT depending on the type of weapon.
 
-<!-- TOC --><a name="burn-mechanic"></a>
 ## Burn Mechanic
 
 Players can use their attributes to push their limit once a session using the burn action with the chosen attribute. Burn mechanics should only be used when the player succeeds in their roll. Players who critically fumble a roll cannot use the burn mechanic. The PC will not lose an Attribute point for the first time using Burn. However, if the player uses burn on the same attribute the second time, the player will lose 1 point. The third time, with the same attribute, the player will lose 2 points. They can recover their points while holding a critical success role or taking a few days to rest.
 
-<!-- TOC --><a name="declare-with-success"></a>
 ## Declare with Success
 
 - **MIGHT:** Attribute can increase damage to MIGHT*2.
 - **MOBILITY:** Attribute can be used to counterattack the enemy automatically.
 - **INSIGHT:** Attribute can be burnt to boost your following action, like finding an enemy's weak point while aiming or outsmarting a person with charm.
 
-<!-- TOC --><a name="declare-and-shall-receive"></a>
 ## Declare and Shall Receive
 
 - **GRIT:** Attribute can be used to cut half of the damage automatically.
 - **ESSENCE:** Exponentially increases the target number, zone/area, damage, or healing done by magic.
 
-<!-- TOC --><a name="death"></a>
 ## Death
 
 BareBones is a dangerous game for PCs, with death being a possible outcome at the table. 0 means you are dying. 
@@ -256,7 +232,6 @@ BareBones is a dangerous game for PCs, with death being a possible outcome at th
 - Or GM or Player can roll a death timer by rolling a d3. At the moment, the player goes over the x amount of rounds.
 - If the PC is not handled with a medical kit or magic, the PC will roll a Saved By a Bone (Death Save).
 
-<!-- TOC --><a name="saved-by-a-bone"></a>
 ## Saved By A Bone
 
 A player may roll a Saved by a Bone. This is our death save. 
@@ -266,7 +241,6 @@ A player may roll a Saved by a Bone. This is our death save.
 - 5 they save. 5 the PC will get up with (x) amount GRIT as their HP.
 - 6 the PC will get (x)*2 GRIT as their HP.
 
-<!-- TOC --><a name="weapon-tag"></a>
 ## Weapon Tag
 
 - **Small:** Takes 1 slot and does 1 dmg + (MIGHT/INSIGHT)
@@ -275,7 +249,6 @@ A player may roll a Saved by a Bone. This is our death save.
 
 If not rolling for damage, the player will use their MIGHT/INSIGHT as a bonus.
 
-<!-- TOC --><a name="optional-rule-1"></a>
 ### Optional Rule
 
 PC can roll for damage instead of automatically doing damage. They will use the damage bonus instead of the attribute points.
@@ -285,7 +258,6 @@ PC can roll for damage instead of automatically doing damage. They will use the 
 > - This is up to the GM and their players. Some players will like the automatic or rolling damage.
 > - I would have this conversation before starting the game. If is a group of new players whom they never played TTRPG go with automatic, or if they like rolling for damage try it and adapt the game according to the style of the table.
 
-<!-- TOC --><a name="damage-bonuses"></a>
 ## Damage Bonuses
 
 - Small weapons: Roll 2d6 **lowest result**, then add damage bonus
@@ -301,7 +273,6 @@ The PC damage bonus will be half of their attributes rounded down.
 - 5 points in attributes = **2 bonus**
 - 6 points in attributes = **3 bonus**
 
-<!-- TOC --><a name="resting"></a>
 ## Resting
 
 When players are in a somewhat safe area, with no active encounter:
@@ -309,7 +280,6 @@ When players are in a somewhat safe area, with no active encounter:
 - The players can recover **1d6+GRIT** health and regain Bones Luck to three. Players need to rest in a safe place with uninterrupted sleep whenever they eat a ration.
 - The players can eat rations and use their waterskin; this is taking a breather before going forward to their next stop. A player must declare a **Breather**; this way, the GM can allow the players to use their rations with a short rest. When the PCs do this, they can roll 1d3+GRIT health and will not recover Bones Luck.
 
-<!-- TOC --><a name="weapons-and-gear"></a>
 ## Weapons and Gear
 
 - **Battle Axe:** 7 GP, 3 quality, 3 slots, close, great, slashing damage, slow
@@ -334,7 +304,6 @@ When players are in a somewhat safe area, with no active encounter:
 - **Sword, two-handed:** 15 GP, 3 quality, 3 slots, close, medium, slashing damage
 - **Warhammer:** 5 GP, 3 quality, 2 slots, blunt damage, close, medium
 
-<!-- TOC --><a name="armor"></a>
 ## Armor
 
 - **Chain Mail:** While wearing this armor, the player will roll with burden against **Attack, Acrobatic & Stealth checks** and a **boost** towards Mobility Save. Cost: _30 GP, 5 Quality, 3 Slots_, -d3 _damage reduction_ when hit.
@@ -342,14 +311,12 @@ When players are in a somewhat safe area, with no active encounter:
 - **Plate Mail:** While wearing this armor, the player will roll with burden against **Attack, Acrobatic, and stealth checks** and a **boost** on Mobility Save rolls. Cost: _60 GP, 7 Quality, 5 slots_, -d6 _damage reduction_ when hit. 
 - **Shield:** Cost 10 gp **-1 damage** when being held, _1 quality, 1 slot_. The PC can ignore all damage from one attack but the shield breaks.
 
-<!-- TOC --><a name="barebones-spell-casting"></a>
 ## BareBones Spell Casting
 
 Magic is accessible to anyone with points in their Essence attribute. To cast a spell, roll your Essence attribute; if you roll a 5 or 6, the spell will take effect. However, be cautious of those fumble rolls, as they may have unintended consequences for the spell-caster. If player fails to cast their spell, the gm can afflict damage or make the pressence of the players known to the guards or monsters. Keep in mind that magic is dangerous! Only a _**brave or a foolish**_ soul may try this mysterious arcane power without considering its effects or repercussions. **Magic-User** will roll **_d3+Essence_** every morning to determine how many times they can cast their spells. 
 
 The GM may allow spells from other OSR books or resources. Conversion will be necessary to align with the mechanics of BareBones RPG.
 
-<!-- TOC --><a name="100-level-less-spells"></a>
 # 100 Level-Less Spells
 
 Player can **roll or pick** their spells. Spells from [Knave](https://preview.drivethrurpg.com/en/product/250888/Knave) by _Ben Milton_.
@@ -458,7 +425,6 @@ Player can **roll or pick** their spells. Spells from [Knave](https://preview.dr
 | 100  | X-Ray Vision        | You gain X-Ray vision.                                       |
 
 
-<!-- TOC --><a name="spell-mishap"></a>
 ## Spell Mishap
 
 This rule operates similarly to Critical or Fumble rules. When rolling dice for an ESSENCE check, if both 1s and 6s appear on the same roll, the outcome is determined as follows:
@@ -507,7 +473,6 @@ This rule operates similarly to Critical or Fumble rules. When rolling dice for 
 | 65   | Reality Shift: The environment undergoes a temporary surreal transformation. |
 | 66   | Cataclysmic Event: A major magical event occurs, reshaping the surrounding landscape or summoning a powerful entity. |
 
-<!-- TOC --><a name="wild-magic-table-d66"></a>
 ### Wild Magic Table (d66)
 
 | Roll | Wild Magic Effect                                            |
@@ -522,14 +487,14 @@ This rule operates similarly to Critical or Fumble rules. When rolling dice for 
 |  22  | Gravity Flux: Gravity in the area becomes unpredictable, affecting movement. |
 |  23  | Polymorphic Burst: Caster briefly transforms into a random creature. |
 |  24  | Psychic Surge: Everyone in the vicinity hears each other's thoughts. |
-|  25  | Enchanted Echo: Last spell cast is repeated immediately at a random target. |
+|  25  | Enchanted Echo: The last spell cast is repeated immediately at a random target. |
 |  26  | Colorful Radiance: A dazzling array of colors fills the air, blinding onlookers. |
 |  31  | Elemental Shield: Caster gains resistance to the next damage type they receive. |
-|  32  | Time Loop: The last round of combat repeats, as if time rewound briefly. |
+|  32  | Time Loop: The last round of combat repeats as if time rewounds briefly. |
 |  33  | Ethereal Phantoms: Ghostly apparitions appear and whisper cryptic messages. |
-|  34  | Shapeshifter's Gift: Caster can transform into any creature they can imagine. |
+|  34  | Shapeshifter's Gift: Casters can transform into any creature they can imagine. |
 |  35  | Magic Surge: The next magical effect in the area is amplified in power. |
-|  36  | Shadow Veil: Area becomes shrouded in magical darkness for a short duration. |
+|  36  | Shadow Veil: The area becomes shrouded in magical darkness for a short duration. |
 |  41  | Telekinetic Fling: Nearby objects are flung into the air and dance around the caster. |
 |  42  | Elemental Imprint: Caster leaves a temporary mark corresponding to their elemental affinity. |
 |  43  | Astral Projection: Caster's consciousness temporarily travels to the Astral Plane. |
@@ -541,12 +506,13 @@ This rule operates similarly to Critical or Fumble rules. When rolling dice for 
 |  53  | Spatial Displacement: Caster and target swap places unexpectedly. |
 |  54  | Chrono Disturbance: Time becomes difficult to track for a short duration. |
 |  55  | Holographic Illusion: Multiple illusory images of the caster appear, confusing enemies. |
-|  56  | Temporal Echo: The caster temporarily exists in two places at once. |
+|  56  | Temporal Echo: The caster simultaneously exists in two places. |
 |  61  | Elemental Burst: A wave of energy corresponding to the caster's elemental alignment emanates outward. 
-|  62  | Blinking Shadows: Caster gains the ability to briefly step into the Shadowfell. |
+|  62  | Blinking Shadows: Caster gains the ability to step briefly into the plane of shadows. |
 |  63  | Quantum Flux: Nearby objects briefly exhibit quantum behavior. |
 |  64  | Enchanted Infestation: A harmless but colorful magical effect infests the area. |
 |  65  | Elemental Fusion: Caster fuses briefly with an elemental, gaining new abilities. |
 |  66  | Reality Shatter: A localized distortion briefly rends the fabric of reality. |
+
 
 #### BareBones RPG is licensed under the [CC by 4.0](https://creativecommons.org/licenses/by/4.0/) Written by [Victor Gregory Matos](https://thevikkodamus.bearblog.dev) (_TheVikkodamus_)
