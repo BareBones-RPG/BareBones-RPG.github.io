@@ -49,8 +49,7 @@ Written by [Victor Gregory Matos](https://thevikkodamus.bearblog.dev) (_TheVikko
 - [100 Level-Less Spells](#100-level-less-spells)
    * [Spell Mishap](#spell-mishap)
       + [Wild Magic Table (d66)](#wild-magic-table-d66)
-         - [BareBones RPG is licensed under the CC by 4.0 Written by Victor Gregory Matos (_TheVikkodamus_)](#barebones-rpg-is-licensed-under-the-cc-by-40-written-by-victor-gregory-matos-_thevikkodamus_)
-
+        
 <!-- TOC end -->
 
 
@@ -550,5 +549,4 @@ This rule operates similarly to Critical or Fumble rules. When rolling dice for 
 |  65  | Elemental Fusion: Caster fuses briefly with an elemental, gaining new abilities. |
 |  66  | Reality Shatter: A localized distortion briefly rends the fabric of reality. |
 
-<!-- TOC --><a name="barebones-rpg-is-licensed-under-the-cc-by-40-written-by-victor-gregory-matos-_thevikkodamus_"></a>
 #### BareBones RPG is licensed under the [CC by 4.0](https://creativecommons.org/licenses/by/4.0/) Written by [Victor Gregory Matos](https://thevikkodamus.bearblog.dev) (_TheVikkodamus_)
