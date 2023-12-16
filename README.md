@@ -35,7 +35,8 @@ Players begin with 8 points to allocate among their attributes, with each attrib
 
 In BareBones, the player will start with _10 + GRIT_ to generate max HP.
 
-**Optional Rule:**
+#### Optional Rule:
+
 GM may allow 13+GRIT for a stronger hero. 
 
 ### How much can I hold?
