@@ -35,6 +35,9 @@ Players begin with 8 points to allocate among their attributes, with each attrib
 
 In BareBones, the player will start with _10 + GRIT_ to generate max HP.
 
+**Optional Rule:**
+GM may allow 13+GRIT for a stronger hero. 
+
 ### How much can I hold?
 
 The playable character can hold up to 9 + MIGHT slots. Carrying more than they can handle results in being encumbered. The player will move at half their speed, and every roll will be with Burden on their Mobility, check, and defense rolls. Unless they have one, their attribute will go down to zero.
