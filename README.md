@@ -53,7 +53,13 @@ Written by [Victor Gregory Matos](https://thevikkodamus.bearblog.dev) (_TheVikko
 
 <!-- TOC end -->
 
+## You Will Need...
 
+- 3 to 6 players, with one acting as the Game Master, Facilitator, or Referee.
+- Pencil
+- Barebones RPG's Character Sheet
+- At least 3 to 6 six-sided dice.
+- Tokens or figures to represent playable characters.
 
 ## Game Mechanics
 
