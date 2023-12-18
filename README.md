@@ -103,7 +103,7 @@ In BareBones, the player will start with _10 + GRIT_ to generate max HP.
 
 #### Optional Rule:
 
-GM may allow 13+GRIT for a stronger hero. 
+GM may allow _13+GRIT_ for a stronger hero. 
 
 ### How much can I hold?
 
