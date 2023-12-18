@@ -115,7 +115,7 @@ The player will roll **3d6 * 10** (_fantasy setting_) or **3d6 * 100** (_modern 
 
 ### Bones Luck
 
-Players will begin with 3 Bones Luck. Bones Luck can help change roll results:
+Players will begin with **3 Bones Luck**. Bones Luck can help change roll results:
 
 - _Combat Roll_
 - _Mobility Save_
