@@ -162,7 +162,7 @@ The GM uses a deck of cards and assigns each player and enemy a card. The highes
 It is the player's turn, and they decide to go for an attack, depending on the type of weapon they may hold. They will then roll for their respective Attribute. 
 
 - Anytime a player rolls a 5 or 6, the attack happens.
-- If a player rolls a 6, this is a critical hit. The player will do double the damage against the enemy. This attack will reduce the enemy's armor. The armor will reduce from a d8-d6-d4-d2-0. 
+- If a player rolls a 6, this is a critical hit. The player will do double the damage against the enemy. This attack will reduce the enemy's armor. The armor will reduce from a d8 >> d6 >> d4 >> d2 >> 0. 
 - A player holds their **action for a round or wants to react** to an enemy's action. This can reduce the success threshold to **4** instead of **5-6** in normal circumstances.
 
 ### Enemy's Turn
