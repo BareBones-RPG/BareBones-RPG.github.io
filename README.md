@@ -69,13 +69,13 @@ Using a **Standard Six-sided Die** (1d6):
 
 Roll a standard six-sided die (1d6). Divide the result by 2, rounding up if necessary.
 Assign the rounded result to the corresponding stat in the order: **MIGHT, MOBILITY, INSIGHT, GRIT, and ESSENCE**.
-> Example: Roll a D6 and get a 4. Divide 4 by 2 to get a result of 2 (rounded up), assigning it to the relevant stat.
-> Note: If you are new to this, remember that a standard six-sided die is commonly referred to as a D6.
+> **Example:** Roll a _D6_ and get a 4. Divide 4 by 2 to get a result of 2 (rounded up), assigning it to the relevant stat.
+> **Note:** If you are new to this, remember that a standard six-sided die is commonly referred to as a D6.
 
 ### For Dice Enthusiasts (Dice Goblins) with a Three-sided Die (1d3):
 
 Use a three-sided die (1d3) for a straight roll down in order for **Might, Mobility, Insight, Grit, and Essence.**
-> Example: Roll the three-sided die five times, assigning each result in order to the corresponding stat.
+> **Example:** Roll the three-sided die five times, assigning each result in order to the corresponding stat.
 
 ### Customization Through Attribute Allocation
 
