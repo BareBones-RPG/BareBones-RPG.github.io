@@ -63,7 +63,19 @@ In **_BareBones RPG_**, players possess _attributes_, each associated with a spe
 
 ### Rolling for Stats
 
-Players who prefer to roll for their stats can roll 1d6 and subtract 1d6 to determine their stat results. The stats, in order, are: **MIGHT, MOBILITY, INSIGHT, GRIT, and ESSENCE**. A player cannot roll for a particular save, combat, or check if any stat result is zero. Alternatively, a player may sacrifice an attribute by subtracting 2 points and adding those points to any zero attributes, or they can reroll until they get a result.
+For players who enjoy rolling for their stats, there are two options:
+
+Using a **Standard Six-sided Die** (1d6):
+
+Roll a standard six-sided die (1d6). Divide the result by 2, rounding up if necessary.
+Assign the rounded result to the corresponding stat in the order: **MIGHT, MOBILITY, INSIGHT, GRIT, and ESSENCE**.
+> Example: Roll a D6 and get a 4. Divide 4 by 2 to get a result of 2 (rounded up), assigning it to the relevant stat.
+> Note: If you are new to this, remember that a standard six-sided die is commonly referred to as a D6.
+
+### For Dice Enthusiasts (Dice Goblins) with a Three-sided Die (1d3):
+
+Use a three-sided die (1d3) for a straight roll down in order for **Might, Mobility, Insight, Grit, and Essence.**
+> Example: Roll the three-sided die five times, assigning each result in order to the corresponding stat.
 
 ### Customization Through Attribute Allocation
 
