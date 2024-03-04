@@ -58,10 +58,11 @@ Written by [Victor Gregory Matos](https://thevikkodamus.bearblog.dev) (_TheVikko
 ## You Will Need...
 
 - 3 to 6 players, with one acting as the Game Master, Facilitator, or Referee.
-- Pencil
+- Pencil.
 - Barebones RPG's Character Sheet
 - At least 3 to 6 six-sided dice.
 - Tokens or figures to represent playable characters.
+- Your Imagination.
 
 ## Game Mechanics
 
@@ -87,7 +88,16 @@ Use a three-sided die (1d3) for a straight roll down in order for **Might, Mobil
 
 ### Customization Through Attribute Allocation
 
-Players begin with 8 points to allocate among their attributes, with each attribute having a minimum value of 1. This system provides the freedom to create a character quickly or collaborate with the game master (GM) for a more tailored character.
+Players begin with 10 or 12 points to allocate among their attributes, with each attribute having a minimum value of 1. This system provides the freedom to create a character quickly or collaborate with the game master (GM) for a more tailored character.
+
+### Playable Backgrounds
+
+Players will provide background information for their playable characters. When a situation arises and they engage in a conversation with the referee to convince him or her that their background applies to the roll, the referee can award them a boost for that roll.
+
+**Example:**
+Player: "My character, Marcus, grew up in the wilderness and learned survival skills from his father, who was a skilled hunter. So, when we're tracking this elusive creature through the forest, I think Marcus would have a boost due to having hunter in his background if I follow its tracks."
+
+Referee: "Hmm, that makes sense. Alright, I'll give you a boost on your tracking roll."
 
 **BareBones Attributes:**
 
