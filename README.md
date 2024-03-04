@@ -19,7 +19,6 @@ Written by [Victor Gregory Matos](https://thevikkodamus.bearblog.dev) (_TheVikko
 ## Table of Content
 <!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
 
-   * [You Will Need...](#you-will-need)
    * [Game Mechanics](#game-mechanics)
    * [Character Creation](#character-creation)
       + [Rolling for Stats](#rolling-for-stats)
@@ -64,7 +63,8 @@ Written by [Victor Gregory Matos](https://thevikkodamus.bearblog.dev) (_TheVikko
 
 ## Game Mechanics
 
-In **_BareBones RPG_**, players possess _attributes_, each associated with a specific number of **six-sided** dice for actions related to that attribute. Rolling a **5** on a die is a _soft success_, while a roll of **6** is a _critical success_. Any result below **4** is a _soft failure_, and a roll of **1** is a _fumble_, potentially leading to harmful consequences. However, if a player holds their **action for a round or wants to react** to an enemy's action, the success threshold is reduced to **4**, instead of the usual **5-6**.
+In **_BareBones RPG_**, players possess _attributes_, each associated with a specific number of **six-sided** dice for actions related to that attribute. Rolling a **5** on a die is a _soft success_, while a roll of **6** is a _critical success_. Any result below **4** is a _soft failure_, and a roll of **1** is a _fumble_, potentially leading to harmful consequences. However, if a player holds their **action for a round or wants to react** to an enemy's action, the success threshold is reduced to **4**, instead of the usual **5-6**. [Table of Content](#table-of-content)
+
 
 ## Character Creation
 
