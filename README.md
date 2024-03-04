@@ -1,3 +1,21 @@
+**The Full text is licensed under** [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/)
+Written by [Victor Gregory Matos](https://thevikkodamus.bearblog.dev) (_TheVikkodamus_)
+
+**Follow me on**: 
+
+- [X](https://twitter.com/TheVikkodamus)
+- [Mastodon](https://dice.camp/@TheVikkodamus)
+- Got _**Barebones**_ Questions? [Email me](mailto:vikkobarebonesrpg@gmail.com) those questions!
+
+## You Will Need...
+
+- 3 to 6 players, with one acting as the Game Master, Facilitator, or Referee.
+- Pencil.
+- Barebones RPG's Character Sheet
+- At least 3 to 6 six-sided dice.
+- Tokens or figures to represent playable characters.
+- Your Imagination.
+
 <!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
 
    * [You Will Need...](#you-will-need)
@@ -42,25 +60,6 @@
          - [BareBones RPG is licensed under the CC by 4.0 Written by Victor Gregory Matos (_TheVikkodamus_)](#barebones-rpg-is-licensed-under-the-cc-by-40-written-by-victor-gregory-matos-thevikkodamus)
 
 <!-- TOC end -->
-
-**The Full text is licensed under** [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/)
-Written by [Victor Gregory Matos](https://thevikkodamus.bearblog.dev) (_TheVikkodamus_)
-
-**Follow me on**: 
-
-- [X](https://twitter.com/TheVikkodamus)
-- [Mastodon](https://dice.camp/@TheVikkodamus)
-- Got _**Barebones**_ Questions? [Email me](mailto:vikkobarebonesrpg@gmail.com) those questions!
-
-
-## You Will Need...
-
-- 3 to 6 players, with one acting as the Game Master, Facilitator, or Referee.
-- Pencil.
-- Barebones RPG's Character Sheet
-- At least 3 to 6 six-sided dice.
-- Tokens or figures to represent playable characters.
-- Your Imagination.
 
 ## Game Mechanics
 
