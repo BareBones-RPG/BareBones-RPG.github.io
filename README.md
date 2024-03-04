@@ -43,8 +43,9 @@ Written by [Victor Gregory Matos](https://thevikkodamus.bearblog.dev) (_TheVikko
    * [A Boost and Burden Roll](#a-boost-and-burden-roll)
       + [Two-Weapon Fighter Rules:](#two-weapon-fighter-rules)
    * [Burn Mechanic](#burn-mechanic)
-   * [Declare with Success](#declare-with-success)
-   * [Declare and Shall Receive](#declare-and-shall-receive)
+       + [Declare with Success](#declare-with-success)
+       + [Declare and Shall Receive](#declare-and-shall-receive)
+   * [Advancement](#advancement)
    * [Death](#death)
    * [Saved By A Bone](#saved-by-a-bone)
    * [Weapon Tag](#weapon-tag)
@@ -253,18 +254,24 @@ A player who creates a two-weapon fighter will follow the Burden rule.
 Players can use their attributes to push their limit once a session using the burn action with the chosen attribute. Burn mechanics should only be used when the player succeeds in their roll. Players who critically fumble a roll cannot use the burn mechanic. The PC will not lose an Attribute point for the first time using Burn. However, if the player uses burn on the same attribute the second time, the player will lose 1 point. The third time, with the same attribute, the player will lose 2 points. They can recover their points while holding a critical success role or taking a few days to rest.
 - [Back to Table of Content](#table-of-content)
 
-## Declare with Success
+### Declare with Success
 
 - **MIGHT:** Attribute can increase damage to MIGHT*2.
 - **MOBILITY:** Attribute can be used to counterattack the enemy automatically.
 - **INSIGHT:** Attribute can be burnt to boost your following action, like finding an enemy's weak point while aiming or outsmarting a person with charm.
 - [Back to Table of Content](#table-of-content)
 
-## Declare and Shall Receive
+### Declare and Shall Receive
 
 - **GRIT:** Attribute can be used to cut half of the damage automatically.
 - **ESSENCE:** Exponentially increases the target number, zone/area, damage, or healing done by magic.
 - [Back to Table of Content](#table-of-content)
+
+## Advancement:
+Advancement in the BareBones RPG differs from traditional systems. Players (PCs) mark each fumbled roll for their attributes. They should consistently check a box next to the attribute. Once all six boxes are marked, they can add a point to that attribute after training. This advancement can only be completed at the end of the session in a safe location.
+
+- [Back to Table of Content](#table-of-content)
+
 
 ## Death
 
