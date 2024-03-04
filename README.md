@@ -16,6 +16,7 @@ Written by [Victor Gregory Matos](https://thevikkodamus.bearblog.dev) (_TheVikko
 - Tokens or figures to represent playable characters.
 - Your Imagination.
 
+## Table of Content
 <!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
 
    * [You Will Need...](#you-will-need)
