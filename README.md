@@ -25,8 +25,6 @@ Written by [Victor Gregory Matos](https://thevikkodamus.bearblog.dev) (_TheVikko
   * [Action and Movement](#action-and-movement)
     + [Initiative Rules:](#initiative-rules-)
       - [Optional Initiative Rule:](#optional-initiative-rule-)
-      - [Optional Initiative Rule:](#optional-initiative-rule--1)
-      - [Joker Rules:](#joker-rules-)
     + [Attack Roll](#attack-roll)
     + [Enemy's Turn](#enemy-s-turn)
     + [Roll a Mobility Save to Dodge an Attack](#roll-a-mobility-save-to-dodge-an-attack)
@@ -90,15 +88,6 @@ Use a three-sided die (1d3) for a straight roll down in order for **Might, Mobil
 
 Players begin with 10 or 12 points to allocate among their attributes, with each attribute having a minimum value of 1. This system provides the freedom to create a character quickly or collaborate with the game master (GM) for a more tailored character.
 
-### Playable Backgrounds
-
-Players will provide background information for their playable characters. When a situation arises and they engage in a conversation with the referee to convince him or her that their background applies to the roll, the referee can award them a boost for that roll.
-
-**Example:**
-Player: "My character, Marcus, grew up in the wilderness and learned survival skills from his father, who was a skilled hunter. So, when we're tracking this elusive creature through the forest, I think Marcus would have a boost due to having hunter in his background if I follow its tracks."
-
-Referee: "Hmm, that makes sense. Alright, I'll give you a boost on your tracking roll."
-
 **BareBones Attributes:**
 
 - **MIGHT** = _Crush, lift, strike, grapple_
@@ -134,6 +123,15 @@ Players will begin with **3 Bones Luck**. Bones Luck can help change roll result
 
 Players can gain Bones Luck with every **fumble roll**. Players cannot use BL with **fumble** roll on a _check, combat, save, and magic_. 
 
+### Backgrounds
+
+Players will provide background information for their playable characters. When a situation arises and they engage in a conversation with the referee to convince him or her that their background applies to the roll, the referee can award them a boost for that roll.
+
+**Example:**
+Player: "My character, Marcus, grew up in the wilderness and learned survival skills from his father, who was a skilled hunter. So, when we're tracking this elusive creature through the forest, I think Marcus would have a boost due to having hunter in his background if I follow its tracks."
+
+Referee: "Hmm, that makes sense. Alright, I'll give you a boost on your tracking roll."
+
 ## Action and Movement
 
 Player's turn: they can move up to 30 feet, attack, defend, or wait for a reaction. If the player uses double movement, they can move up to 60 feet. Then, the player will wait for the next round to attack.
@@ -155,17 +153,6 @@ In a battle encounter, a designated player rolls a die on behalf of their group 
 #### Optional Initiative Rule:
 
 You can use individual initiative if you like. Both the enemy and the player will roll a d6 + MOBILITY. The highest roll will determine the winner of the initiative. This roll will occur at the beginning of every turn.
-
-#### Optional Initiative Rule:
-
-The GM uses a deck of cards and assigns each player and enemy a card. The highest number on the card determines the turn order. 
-
-- Royalty to Peasant setting: _**Colored Joker, King, Queen, Jack, 10, 9, 8, 7, 6, 5, 4, 3, 2, Ace and Black and White (B&W) Joker**_.
-
-#### Joker Rules:
-
-- Colored Joker: If a player or enemy draws a colored Joker, they can go first or choose when to take their turn.
-- Black and White Joker: If a player or enemy draws a Black and White Joker, they will always go last.
 
 ### Attack Roll
 
