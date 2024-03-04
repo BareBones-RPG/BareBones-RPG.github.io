@@ -80,6 +80,7 @@ Roll a standard six-sided die (1d6). Divide the result by 2, rounding up if nece
 Assign the rounded result to the corresponding stat in the order: **MIGHT, MOBILITY, INSIGHT, GRIT, and ESSENCE**.
 > **Example:** Roll a _D6_ and get a 4. Divide 4 by 2 to get a result of 2 (rounded up), assigning it to the relevant stat.
 > **Note:** If you are new to this, remember that a standard six-sided die is commonly referred to as a D6.
+
 - [Back to Table of Content](#table-of-content)
 
 ### For Dice Enthusiasts (Dice Goblins) with a Three-sided Die (1d3):
@@ -112,6 +113,7 @@ In BareBones, the player will start with _10 + GRIT_ to generate max HP.
 #### Optional Rule:
 
 GM may allow _13+GRIT_ for a stronger hero. 
+
 - [Back to Table of Content](#table-of-content)
 
 ### How much can I hold?
@@ -122,6 +124,7 @@ The playable character can hold up to 9 + MIGHT slots. Carrying more than they c
 ### How Much Currency Do I Start With?
 
 The player will roll **3d6 * 10** (_fantasy setting_) or **3d6 * 100** (_modern setting_) for money, gold, or credit. This currency can be used to purchase their _starting gear, weapon, and armor_.
+
 - [Back to Table of Content](#table-of-content)
 
 ### Bones Luck
@@ -134,6 +137,7 @@ Players will begin with **3 Bones Luck**. Bones Luck can help change roll result
 - _Save by a Bone (Death Save)_
 
 Players can gain Bones Luck with every **fumble roll**. Players cannot use BL with **fumble** roll on a _check, combat, save, and magic_. 
+
 - [Back to Table of Content](#table-of-content)
 
 ### Backgrounds
@@ -144,6 +148,7 @@ Players will provide background information for their playable characters. When 
 Player: "My character, Marcus, grew up in the wilderness and learned survival skills from his father, who was a skilled hunter. So, when we're tracking this elusive creature through the forest, I think Marcus would have a boost due to having hunter in his background if I follow its tracks."
 
 Referee: "Hmm, that makes sense. Alright, I'll give you a boost on your tracking roll."
+
 - [Back to Table of Content](#table-of-content)
 
 ## Action and Movement
@@ -156,6 +161,7 @@ Player's turn: they can move up to 30 feet, attack, defend, or wait for a reacti
 - _Whenever a player casts a spell_, they will use **Essence**.
 - _Whenever a player is bitten by something_ or touches something poisonous, the PC will use GRIT to save.
 - _When a player moves and **holds their action**_, they can _lower the success threshold to 4_ due to waiting for that moment to act!
+
 - [Back to Table of Content](#table-of-content)
 
 ### Initiative Rules:
@@ -178,6 +184,7 @@ It is the player's turn, and they decide to go for an attack, depending on the t
 - Anytime a player rolls a 5 or 6, the attack happens.
 - If a player rolls a 6, this is a critical hit. The player will do double the damage against the enemy. This attack will reduce the enemy's armor. The armor will reduce from a d8 >> d6 >> d4 >> d2 >> 0. 
 - A player holds their **action for a round or wants to react** to an enemy's action. This can reduce the success threshold to **4** instead of **5-6** in normal circumstances. **This only happens during combat.**
+
 - [Back to Table of Content](#table-of-content)
 
 
@@ -187,6 +194,7 @@ Enemies can move and attack or take cover. When attacking, the player must make 
 
 - If the PC fails, the attack occurs, and players will **roll damage reduction** if wearing armor. 
 - **On a roll of 1** with their Mobility Save, the enemy crits their attack against the Player Character and they will **roll damage reduction** if wearing armor. This will reduce the **armor quality**.
+
 - [Back to Table of Content](#table-of-content) 
 
 ### Roll a Mobility Save to Dodge an Attack
@@ -205,7 +213,8 @@ Players and NPCs about to be attacked will roll Mobility save against an upcomin
 
 - The attacker does a critical hit if the defender rolls a 1. A critical hit deals double the damage depending on what they are wearing. This will decrease the armor’s quality until is broken.
 
-When the PC holds a shield, it will negate a -1 damage when hit. If the roll ends with multiple 1s, the shield will break. The PC can ignore all damage from one attack but the shield breaks.
+When the PC holds a shield, it will negate a -1 damage when hit. If the roll ends with multiple 1s, the shield will break. The PC can ignore all damage from one attack but the shield breaks. This can also be done when enemy does critical damage. The player can use shield and break it this way they will not take any damage. 
+
 - [Back to Table of Content](#table-of-content)
 
 ### The Rule of Failure and Success Roll with Multiple Dice
@@ -214,6 +223,7 @@ In BareBones RPG, players and enemies may roll more than 1 die. Success and fail
 
 - If 1s and 6s are rolled together, if there are more 6s than 1s, it is ruled a success.
 - If there are more 1s than 6s on the single roll, it is ruled a fumble. This also applies to Spell Mishap.
+
 - [Back to Table of Content](#table-of-content)
 
 ## Aiding or Interfering
@@ -226,11 +236,13 @@ In cases where a player receives aid during a check, the rolling player gains a 
 >
 > - If this is a **social encounter** the GM or Player will roll a d6 for **NPC's Reaction** and add (+1 **per players who are aiding**)
 > - If this is during a **combat** and a **Check** roll, the player will have to discuss how they will aid the player who is about to roll and the GM will decide if this aid makes sense and the GM can allow the +1 **bonus towards** their roll.
+
 - [Back to Table of Content](#table-of-content)
 
 ### Interfering
 
 In scenarios where a player encounters interference during a check, the rolling player incurs a **-1 penalty** for each interfering player. This penalty can result in a successful roll of 5 turning into an unsuccessful roll of 4 due to the presence of interfering players.
+
 - [Back to Table of Content](#table-of-content)
 
 ## A Boost and Burden Roll
@@ -239,6 +251,7 @@ _BareBones_ uses **Boost and Burden** .
 
 - A **Boost** is a +1 die towards the attribute, increasing the number of dice that can be rolled on that turn.
 - A **Burden** imposes a -1 penalty die on a player's roll, depending on what they are wearing and facing a creature's abilities.
+
 - [Back to Table of Content](#table-of-content)
 
 ### Two-Weapon Fighter Rules:
@@ -252,6 +265,7 @@ A player who creates a two-weapon fighter will follow the Burden rule.
 ## Burn Mechanic
 
 Players can use their attributes to push their limit once a session using the burn action with the chosen attribute. Burn mechanics should only be used when the player succeeds in their roll. Players who critically fumble a roll cannot use the burn mechanic. The PC will not lose an Attribute point for the first time using Burn. However, if the player uses burn on the same attribute the second time, the player will lose 1 point. The third time, with the same attribute, the player will lose 2 points. They can recover their points while holding a critical success role or taking a few days to rest.
+
 - [Back to Table of Content](#table-of-content)
 
 ### Declare with Success
@@ -259,6 +273,7 @@ Players can use their attributes to push their limit once a session using the bu
 - **MIGHT:** Attribute can increase damage to MIGHT*2.
 - **MOBILITY:** Attribute can be used to counterattack the enemy automatically.
 - **INSIGHT:** Attribute can be burnt to boost your following action, like finding an enemy's weak point while aiming or outsmarting a person with charm.
+
 - [Back to Table of Content](#table-of-content)
 
 ### Declare and Shall Receive
@@ -279,6 +294,7 @@ BareBones is a dangerous game for PCs, with death being a possible outcome at th
 - The down player can do an epic attack and automatically die after the epic attack.
 - The fallen player will use GRIT as their death timer. This will give enough time for other players to patch or heal the fallen player.
 - If the PC is not handled with a medical kit or magic, the PC will roll a Saved By a Bone (Death Save).
+
 - [Back to Table of Content](#table-of-content)
 
 ## Saved By A Bone
@@ -287,6 +303,7 @@ A player may roll a Saved by a Bone. This is our death save. If the player rolls
 - 2-4, they are still bleeding out. The **GM will roll a d2 death timer**. 
 - 5 they save. 5 the PC will get up with (x) amount GRIT as their HP.
 - 6 the PC will get (x)*2 GRIT as their HP.
+
 - [Back to Table of Content](#table-of-content)
 
 ## Weapon Tag
@@ -295,6 +312,7 @@ A player may roll a Saved by a Bone. This is our death save. If the player rolls
 - **Great:** Takes 3 slots and does 3 dmg + (MIGHT/INSIGHT)
 
 If not rolling for damage, the player will use their MIGHT/INSIGHT as a bonus.
+
 - [Back to Table of Content](#table-of-content)
 
 ### Optional Rule
@@ -303,6 +321,7 @@ PC can roll for damage instead of automatically doing damage. They will use the 
 >
 > - This is up to the GM and their players. Some players will like the automatic or rolling damage.
 > - I would have this conversation before starting the game. If is a group of new players whom they never played TTRPG go with automatic, or if they like rolling for damage try it and adapt the game according to the style of the table.
+
 - [Back to Table of Content](#table-of-content)
 
 ## Damage Bonuses
@@ -317,12 +336,14 @@ The PC damage bonus will be half of their attributes rounded down.
 - 4 points in attributes = **2 bonus**
 - 5 points in attributes = **2 bonus**
 - 6 points in attributes = **3 bonus**
+
 - [Back to Table of Content](#table-of-content)
 
 ## Resting
 When players are in a somewhat safe area, with no active encounter:
 - The players can recover **1d6+GRIT** health and regain Bones Luck to three. Players need to rest in a safe place with uninterrupted sleep whenever they eat a ration.
 - The players can eat rations and use their waterskin; this is taking a breather before going forward to their next stop. A player must declare a **Breather**; this way, the referee can allow the players to use their rations with a short rest. When the PCs do this, they can roll 1d3+GRIT health and will not recover Bones Luck.
+
 - [Back to Table of Content](#table-of-content)
 
 ## Weapons and Gear
@@ -347,18 +368,22 @@ When players are in a somewhat safe area, with no active encounter:
 - **Sword:** 10 GP, 3 quality, 2 slots, medium, slashing damage
 - **Sword, two-handed:** 15 GP, 3 quality, 3 slots, close, medium, slashing damage
 - **Warhammer:** 5 GP, 3 quality, 2 slots, blunt damage, close, medium
+
 - [Back to Table of Content](#table-of-content)
+
 ## Armor
 - **Chain Mail:** While wearing this armor, the player will roll with burden against **Attack, Acrobatic & Stealth checks** and a **boost** towards Mobility Save. Cost: _30 GP, 5 Quality, 3 Slots_, -d3 _damage reduction_ when hit.
 - **Leather:** The player rolls without burden against Attack rolls while wearing this armor. Cost: _15 GP, 3 Quality, 1 slot_, -d2 _damage reduction_ when hit. 
 - **Plate Mail:** While wearing this armor, the player will roll with burden against **Attack, Acrobatic, and stealth checks** and a **boost** on Mobility Save rolls. Cost: _60 GP, 7 Quality, 5 slots_, -d6 _damage reduction_ when hit. 
 - **Shield:** Cost 10 gp **-1 damage** when being held, _1 quality, 1 slot_. The PC can ignore all damage from one attack but the shield breaks.
+
 - [Back to Table of Content](#table-of-content)
 
 ## BareBones Spell Casting
 Magic is accessible to anyone with points in their Essence attribute. To cast a spell, roll your Essence attribute; if you roll a 5 or 6, the spell will take effect. However, be cautious of those fumble rolls, as they may have unintended consequences for the spell-caster. If player fails to cast their spell, the gm can afflict damage or make the pressence of the players known to the guards or monsters. Keep in mind that magic is dangerous! Only a _**brave or a foolish**_ soul may try this mysterious arcane power without considering its effects or repercussions. **Magic-User** will roll **_d3+Essence_** every morning to determine how many times they can cast their spells. 
 
 The GM may allow spells from other OSR books or resources. Conversion will be necessary to align with the mechanics of BareBones RPG.
+
 - [Back to Table of Content](#table-of-content)
 
 # 100 Level-Less Spells
