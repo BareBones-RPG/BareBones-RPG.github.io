@@ -1,3 +1,48 @@
+<!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
+
+   * [You Will Need...](#you-will-need)
+   * [Game Mechanics](#game-mechanics)
+   * [Character Creation](#character-creation)
+      + [Rolling for Stats](#rolling-for-stats)
+      + [For Dice Enthusiasts (Dice Goblins) with a Three-sided Die (1d3):](#for-dice-enthusiasts-dice-goblins-with-a-three-sided-die-1d3)
+      + [Customization Through Attribute Allocation](#customization-through-attribute-allocation)
+      + [Calculating Hit Points](#calculating-hit-points)
+         - [Optional Rule:](#optional-rule)
+      + [How much can I hold?](#how-much-can-i-hold)
+      + [How Much Currency Do I Start With?](#how-much-currency-do-i-start-with)
+      + [Bones Luck](#bones-luck)
+      + [Backgrounds](#backgrounds)
+   * [Action and Movement](#action-and-movement)
+      + [Initiative Rules:](#initiative-rules)
+         - [Optional Initiative Rule:](#optional-initiative-rule)
+      + [Attack Roll](#attack-roll)
+      + [Enemy's Turn](#enemys-turn)
+      + [Roll a Mobility Save to Dodge an Attack](#roll-a-mobility-save-to-dodge-an-attack)
+      + [The Rule of Failure and Success Roll with Multiple Dice](#the-rule-of-failure-and-success-roll-with-multiple-dice)
+   * [Aiding or Interfering](#aiding-or-interfering)
+      + [Aiding](#aiding)
+      + [Interfering](#interfering)
+   * [A Boost and Burden Roll](#a-boost-and-burden-roll)
+      + [Two-Weapon Fighter Rules:](#two-weapon-fighter-rules)
+   * [Burn Mechanic](#burn-mechanic)
+   * [Declare with Success](#declare-with-success)
+   * [Declare and Shall Receive](#declare-and-shall-receive)
+   * [Death](#death)
+   * [Saved By A Bone](#saved-by-a-bone)
+   * [Weapon Tag](#weapon-tag)
+      + [Optional Rule](#optional-rule-1)
+   * [Damage Bonuses](#damage-bonuses)
+   * [Resting](#resting)
+   * [Weapons and Gear](#weapons-and-gear)
+   * [Armor](#armor)
+   * [BareBones Spell Casting](#barebones-spell-casting)
+- [100 Level-Less Spells](#100-level-less-spells)
+   * [Spell Mishap](#spell-mishap)
+      + [Wild Magic Table (d66)](#wild-magic-table-d66)
+         - [BareBones RPG is licensed under the CC by 4.0 Written by Victor Gregory Matos (_TheVikkodamus_)](#barebones-rpg-is-licensed-under-the-cc-by-40-written-by-victor-gregory-matos-thevikkodamus)
+
+<!-- TOC end -->
+
 **The Full text is licensed under** [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/)
 Written by [Victor Gregory Matos](https://thevikkodamus.bearblog.dev) (_TheVikkodamus_)
 
@@ -7,51 +52,6 @@ Written by [Victor Gregory Matos](https://thevikkodamus.bearblog.dev) (_TheVikko
 - [Mastodon](https://dice.camp/@TheVikkodamus)
 - Got _**Barebones**_ Questions? [Email me](mailto:vikkobarebonesrpg@gmail.com) those questions!
 
-#### A fast-paced six-sided dice system for TTRPG with rules and mechanics.
-
-<!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
-
-  * [You Will Need...](#you-will-need)
-  * [Game Mechanics](#game-mechanics)
-  * [Character Creation](#character-creation)
-    + [Rolling for Stats](#rolling-for-stats)
-    + [For Dice Enthusiasts (Dice Goblins) with a Three-sided Die (1d3):](#for-dice-enthusiasts--dice-goblins--with-a-three-sided-die--1d3--)
-    + [Customization Through Attribute Allocation](#customization-through-attribute-allocation)
-    + [Calculating Hit Points](#calculating-hit-points)
-      - [Optional Rule:](#optional-rule-)
-    + [How much can I hold?](#how-much-can-i-hold-)
-    + [How Much Currency Do I Start With?](#how-much-currency-do-i-start-with-)
-    + [Bones Luck](#bones-luck)
-  * [Action and Movement](#action-and-movement)
-    + [Initiative Rules:](#initiative-rules-)
-      - [Optional Initiative Rule:](#optional-initiative-rule-)
-    + [Attack Roll](#attack-roll)
-    + [Enemy's Turn](#enemy-s-turn)
-    + [Roll a Mobility Save to Dodge an Attack](#roll-a-mobility-save-to-dodge-an-attack)
-    + [The Rule of Failure and Success Roll with Multiple Dice](#the-rule-of-failure-and-success-roll-with-multiple-dice)
-  * [Aiding or Interfering](#aiding-or-interfering)
-    + [Aiding](#aiding)
-    + [Interfering](#interfering)
-  * [A Boost and Burden Roll](#a-boost-and-burden-roll)
-    + [Two-Weapon Fighter Rules:](#two-weapon-fighter-rules-)
-  * [Burn Mechanic](#burn-mechanic)
-  * [Declare with Success](#declare-with-success)
-  * [Declare and Shall Receive](#declare-and-shall-receive)
-  * [Death](#death)
-  * [Saved By A Bone](#saved-by-a-bone)
-  * [Weapon Tag](#weapon-tag)
-    + [Optional Rule](#optional-rule)
-  * [Damage Bonuses](#damage-bonuses)
-  * [Resting](#resting)
-  * [Weapons and Gear](#weapons-and-gear)
-  * [Armor](#armor)
-  * [BareBones Spell Casting](#barebones-spell-casting)
-- [100 Level-Less Spells](#100-level-less-spells)
-  * [Spell Mishap](#spell-mishap)
-    + [Wild Magic Table (d66)](#wild-magic-table--d66-)
-        
-
-<!-- TOC end -->
 
 ## You Will Need...
 
