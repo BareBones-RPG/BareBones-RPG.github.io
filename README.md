@@ -587,8 +587,8 @@ This rule operates similarly to Critical or Fumble rules. When rolling dice for 
 
 If you enjoy the game and would like to show your support, please consider clicking on the link below to buy me a coffee on Ko-fi! Your contribution helps fuel the creativity behind the game. Thank you for your generosity!
 
-- [Back to Table of Content](#table-of-content)
-
 [Buy me a coffee on Ko-fi](https://ko-fi.com/barebonesrpg)
+
+- [Back to Table of Content](#table-of-content)
 
 #### BareBones RPG is licensed under the [CC by 4.0](https://creativecommons.org/licenses/by/4.0/) Written by [Victor Gregory Matos](https://thevikkodamus.bearblog.dev) (_TheVikkodamus_)
