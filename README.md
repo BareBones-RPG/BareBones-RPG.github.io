@@ -15,8 +15,7 @@ Written by [Victor Gregory Matos](https://thevikkodamus.bearblog.dev) (_TheVikko
 - At least 3 to 6 six-sided dice.
 - Tokens or figures to represent playable characters.
 - Your Imagination.
-
-## Table of Content
+  
 <!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
 
    * [Game Mechanics](#game-mechanics)
@@ -28,7 +27,6 @@ Written by [Victor Gregory Matos](https://thevikkodamus.bearblog.dev) (_TheVikko
          - [Optional Rule:](#optional-rule)
       + [How much can I hold?](#how-much-can-i-hold)
       + [How Much Currency Do I Start With?](#how-much-currency-do-i-start-with)
-      + [Bones Luck](#bones-luck)
       + [Backgrounds](#backgrounds)
    * [Action and Movement](#action-and-movement)
       + [Initiative Rules:](#initiative-rules)
@@ -43,9 +41,10 @@ Written by [Victor Gregory Matos](https://thevikkodamus.bearblog.dev) (_TheVikko
    * [A Boost and Burden Roll](#a-boost-and-burden-roll)
       + [Two-Weapon Fighter Rules:](#two-weapon-fighter-rules)
    * [Burn Mechanic](#burn-mechanic)
-       + [Declare with Success](#declare-with-success)
-       + [Declare and Shall Receive](#declare-and-shall-receive)
-   * [Advancement](#advancement)
+      + [Minor Burn:](#minor-burn)
+      + [Major Burn:](#major-burn)
+      + [Critical Burn:](#critical-burn)
+   * [Advancement:](#advancement)
    * [Death](#death)
    * [Saved By A Bone](#saved-by-a-bone)
    * [Weapon Tag](#weapon-tag)
