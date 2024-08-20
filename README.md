@@ -127,19 +127,6 @@ The player will roll **3d6 * 10** (_fantasy setting_) or **3d6 * 100** (_modern 
 
 - [Back to Table of Content](#table-of-content)
 
-### Bones Luck
-
-Players will begin with **3 Bones Luck**. Bones Luck can help change roll results:
-
-- _Combat Roll_
-- _Mobility Save_
-- _Initiative Roll_
-- _Save by a Bone (Death Save)_
-
-Players can gain Bones Luck with every **fumble roll**. Players cannot use BL with **fumble** roll on a _check, combat, save, and magic_. 
-
-- [Back to Table of Content](#table-of-content)
-
 ### Backgrounds
 
 Players will provide background information for their playable characters. When a situation arises and they engage in a conversation with the referee to convince him or her that their background applies to the roll, the referee can award them a boost for that roll.
@@ -256,53 +243,62 @@ _BareBones_ uses **Boost and Burden** .
 
 ### Two-Weapon Fighter Rules:
 
-A player who creates a two-weapon fighter will follow the Burden rule. 
+When a player who creates a two-weapon fighter player character will follow the Burden rule. 
 
-- The dominant hand will always roll with all attributes with no Burden.
-- When attacking with the non-dominant hand, the player will roll with a Burden for their non-dominant hand attack, this can be MIGHT or INSIGHT depending on the type of weapon.
+- The player will tell the referee which is the dominant hand their player character uses; the dominant hand will always roll with all attributes with no Burden.
+- When attacking with the non-dominant hand, the player will roll with a Burden for their non-dominant hand attack. This can be MIGHT or INSIGHT depending on the type of weapon.
+
 - [Back to Table of Content](#table-of-content)
 
 ## Burn Mechanic
 
-Players can use their attributes to push their limit once a session using the burn action with the chosen attribute. Burn mechanics should only be used when the player succeeds in their roll. Players who critically fumble a roll cannot use the burn mechanic. The PC will not lose an Attribute point for the first time using Burn. However, if the player uses burn on the same attribute the second time, the player will lose 1 point. The third time, with the same attribute, the player will lose 2 points. They can recover their points while holding a critical success role or taking a few days to rest.
+Players can use their attributes to push their limit once a session using the burn action with the chosen attribute.
 
-- [Back to Table of Content](#table-of-content)
+The Burn mechanic can be used when the player character succeeds or fails their roll. 
 
-### Declare with Success
+### Minor Burn:
 
-- **MIGHT:** Attribute can increase damage to MIGHT*2.
-- **MOBILITY:** Attribute can be used to counterattack the enemy automatically.
-- **INSIGHT:** Attribute can be burnt to boost your following action, like finding an enemy's weak point while aiming or outsmarting a person with charm.
+- Effect: The player character who uses burn will lose 1 point from their score.
+- Example: A player character is in the heat of combat and rolled a 4; this is not a hit. The player character can push harder and burn a point of their attribute (MIGHT/INSIGHT) to turn their roll of 4 into a 5, which is a success and will hit the enemy.
+- Recovery: A player character who loses a point of their attribute due to a Minor Burn can recover that point by taking a Breather.
 
-- [Back to Table of Content](#table-of-content)
+### Major Burn:
 
-### Declare and Shall Receive
+- Effect: The player character who uses burn will lose 2 points from their score.
+- Example: A player character is climbing a cliff, and rolled a 3 on their Might roll. They can push their body and use up 2 points of their Might to complete their climb.
+- Recovery: A player character who loses 2 points of their attribute due to a Major Burn can recover their points with a long rest (uninterrupted sleep with ration and waterskin).
+- Minimum Attribute Score: A Major Burn cannot reduce an attribute below 1.
 
-- **GRIT:** Attribute can be used to cut half of the damage automatically.
-- **ESSENCE:** Exponentially increases the target number, zone/area, damage, or healing done by magic.
+### Critical Burn:
+
+- Effect: The player character expends all remaining points in the chosen attribute for a single, extraordinary action. The outcome is determined by the GM and should be narratively impactful and thematically appropriate.
+- Example: A character leaps across a seemingly impossible chasm, channels immense power for a devastating attack, or resists a mind control effect with sheer willpower.
+- Recovery: A character who uses a Critical Burn cannot recover the expended attribute points until they complete a special quest, achieve a significant milestone, or fulfill a condition set by the GM.
+- Limitations: Critical Burns are limited to one per character per session.
+
+The GM has final say on whether a Critical Burn is appropriate for a given situation and its outcome.
+
 - [Back to Table of Content](#table-of-content)
 
 ## Advancement:
 Advancement in the BareBones RPG differs from traditional systems. Players (PCs) mark each fumbled roll for their attributes. They should consistently check a box next to the attribute. Once all six boxes are marked, they can add a point to that attribute after training. This advancement can only be completed at the end of the session in a safe location.
-
+If they use the Burn Mechanic, they will not mark their attribute for advancement.
 - [Back to Table of Content](#table-of-content)
-
 
 ## Death
 
-BareBones is a dangerous game for PCs, with death being a possible outcome at the table. 0 means you are dying. 
-- The down player can do an epic attack and automatically die after the epic attack.
-- The fallen player will use GRIT as their death timer. This will give enough time for other players to patch or heal the fallen player.
+BareBones is a dangerous game for PCs, with death being a possible outcome at the table. 0 means you are dying. Player character's Hit Points below zero is automatic death. 
+- The fallen player will use **GRIT** as their death timer. This will give enough time for other players to patch or heal the fallen player character.
 - If the PC is not handled with a medical kit or magic, the PC will roll a Saved By a Bone (Death Save).
 
 - [Back to Table of Content](#table-of-content)
 
 ## Saved By A Bone
-A player may roll a Saved by a Bone. This is our death save. If the player rolls, a 1 BL is not allowed.
+A player may roll a Saved by a Bone. This is our death save. If the player rolls, a 1 the burn mechanic is not allowed. This will burn their GRIT attribute. 
 - If you roll a 1, this means the PC is dead.
 - 2-4, they are still bleeding out. The **GM will roll a d2 death timer**. 
-- 5 they save. 5 the PC will get up with (x) amount GRIT as their HP.
-- 6 the PC will get (x)*2 GRIT as their HP.
+- 5 they save. 5 the PC will get up with (x) amount current GRIT as their HP.
+- 6 the PC will get (x)*2  current GRIT as their HP.
 
 - [Back to Table of Content](#table-of-content)
 
@@ -341,8 +337,8 @@ The PC damage bonus will be half of their attributes rounded down.
 
 ## Resting
 When players are in a somewhat safe area, with no active encounter:
-- The players can recover **1d6+GRIT** health and regain Bones Luck to three. Players need to rest in a safe place with uninterrupted sleep whenever they eat a ration.
-- The players can eat rations and use their waterskin; this is taking a breather before going forward to their next stop. A player must declare a **Breather**; this way, the referee can allow the players to use their rations with a short rest. When the PCs do this, they can roll 1d3+GRIT health and will not recover Bones Luck.
+- The players can eat rations and use their waterskin; this is taking a breather before embarking to their next stop. A player must declare a **Breather**; this way, the referee can allow the players to use their rations with a short rest. When the PCs do this, they can roll 1d3+GRIT health and will recover from a minor burn.
+- The players will recover their max health points. Players need to rest in a safe place with uninterrupted sleep for a long rest whenever they eat a ration and have a drink from their waterskin, players will also recover from their major burn.
 
 - [Back to Table of Content](#table-of-content)
 
