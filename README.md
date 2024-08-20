@@ -76,7 +76,7 @@ For players who enjoy rolling for their stats, there are two options:
 Using a **Standard Six-sided Die** (1d6):
 
 Roll a standard six-sided die (1d6). Divide the result by 2, rounding up if necessary.
-Assign the rounded result to the corresponding stat in the order: **MIGHT, MOBILITY, INSIGHT, GRIT, and ESSENCE**.
+Assign the rounded result to the corresponding stat in the order: **MIGHT, MOBILITY, INSIGHT, GRIT, and WILLPOWER**.
 > **Example:** Roll a _D6_ and get a 4. Divide 4 by 2 to get a result of 2 (rounded up), assigning it to the relevant stat.
 > **Note:** If you are new to this, remember that a standard six-sided die is commonly referred to as a D6.
 
@@ -84,7 +84,7 @@ Assign the rounded result to the corresponding stat in the order: **MIGHT, MOBIL
 
 ### For Dice Enthusiasts (Dice Goblins) with a Three-sided Die (1d3):
 
-Use a three-sided die (1d3) for a straight roll down in order for **Might, Mobility, Insight, Grit, and Essence.**
+Use a three-sided die (1d3) for a straight roll down in order for **Might, Mobility, Insight, Grit, and WILLPOWER.**
 > **Example:** Roll the three-sided die five times, assigning each result in order to the corresponding stat.
 
 - [Back to Table of Content](#table-of-content)
@@ -100,7 +100,7 @@ Players begin with 10 or 12 points to allocate among their attributes, with each
 - **MOBILITY** = _Defend, balance, swim, flee_
 - **INSIGHT** = _Perceive, aim, charm, smarts_
 - **GRIT** = _Resist Poison/cold/heat, survive falling_
-- **ESSENCE** = _Willpower, using relics/magic weapons, casting spells, rituals_
+- **WILLPOWER** = _Willpower, using relics/magic weapons, casting spells, rituals_
 
 - [Back to Table of Content](#table-of-content)
 
@@ -144,7 +144,7 @@ Player's turn: they can move up to 30 feet, attack, defend, or wait for a reacti
 - _Whenever an attack is triggered_, the player will use **Might** when a weapon has a close-range tag.
 - _Whenever an attack is triggered_, the player will use **Insight** when a weapon has a mid or far range due to aiming.
 - _Whenever a defense is triggered_, the player will use **Mobility** when wearing armor, including the worn armor tag.
-- _Whenever a player casts a spell_, they will use **Essence**.
+- _Whenever a player casts a spell_, they will use **WILLPOWER**.
 - _Whenever a player is bitten by something_ or touches something poisonous, the PC will use GRIT to save.
 - _When a player moves and **holds their action**_, they can _lower the success threshold to 4_ due to waiting for that moment to act!
 
@@ -172,7 +172,6 @@ It is the player's turn, and they decide to go for an attack, depending on the t
 - A player holds their **action for a round or wants to react** to an enemy's action. This can reduce the success threshold to **4** instead of **5-6** in normal circumstances. **This only happens during combat.**
 
 - [Back to Table of Content](#table-of-content)
-
 
 ### Enemy's Turn
 
@@ -375,7 +374,7 @@ When players are in a somewhat safe area, with no active encounter:
 - [Back to Table of Content](#table-of-content)
 
 ## BareBones Spell Casting
-Magic is accessible to anyone with points in their Essence attribute. To cast a spell, roll your Essence attribute; if you roll a 5 or 6, the spell will take effect. However, be cautious of those fumble rolls, as they may have unintended consequences for the spell-caster. If player fails to cast their spell, the gm can afflict damage or make the pressence of the players known to the guards or monsters. Keep in mind that magic is dangerous! Only a _**brave or a foolish**_ soul may try this mysterious arcane power without considering its effects or repercussions. **Magic-User** will roll **_d3+Essence_** every morning to determine how many times they can cast their spells. 
+Magic is accessible to anyone with points in their Willpower attribute. To cast a spell, roll your Willpower attribute; if you roll a 5 or 6, the spell will take effect. However, be cautious of those fumble rolls, as they may have unintended consequences for the spell-caster. If player fails to cast their spell, the gm can afflict damage or make the prWILLPOWER of the players known to the guards or monsters. Keep in mind that magic is dangerous! Only a _**brave or a foolish**_ soul may try this mysterious arcane power without considering its effects or repercussions. **Magic-User** will roll **_d3+Willpower** every morning to determine how many times they can cast their spells. 
 
 The GM may allow spells from other OSR books or resources. Conversion will be necessary to align with the mechanics of BareBones RPG.
 
@@ -389,78 +388,78 @@ Player can **roll or pick** their spells. Spells from [Knave](https://preview.dr
 | ---- | ------------------- | ------------------------------------------------------------ |
 | 1    | Adhere              | The object is covered in extremely sticky slime.             |
 | 2    | Animate Object      | The object obeys your commands as best it can. It can walk 15 feet per round. |
-| 3    | Anthropomorphize    | A touched animal either gains human intelligence or human appearance for ESSENCE days. |
+| 3    | Anthropomorphize    | A touched animal either gains human intelligence or human appearance for WIL days. |
 | 4    | Arcane Eye          | You can see through a magical floating eyeball that flies around at your command. |
 | 5    | Astral Prison       | An object is frozen in time and space within an invulnerable crystal shell. |
-| 6    | Attract             | ESSENCE+1 objects are strongly magnetically attracted to each other if they come within 10 feet. |
+| 6    | Attract             | WIL+1 objects are strongly magnetically attracted to each other if they come within 10 feet. |
 | 7    | Auditory Illusion   | You create illusory sounds that seem to come from a direction of your choice. |
 | 8    | Babble              | A creature must loudly repeat everything you think. It is otherwise mute. |
 | 9    | Beast Form          | You and your possessions become mundane animals.             |
-| 10   | Befuddle            | Essence creatures of your choice cannot form new short-term memories for the spell's duration. |
-| 11   | Bend Fate           | Roll ESSENCE+1. Whenever you must roll a d6 after casting the spell, you must choose and discard one of the rolled results until they are all gone. |
+| 10   | Befuddle            | WIL creatures of your choice cannot form new short-term memories for the spell's duration. |
+| 11   | Bend Fate           | Roll WIL+1. Whenever you must roll a d6 after casting the spell, you must choose and discard one of the rolled results until they are all gone. |
 | 12   | Bird Person         | Your arms turn into huge bird wings.                         |
 | 13   | Body Swap           | You switch bodies with a creature you touch. If one body dies, the other dies as well. |
 | 14   | Catherine           | A woman wearing a blue dress appears until the end of a spell. She will obey polite, safe requests. |
-| 15   | Charm               | Essence creatures treat you like a friend.                   |
+| 15   | Charm               | WILLPOWER creatures treat you like a friend.                   |
 | 16   | Command             | A creature obeys a single, three-word command that does not harm it. |
 | 17   | Comprehend          | You become fluent in all languages.                          |
 | 18   | Control Plants      | Nearby plants and trees obey you and gain the ability to move at 5 feet per round. |
 | 19   | Control Weather     | You may alter the type of weather at will, but you do not otherwise control it. |
-| 20   | Counterspell        | Make an opposed ESSENCE save against the ESSENCE of the caster of a nearby spell. After you're able to, you may cancel the spell. |
+| 20   | Counterspell        | Make an opposed WILLPOWER save against the WILLPOWER of the caster of a nearby spell. After you're able to, you may cancel the spell. |
 | 21   | Deafen              | All nearby creatures are deafened.                           |
 | 22   | Detect Magic        | You hear nearby magical auras singing. Volume and harmony signify the aura’s power and refinement. |
 | 23   | Disassemble         | Any of your body parts may be detached and reattached at will without causing pain or damage. You can still control them. |
-| 24   | Disguise            | You may alter the appearance of ESSENCE characters at will as long as they remain humanoid. Attempts to duplicate other characters will seem uncanny. |
-| 25   | Displace            | An object appears to be up to ESSENCE×10 ft from its actual position. |
+| 24   | Disguise            | You may alter the appearance of WILLPOWER characters at will as long as they remain humanoid. Attempts to duplicate other characters will seem uncanny. |
+| 25   | Displace            | An object appears to be up to WILLPOWER×10 ft from its actual position. |
 | 26   | Earthquake          | The ground begins shaking violently. Structures may be damaged or collapse. |
-| 27   | Elasticity          | Your body can stretch up to Essence×10 ft.                   |
-| 28   | Elemental Wall      | A straight wall of ice or fire ESSENCE×40 ft long and 10ft high rises from the ground. |
-| 29   | Filch               | Essence visible items teleport to your hands.                |
+| 27   | Elasticity          | Your body can stretch up to WILLPOWER×10 ft.                   |
+| 28   | Elemental Wall      | A straight wall of ice or fire WILLPOWER×40 ft long and 10ft high rises from the ground. |
+| 29   | Filch               | WILLPOWER visible items teleport to your hands.                |
 | 30   | Fog Cloud           | Dense fog spreads out from you.                              |
-| 31   | Frenzy              | Essence creatures erupt in a frenzy of violence.             |
+| 31   | Frenzy              | WILLPOWER creatures erupt in a frenzy of violence.             |
 | 32   | Gate                | A portal to a random plane opens.                            |
 | 33   | Gravity Shift       | You can change the direction of gravity (for yourself only) once per round. |
-| 34   | Greed               | ESSENCE creatures develop an overwhelming urge to possess a visible item of your choice. |
+| 34   | Greed               | WILLPOWER creatures develop an overwhelming urge to possess a visible item of your choice. |
 | 35   | Haste               | Your movement speed is tripled.                              |
-| 36   | Hatred              | Essence creatures develop a deep hatred of another creature or group of creatures and wish to destroy it. |
+| 36   | Hatred              | WILLPOWER creatures develop a deep hatred of another creature or group of creatures and wish to destroy it. |
 | 37   | Hear Whispers       | You can hear faint sounds clearly.                           |
-| 38   | Hover               | An object hovers, frictionless, 2 ft above the ground. It can hold up to ESSENCE humanoids. |
-| 39   | Hypnotize           | A creature enters a trance and will truthfully answer ESSENCE yes or no questions you ask. |
-| 40   | Icy Touch           | A thick ice layer spreads across a touched surface, up to ESSENCE×10 ft in radius. |
+| 38   | Hover               | An object hovers, frictionless, 2 ft above the ground. It can hold up to WILLPOWER humanoids. |
+| 39   | Hypnotize           | A creature enters a trance and will truthfully answer WILLPOWER yes or no questions you ask. |
+| 40   | Icy Touch           | A thick ice layer spreads across a touched surface, up to WILLPOWER×10 ft in radius. |
 | 41   | Illuminate          | A floating light moves as you command.                       |
 | 42   | Increase Gravity    | The gravity in an area triples.                              |
 | 43   | Invisible Tether    | Two objects within 10ft of each other cannot be moved more than 10 ft apart. |
-| 44   | Knock               | ESSENCE nearby mundane or magical locks unlock.              |
-| 45   | Leap                | You can jump up to ESSENCE×10 ft in the air.                 |
+| 44   | Knock               | WILLPOWER nearby mundane or magical locks unlock.              |
+| 45   | Leap                | You can jump up to WILLPOWER×10 ft in the air.                 |
 | 46   | Liquid Air          | The air around you becomes swimmable.                        |
 | 47   | Magic Dampener      | All nearby magical effects have their effectiveness halved.  |
-| 48   | Manse               | A sturdy, furnished cottage appears for ESSENCE×12 hours. You can permit and forbid entry to it at will. |
+| 48   | Manse               | A sturdy, furnished cottage appears for WILLPOWER×12 hours. You can permit and forbid entry to it at will. |
 | 49   | Marble Madness      | Your pockets are full of marbles, and will refill every round. |
-| 50   | Masquerade          | ESSENCE characters’ appearances and voices become identical to a touched character. |
-| 51   | Miniaturize         | You and ESSENCE other touched creatures are reduced to the size of a mouse. |
-| 52   | Mirror Image        | ESSENCE illusory duplicates of yourself appear under your control. |
+| 50   | Masquerade          | WILLPOWER characters’ appearances and voices become identical to a touched character. |
+| 51   | Miniaturize         | You and WILLPOWER other touched creatures are reduced to the size of a mouse. |
+| 52   | Mirror Image        | WILLPOWER illusory duplicates of yourself appear under your control. |
 | 53   | Mirrorwalk          | A mirror becomes a gateway to another mirror that you looked into today. |
-| 54   | Multiarm            | You gain ESSENCE extra arms.                                 |
-| 55   | Night Sphere        | An ESSENCE×40 ft wide sphere of darkness displaying the night sky appears. |
+| 54   | Multiarm            | You gain WILLPOWR extra arms.                                 |
+| 55   | Night Sphere        | An WILLPOWER×40 ft wide sphere of darkness displaying the night sky appears. |
 | 56   | Objectify           | You become any inanimate object between the size of a grand piano and an apple. |
 | 57   | Ooze Form           | You become a living jelly.                                   |
-| 58   | Pacify              | ESSENCE creatures have an aversion to violence.              |
+| 58   | Pacify              | WILLPOWER creatures have an aversion to violence.              |
 | 59   | Phantom Coach       | A ghostly coach appears until the end of the spell. It moves unnaturally fast over any terrain, including water. |
-| 60   | Phobia              | ESSENCE creatures become terrified of an object of your choice. |
-| 61   | Pit                 | A pit 10ft wide and ESSENCE×5 ft deep opens in the ground.   |
+| 60   | Phobia              | WILLPOWER creatures become terrified of an object of your choice. |
+| 61   | Pit                 | A pit 10ft wide and WILLPOWER×5 ft deep opens in the ground.   |
 | 62   | Primeval Surge      | An object grows to the size of an elephant. If it is an animal, it is enraged. |
-| 63   | Psychometry         | The referee answers ESSENCE yes or no questions about a touched object. |
-| 64   | Pull                | An object of any size is pulled directly towards you with the strength of ESSENCE men for one round. |
-| 65   | Push                | An object of any size is pushed directly away from you with the strength of ESSENCE men for one round. |
-| 66   | Raise Dead          | ESSENCE skeletons rise from the ground to serve you. They are incredibly stupid and can only obey simple orders. |
+| 63   | Psychometry         | The referee answers WILLPOWER yes or no questions about a touched object. |
+| 64   | Pull                | An object of any size is pulled directly towards you with the strength of WILLPOWER men for one round. |
+| 65   | Push                | An object of any size is pushed directly away from you with the strength of WILLPOWER men for one round. |
+| 66   | Raise Dead          | WILLPOWER skeletons rise from the ground to serve you. They are incredibly stupid and can only obey simple orders. |
 | 67   | Raise Spirit        | The spirit of a dead body manifests and will answer L questions. |
 | 68   | Read Mind           | You can hear the surface thoughts of nearby creatures.       |
-| 69   | Repel               | ESSENCE+1 objects are strongly magnetically repelled from each other if they come within 10 feet. |
+| 69   | Repel               | WILLPOWER+1 objects are strongly magnetically repelled from each other if they come within 10 feet. |
 | 70   | Scry                | You can see through the eyes of a creature you touched earlier today. |
 | 71   | Sculpt Elements     | All inanimate material behaves like clay in your hands.      |
-| 72   | Shroud              | Essence creatures are invisible until they move.             |
-| 73   | Shuffle             | ESSENCE creatures instantly switch places. Determine where they end up randomly. |
-| 74   | Sleep               | ESSENCE creatures fall into a light sleep.                   |
+| 72   | Shroud              | WILLPOWER creatures are invisible until they move.             |
+| 73   | Shuffle             | WILLPOWER creatures instantly switch places. Determine where they end up randomly. |
+| 74   | Sleep               | WILLPOWER creatures fall into a light sleep.                   |
 | 75   | Smoke Form          | Your body becomes living smoke.                              |
 | 76   | Snail Knight        | 10 minutes after casting, a knight sitting astride a giant snail rides into view. He can answer most questions about quests and chivalry and may aid you if he finds you worthy. |
 | 77   | Sniff               | You can smell even the faintest traces of scents.            |
@@ -470,12 +469,12 @@ Player can **roll or pick** their spells. Spells from [Knave](https://preview.dr
 | 81   | Spider Climb        | You can climb surfaces like a spider.                        |
 | 82   | Summon Cube         | Once per second (6 times per round) you may summon or banish a 3-foot-wide cube of earth. New cubes must be affixed to the earth or other cubes. |
 | 83   | Swarm               | You become a swarm of crows, rats, or piranhas. You only take damage from area effects. |
-| 84   | Telekinesis         | You may mentally move ESSENCE items.                         |
-| 85   | Telepathy           | ESSENCE+1 Creatures can hear each other’s thoughts, no matter how far apart they move. |
-| 86   | Teleport            | An object disappears and reappears on the ground in a visible, clear area up to ESSENCEx40ft away. |
+| 84   | Telekinesis         | You may mentally move WILLPOWER items.                         |
+| 85   | Telepathy           | WILLPOWER+1 Creatures can hear each other’s thoughts, no matter how far apart they move. |
+| 86   | Teleport            | An object disappears and reappears on the ground in a visible, clear area up to WILLPOWER*40ft away. |
 | 87   | Thaumaturgic Anchor | The object becomes the target of every spell cast near it.   |
-| 88   | Thicket             | A thicket of trees and dense brush up to ESSENCEx40ft wide suddenly sprouts up. |
-| 89   | Time Jump           | An object disappears as it jumps ESSENCE*10 minutes into the future. When it returns, it appears in the unoccupied area nearest to where it left. |
+| 88   | Thicket             | A thicket of trees and dense brush up to WILLPOWER*40ft wide suddenly sprouts up. |
+| 89   | Time Jump           | An object disappears as it jumps WILLPOWER*10 minutes into the future. When it returns, it appears in the unoccupied area nearest to where it left. |
 | 90   | Summon Idol         | A carved stone statue the size of a four-poster bed rises from the ground. |
 | 91   | Time Rush           | Time in a 40ft bubble starts moving 10 times faster.         |
 | 92   | Time Slow           | Time in a 40ft bubble slows to 10%.                          |
@@ -491,12 +490,12 @@ Player can **roll or pick** their spells. Spells from [Knave](https://preview.dr
 - [Back to Table of Content](#table-of-content)
 
 ## Spell Mishap
-This rule operates similarly to Critical or Fumble rules. When rolling dice for an ESSENCE check, if both 1s and 6s appear on the same roll, the outcome is determined as follows:
+This rule operates similarly to Critical or Fumble rules. When rolling dice for an WILLPOWER check, if both 1s and 6s appear on the same roll, the outcome is determined as follows:
 
 - If there are more 6s than 1s, the roll is considered a success.
 - If there are more 1s than 6s, the roll is ruled a fumble.
 
-**Magic is a perilous power, only to be tampered with by the bravest or most foolish**. The GM can consult the following table when multiple ones are rolled on a single ESSENCE roll. Alternatively, the GM may inflict damage on the spell caster equal to the number of rolled 1s against the casting player's Hit Points or Essence.
+**Magic is a perilous power, only to be tampered with by the bravest or most foolish**. The GM can consult the following table when multiple ones are rolled on a single WILLPOWER roll. Alternatively, the GM may inflict damage on the spell caster equal to the number of rolled 1s against the casting player's Hit Points or WILLPOWER.
 
 | Roll | Spell Mishap                                                 |
 | ---- | ------------------------------------------------------------ |
