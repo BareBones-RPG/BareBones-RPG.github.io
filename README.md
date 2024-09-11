@@ -250,7 +250,7 @@ When a player who creates a two-weapon fighter player character will follow the 
 
 ## Burn Mechanic
 
-Players can use their attributes to push their limit once a session using the burn action with the chosen attribute.
+Players can use their attributes to push their limit using the burn action with the chosen attribute.
 
 The Burn mechanic can be used when the player character succeeds or fails their roll. 
 
