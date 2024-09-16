@@ -124,6 +124,18 @@ Referee: "Hmm, that makes sense. Alright, I'll give you a boost on your tracking
 
 - [Back to TOC](#table-of-contents)
 
+### Pre-packed Characters
+| **d6 Roll** | **Class/Package** | **Agility** | **Insight** | **Might** | **Willpower** | **HP** (10 + Might) | **Item Slots** (9 + Might) | **Weapons** | **Armor** | **Inventory** | **Starting Gold** |
+|-------------|-------------------|-------------|-------------|-----------|---------------|---------------------|---------------------------|-------------|-----------|---------------|-------------------|
+| 1           | **Scout**         | 3           | 2           | 1         | 2             | 11 HP               | 10 slots                  | Shortbow (1d6, Near), Dagger (1d4, Close) | Leather Armor (-d2 DR), Explorer’s Cloak | Flint and steel, Rope (50 ft), Rations (3 days), Waterskin, Bandages (2 uses) | 20 Gold            |
+| 2           | **Mage**          | 1           | 3           | 2         | 2             | 12 HP               | 11 slots                  | Staff (1d6, Close), Throwing Knives (1d4, Near) | Robes () | Arcane Focus, Spellbook (2 spells), Ink and quill, Candle (4 uses), Healing salve (1 use) | 15 Gold            |
+| 3           | **Warrior**       | 2           | 1           | 3         | 2             | 13 HP               | 12 slots                  | Greatsword (1d8, Close), Hand Axe (1d6, Close/Near) | Chainmail (Burden on attack and Boost on Defending), Helmet | Shield, Torches (4 uses), Grappling hook, Adventurer’s pack (rope, rations, waterskin) | 30 Gold            |
+| 4           | **Rogue**         | 3           | 2           | 2         | 1             | 12 HP               | 11 slots                  | Short Sword (1d6, Close), Throwing Darts (1d4, Near) | Light Armor (-d2 DR) | Lockpicks, Thieves' tools, Disguise kit, Rations (2 days), Grappling hook | 25 Gold            |
+| 5           | **Cleric**        | 2           | 2           | 1         | 3             | 11 HP               | 10 slots                  | Mace (1d6, Close), Sling (1d4, Near) | Chainmail (-d3 DR), Holy Symbol (Willpower advantage for healing rituals) | Prayer book (1 spell), Holy water (2 uses), Healing herbs (3 uses), Bandages (2 uses), Rations (2 days) | 18 Gold            |
+| 6           | **Barbarian**     | 2           | 1           | 3         | 2             | 13 HP               | 12 slots                  | Greataxe (1d8, Close), Javelins (1d6, Near) | Fur Armor (-d2 DR) | Hunting traps (2 uses), Rations (3 days), Waterskin, Battle paint | 25 Gold            |
+
+[Back to TOC](#table-of-contents)
+
 ## Action and Movement
 
 Player's turn: they can move up to 30 feet, attack, defend, or wait for a reaction. If the player uses double movement, they can move up to 60 feet. Then, the player will wait for the next round to attack.
@@ -188,6 +200,8 @@ Players and NPCs about to be attacked will roll AGILITY save against an upcoming
 
 When the PC holds a shield, it will negate a -1 damage when hit. If the roll ends with multiple 1s, the shield will break. The PC can ignore all damage from one attack but the shield breaks. This can also be done when enemy does critical damage. The player can use shield and break it this way they will not take any damage. 
 
+- [Back to TOC](#table-of-contents)
+
 ### The Rule of Failure and Success Roll with Multiple Dice
 
 In BareBones RPG, players may roll more than 1 die. Success and failure rolls will differ in combat whenever multiple dice are rolled.
@@ -195,16 +209,24 @@ In BareBones RPG, players may roll more than 1 die. Success and failure rolls wi
 - If 1s and 6s are rolled together, if there are more 6s than 1s, it is ruled a success.
 - If there are more 1s than 6s on the single roll, it is ruled a fumble. This also applies to Spell Mishap.
 
+- [Back to TOC](#table-of-contents)
+
 ## Aiding or Interfering
 This **action can only be done before** any roll has been made. The player can ask for help from other players or NPCs.
 
+- [Back to TOC](#table-of-contents)
+
 ### Aiding
 In cases where a player receives aid during a check, the rolling player gains a **+1 bonus** for each player who helps. This bonus can turn a roll of 4 into a successful roll of 5 with the help of additional players.
+
+- [Back to TOC](#table-of-contents)
 
 > **Designer's Note:**
 >
 > - If this is a **social encounter** the GM or Player will roll a d6 for [**NPC's Reaction**]() and add (+1 **per players who are aiding**)
 > - If this is during a **combat** and a **Check** roll, the player will have to discuss how they will aid the player who is about to roll and the GM will decide if this aid makes sense and the GM can allow the +1 **bonus towards** their roll.
+
+- [Back to TOC](#table-of-contents)
 
 ### Interfering
 
