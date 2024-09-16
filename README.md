@@ -1,3 +1,47 @@
+<!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
+
+   * [You Will Need...](#you-will-need)
+   * [Game Mechanics](#game-mechanics)
+   * [Character Creation](#character-creation)
+      + [Rolling for Stats](#rolling-for-stats)
+      + [Customization Through Attribute Allocation](#customization-through-attribute-allocation)
+      + [Calculating Hit Points](#calculating-hit-points)
+      + [How much can I hold?](#how-much-can-i-hold)
+      + [How Much Currency Do I Start With?](#how-much-currency-do-i-start-with)
+      + [Backgrounds](#backgrounds)
+   * [Action and Movement](#action-and-movement)
+      + [Initiative Rules:](#initiative-rules)
+         - [Optional Initiative Rule:](#optional-initiative-rule)
+      + [Attack Roll](#attack-roll)
+      + [Enemy's Turn](#enemys-turn)
+      + [Roll a AGILITY Save to Dodge an Attack](#roll-a-agility-save-to-dodge-an-attack)
+      + [The Rule of Failure and Success Roll with Multiple Dice](#the-rule-of-failure-and-success-roll-with-multiple-dice)
+   * [Aiding or Interfering](#aiding-or-interfering)
+      + [Aiding](#aiding)
+      + [Interfering](#interfering)
+   * [A Boost and Burden Roll](#a-boost-and-burden-roll)
+      + [Two-Weapon Fighter Rules:](#two-weapon-fighter-rules)
+   * [Burn Mechanic](#burn-mechanic)
+      + [Minor Burn:](#minor-burn)
+      + [Major Burn:](#major-burn)
+      + [Critical Burn:](#critical-burn)
+   * [Advancement:](#advancement)
+   * [Death](#death)
+   * [Saved By A Bone](#saved-by-a-bone)
+   * [Weapon Tag](#weapon-tag)
+      + [Optional Rule](#optional-rule)
+   * [Damage Bonuses](#damage-bonuses)
+   * [Resting](#resting)
+   * [Weapons and Gear](#weapons-and-gear)
+   * [Armor](#armor)
+   * [BareBones Spell Casting](#barebones-spell-casting)
+- [100 Level-Less Spells](#100-level-less-spells)
+   * [Spell Mishap](#spell-mishap)
+      + [Wild Magic Table (d66)](#wild-magic-table-d66)
+         - [BareBones RPG is licensed under the CC by 4.0 Written by Victor Gregory Matos (_TheVikkodamus_)](#barebones-rpg-is-licensed-under-the-cc-by-40-written-by-victor-gregory-matos-thevikkodamus)
+
+<!-- TOC end -->
+
 **The Full text is licensed under** [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/)
 Written by [Victor Gregory Matos](https://thevikkodamus.bearblog.dev) (_TheVikkodamus_)
 
@@ -16,51 +60,6 @@ Written by [Victor Gregory Matos](https://thevikkodamus.bearblog.dev) (_TheVikko
 - Tokens or figures to represent playable characters.
 - Your Imagination.
   
-<!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
-
-   * [Game Mechanics](#game-mechanics)
-   * [Character Creation](#character-creation)
-      + [Rolling for Stats](#rolling-for-stats)
-      + [For Dice Enthusiasts (Dice Goblins) with a Three-sided Die (1d3):](#for-dice-enthusiasts-dice-goblins-with-a-three-sided-die-1d3)
-      + [Customization Through Attribute Allocation](#customization-through-attribute-allocation)
-      + [Calculating Hit Points](#calculating-hit-points)
-         - [Optional Rule:](#optional-rule)
-      + [How much can I hold?](#how-much-can-i-hold)
-      + [How Much Currency Do I Start With?](#how-much-currency-do-i-start-with)
-      + [Backgrounds](#backgrounds)
-   * [Action and Movement](#action-and-movement)
-      + [Initiative Rules:](#initiative-rules)
-         - [Optional Initiative Rule:](#optional-initiative-rule)
-      + [Attack Roll](#attack-roll)
-      + [Enemy's Turn](#enemys-turn)
-      + [Roll a Mobility Save to Dodge an Attack](#roll-a-mobility-save-to-dodge-an-attack)
-      + [The Rule of Failure and Success Roll with Multiple Dice](#the-rule-of-failure-and-success-roll-with-multiple-dice)
-   * [Aiding or Interfering](#aiding-or-interfering)
-      + [Aiding](#aiding)
-      + [Interfering](#interfering)
-   * [A Boost and Burden Roll](#a-boost-and-burden-roll)
-      + [Two-Weapon Fighter Rules:](#two-weapon-fighter-rules)
-   * [Burn Mechanic](#burn-mechanic)
-      + [Minor Burn:](#minor-burn)
-      + [Major Burn:](#major-burn)
-      + [Critical Burn:](#critical-burn)
-   * [Advancement:](#advancement)
-   * [Death](#death)
-   * [Saved By A Bone](#saved-by-a-bone)
-   * [Weapon Tag](#weapon-tag)
-      + [Optional Rule](#optional-rule-1)
-   * [Damage Bonuses](#damage-bonuses)
-   * [Resting](#resting)
-   * [Weapons and Gear](#weapons-and-gear)
-   * [Armor](#armor)
-   * [BareBones Spell Casting](#barebones-spell-casting)
-- [100 Level-Less Spells](#100-level-less-spells)
-   * [Spell Mishap](#spell-mishap)
-      + [Wild Magic Table (d66)](#wild-magic-table-d66)
-         - [BareBones RPG is licensed under the CC by 4.0 Written by Victor Gregory Matos (_TheVikkodamus_)](#barebones-rpg-is-licensed-under-the-cc-by-40-written-by-victor-gregory-matos-thevikkodamus)
-
-<!-- TOC end -->
-
 ## Game Mechanics
 
 In **_BareBones RPG_**, players possess _attributes_, each associated with a specific number of **six-sided** dice for actions related to that attribute. Rolling a **5** on a die is a _soft success_, while a roll of **6** is a _critical success_. Any result below **4** is a _soft failure_, and a roll of **1** is a _fumble_, potentially leading to harmful consequences. However, if a player holds their **action for a round or wants to react** to an enemy's action, the success threshold is reduced to **4**, instead of the usual **5-6**. 
@@ -76,48 +75,39 @@ For players who enjoy rolling for their stats, there are two options:
 Using a **Standard Six-sided Die** (1d6):
 
 Roll a standard six-sided die (1d6). Divide the result by 2, rounding up if necessary.
-Assign the rounded result to the corresponding stat in the order: **MIGHT, MOBILITY, INSIGHT, GRIT, and WILLPOWER**.
+Assign the rounded result to the corresponding stat in the order: **AGILITY, INSIGHT, MIGHT, and WILLPOWER**.
 > **Example:** Roll a _D6_ and get a 4. Divide 4 by 2 to get a result of 2 (rounded up), assigning it to the relevant stat.
 > **Note:** If you are new to this, remember that a standard six-sided die is commonly referred to as a D6.
-
-- [Back to Table of Content](#table-of-content)
-
-### For Dice Enthusiasts (Dice Goblins) with a Three-sided Die (1d3):
-
-Use a three-sided die (1d3) for a straight roll down in order for **Might, Mobility, Insight, Grit, and WILLPOWER.**
-> **Example:** Roll the three-sided die five times, assigning each result in order to the corresponding stat.
+> Also Referee, Game master or Warden can give these numbers **3, 3, 2, 2, and 1.** The players can assign these numbers to the attributes that makes sense for the character they are creating. 
 
 - [Back to Table of Content](#table-of-content)
 
 ### Customization Through Attribute Allocation
 
 Players begin with 10 or 12 points to allocate among their attributes, with each attribute having a minimum value of 1. This system provides the freedom to create a character quickly or collaborate with the game master (GM) for a more tailored character.
+
 - [Back to Table of Content](#table-of-content)
 
 **BareBones Attributes:**
 
-- **MIGHT** = _Crush, lift, strike, grapple_
-- **MOBILITY** = _Defend, balance, swim, flee_
+- **AGILITY** = _Defend, balance, swim, flee_
 - **INSIGHT** = _Perceive, aim, charm, smarts_
-- **GRIT** = _Resist Poison/cold/heat, survive falling_
+- **MIGHT** = _Crush, lift, strike, grapple_
 - **WILLPOWER** = _Willpower, using relics/magic weapons, casting spells, rituals_
 
 - [Back to Table of Content](#table-of-content)
 
 ### Calculating Hit Points
 
-In BareBones, the player will start with _10 + GRIT_ to generate max HP.
-- [Back to Table of Content](#table-of-content)
-
-#### Optional Rule:
-
-GM may allow _13+GRIT_ for a stronger hero. 
+In BareBones, the player will start with _10 + MIGHT_ to generate max HP.
 
 - [Back to Table of Content](#table-of-content)
+
 
 ### How much can I hold?
 
-The playable character can hold up to 9 + MIGHT slots. Carrying more than they can handle results in being encumbered. The player will move at half their speed, and every roll will be with Burden on their Mobility, check, and defense rolls. Unless they have one, their attribute will go down to zero.
+The playable character can hold up to 9 + MIGHT slots. Carrying more than they can handle results in being encumbered. The player will move at half their speed, and every roll will be with _[Burden](#)_ on their AGILITY, check, and defense rolls. Unless they have one, their attribute will go down to zero.
+
 - [Back to Table of Content](#table-of-content)
 
 ### How Much Currency Do I Start With?
@@ -141,11 +131,10 @@ Referee: "Hmm, that makes sense. Alright, I'll give you a boost on your tracking
 
 Player's turn: they can move up to 30 feet, attack, defend, or wait for a reaction. If the player uses double movement, they can move up to 60 feet. Then, the player will wait for the next round to attack.
 
-- _Whenever an attack is triggered_, the player will use **Might** when a weapon has a close-range tag.
+- _Whenever a defense is triggered_, the player will use **AGILITY** when wearing armor, including the worn armor tag.
 - _Whenever an attack is triggered_, the player will use **Insight** when a weapon has a mid or far range due to aiming.
-- _Whenever a defense is triggered_, the player will use **Mobility** when wearing armor, including the worn armor tag.
+- _Whenever an attack is triggered_, the player will use **MIGHT** when a weapon has a close-range tag, or ingest a posion.
 - _Whenever a player casts a spell_, they will use **WILLPOWER**.
-- _Whenever a player is bitten by something_ or touches something poisonous, the PC will use GRIT to save.
 - _When a player moves and **holds their action**_, they can _lower the success threshold to 4_ due to waiting for that moment to act!
 
 - [Back to Table of Content](#table-of-content)
@@ -161,30 +150,32 @@ In a battle encounter, a designated player rolls a die on behalf of their group 
 
 #### Optional Initiative Rule:
 
-You can use individual initiative if you like. Both the enemy and the player will roll a d6 + MOBILITY. The highest roll will determine the winner of the initiative. This roll will occur at the beginning of every turn.
+You can use individual initiative if you like. Both the enemy and the player will roll a d6 + AGILITY. The highest roll will determine the winner of the initiative. This roll will occur at the beginning of every turn.
+
 - [Back to Table of Content](#table-of-content)
 
 ### Attack Roll
 
 It is the player's turn, and they decide to go for an attack, depending on the type of weapon they may hold. They will then roll for their respective Attribute. 
+
 - Anytime a player rolls a 5 or 6, the attack happens.
 - If a player rolls a 6, this is a critical hit. The player will do double the damage against the enemy. This attack will reduce the enemy's armor. The armor will reduce from a d8 >> d6 >> d4 >> d2 >> 0. 
-- A player holds their **action for a round or wants to react** to an enemy's action. This can reduce the success threshold to **4** instead of **5-6** in normal circumstances. **This only happens during combat.**
+- A player holding their **action for a round or wants to react** to an enemy's action. This can reduce the success threshold to **4** instead of **5-6** in normal circumstances. **This only happens during combat.**
 
 - [Back to Table of Content](#table-of-content)
 
 ### Enemy's Turn
 
-Enemies can move and attack or take cover. When attacking, the player must make a **Mobility Save** roll. 
+Enemies can move and attack or take cover. When attacking, the player must make a **AGILITY Save** roll. 
 
 - If the PC fails, the attack occurs, and players will **roll damage reduction** if wearing armor. 
-- **On a roll of 1** with their Mobility Save, the enemy crits their attack against the Player Character and they will **roll damage reduction** if wearing armor. This will reduce the **armor quality**.
+- **On a roll of 1** with their AGILITY Save, the enemy crits their attack against the Player Character and they will **roll damage reduction** if wearing armor. This will reduce the **armor quality**.
 
 - [Back to Table of Content](#table-of-content) 
 
-### Roll a Mobility Save to Dodge an Attack
+### Roll a AGILITY Save to Dodge an Attack
 
-Players and NPCs about to be attacked will roll Mobility save against an upcoming attack.
+Players and NPCs about to be attacked will roll AGILITY save against an upcoming attack.
 
 - If the defender rolls a 6, they can avoid the attack and make a free attack. This is not a critical attack.
 
@@ -204,7 +195,7 @@ When the PC holds a shield, it will negate a -1 damage when hit. If the roll end
 
 ### The Rule of Failure and Success Roll with Multiple Dice
 
-In BareBones RPG, players and enemies may roll more than 1 die. Success and failure rolls will differ in combat whenever multiple dice are rolled.
+In BareBones RPG, players may roll more than 1 die. Success and failure rolls will differ in combat whenever multiple dice are rolled.
 
 - If 1s and 6s are rolled together, if there are more 6s than 1s, it is ruled a success.
 - If there are more 1s than 6s on the single roll, it is ruled a fumble. This also applies to Spell Mishap.
@@ -212,14 +203,14 @@ In BareBones RPG, players and enemies may roll more than 1 die. Success and fail
 - [Back to Table of Content](#table-of-content)
 
 ## Aiding or Interfering
+This **action can only be done before** any roll has been made. The player can ask for help from other players or NPCs.
 
 ### Aiding
-
 In cases where a player receives aid during a check, the rolling player gains a **+1 bonus** for each player who helps. This bonus can turn a roll of 4 into a successful roll of 5 with the help of additional players.
 
 > **Designer's Note:**
 >
-> - If this is a **social encounter** the GM or Player will roll a d6 for **NPC's Reaction** and add (+1 **per players who are aiding**)
+> - If this is a **social encounter** the GM or Player will roll a d6 for [**NPC's Reaction**]() and add (+1 **per players who are aiding**)
 > - If this is during a **combat** and a **Check** roll, the player will have to discuss how they will aid the player who is about to roll and the GM will decide if this aid makes sense and the GM can allow the +1 **bonus towards** their roll.
 
 - [Back to Table of Content](#table-of-content)
@@ -234,8 +225,13 @@ In scenarios where a player encounters interference during a check, the rolling 
 
 _BareBones_ uses **Boost and Burden** . 
 
-- A **Boost** is a +1 die towards the attribute, increasing the number of dice that can be rolled on that turn.
-- A **Burden** imposes a -1 penalty die on a player's roll, depending on what they are wearing and facing a creature's abilities.
+A **Boost** can be awarded by the GM when a player character is in a **favorable situation**, such as attacking an unaware enemy or exploiting an environmental advantage. When a **Boost is granted**, the player gains a _+1 die_ to their attribute roll, representing the increased likelihood of success due to the **advantageous circumstances**.
+
+A **Burden** can be awarded by the GM when a player character is in a **disadvantageous situation**, such as being attacked from an unexpected direction or trying to fight while prone on the ground with an opponent on top of them. When a Burden is granted, the player loses a -1 die to their attribute roll, representing the decreased likelihood of success due to the unfavorable circumstances.
+
+> **Designer's Note:**
+>
+> Player Characters may incur **Burden rolls** depending on the armor they are wearing. The **heavier the armor**, the more likely it is that the character will roll with a **Burden when attempting to hit an enemy**, representing the difficulty of moving freely in combat. However, certain types of **armor can also grant Boost rolls when defending**, providing a defensive advantage due to the increased protection.
 
 - [Back to Table of Content](#table-of-content)
 
@@ -250,7 +246,7 @@ When a player who creates a two-weapon fighter player character will follow the 
 
 ## Burn Mechanic
 
-Players can use their attributes to push their limit using the burn action with the chosen attribute.
+Players can use their attributes to push their limit once a session using the burn action with the chosen attribute.
 
 The Burn mechanic can be used when the player character succeeds or fails their roll. 
 
@@ -262,8 +258,8 @@ The Burn mechanic can be used when the player character succeeds or fails their 
 
 ### Major Burn:
 
-- Effect: The player character who uses burn will lose 2 points from their score.
-- Example: A player character is climbing a cliff, and rolled a 3 on their Might roll. They can push their body and use up 2 points of their Might to complete their climb.
+- Effect: The player character who usesf burn will lose 2 points from their score.
+- Example: A player character is climbing a cliff, and rolled a 3 on their MIGHT roll. They can push their body and use up 2 points of their MIGHT to complete their climb.
 - Recovery: A player character who loses 2 points of their attribute due to a Major Burn can recover their points with a long rest (uninterrupted sleep with ration and waterskin).
 - Minimum Attribute Score: A Major Burn cannot reduce an attribute below 1.
 
@@ -279,24 +275,24 @@ The GM has final say on whether a Critical Burn is appropriate for a given situa
 - [Back to Table of Content](#table-of-content)
 
 ## Advancement:
-Advancement in the BareBones RPG differs from traditional systems. Players (PCs) mark each fumbled roll for their attributes. They should consistently check a box next to the attribute. Once all six boxes are marked, they can add a point to that attribute after training. This advancement can only be completed at the end of the session in a safe location.
-If they use the Burn Mechanic, they will not mark their attribute for advancement.
+Advancement in the BareBones RPG differs from traditional systems. Players (PCs) mark each fumbled roll for their attributes. They should consistently check a box next to the attribute. Once all six boxes are marked, Players will roll against their stat if they beat the number they can add a point to that attribute after training. This advancement can only be completed at the end of the session in a safe location.
+If Player Character use the Burn Mechanic, they will not mark their attribute for advancement.
 - [Back to Table of Content](#table-of-content)
 
 ## Death
 
 BareBones is a dangerous game for PCs, with death being a possible outcome at the table. 0 means you are dying. Player character's Hit Points below zero is automatic death. 
-- The fallen player will use **GRIT** as their death timer. This will give enough time for other players to patch or heal the fallen player character.
+- The fallen player will use **MIGHT** as their death timer. This will give enough time for other players to patch or heal the fallen player character.
 - If the PC is not handled with a medical kit or magic, the PC will roll a Saved By a Bone (Death Save).
 
 - [Back to Table of Content](#table-of-content)
 
 ## Saved By A Bone
-A player may roll a Saved by a Bone. This is our death save. If the player rolls, a 1 the burn mechanic is not allowed. This will burn their GRIT attribute. 
+A player may roll a Saved by a Bone. This is our death save. If the player rolls, a 1 the burn mechanic is not allowed. This will burn their MIGHT attribute. 
 - If you roll a 1, this means the PC is dead.
-- 2-4, they are still bleeding out. The **GM will roll a d2 death timer**. 
-- 5 they save. 5 the PC will get up with (x) amount current GRIT as their HP.
-- 6 the PC will get (x)*2  current GRIT as their HP.
+- 2-4, they are still bleeding out. The **GM will roll a d4 death timer**. 
+- 5 they save. 5 the PC will get up with (x) amount current MIGHT as their HP.
+- 6 the PC will get (x)*2  current MIGHT as their HP.
 
 - [Back to Table of Content](#table-of-content)
 
@@ -335,8 +331,8 @@ The PC damage bonus will be half of their attributes rounded down.
 
 ## Resting
 When players are in a somewhat safe area, with no active encounter:
-- The players can eat rations and use their waterskin; this is taking a breather before embarking to their next stop. A player must declare a **Breather**; this way, the referee can allow the players to use their rations with a short rest. When the PCs do this, they can roll 1d3+GRIT health and will recover from a minor burn.
-- The players will recover their max health points. Players need to rest in a safe place with uninterrupted sleep for a long rest whenever they eat a ration and have a drink from their waterskin, players will also recover from their major burn.
+- The players can eat rations and use their waterskin; this is taking a breather before embarking to their next stop. A player must declare a **Breather**; this way, the referee can allow the players to use their rations with a short rest. When the PCs do this, they can roll 1d6+MIGHT health and will recover from a minor burn.
+- The player characters will recover their max health points. Players need to rest in a safe place with uninterrupted sleep for a long rest whenever they eat a ration and have a drink from their waterskin, players will also recover from their major burn.
 
 - [Back to Table of Content](#table-of-content)
 
@@ -355,9 +351,9 @@ When players are in a somewhat safe area, with no active encounter:
 - **Glaive:** great, mid, slashing damage
 - **Halberd:** great, mid, slashing damage
 - **Lance:** great, mid, piercing damage
-- **Long Spear:** can roll with might or insight, great, piercing damage
-- **Quarterstaff:** can roll with might or mobility, blunt damage, medium
-- **Spear:** can roll with might or insight, thrown, piercing damage
+- **Long Spear:** can roll with MIGHT or insight, great, piercing damage
+- **Quarterstaff:** can roll with MIGHT or AGILITY, blunt damage, medium
+- **Spear:** can roll with MIGHT or insight, thrown, piercing damage
 - **Sword, short:** 8 GP, 3 quality, 1 slot, close, small, piercing damage
 - **Sword:** 10 GP, 3 quality, 2 slots, medium, slashing damage
 - **Sword, two-handed:** 15 GP, 3 quality, 3 slots, close, medium, slashing damage
@@ -366,17 +362,23 @@ When players are in a somewhat safe area, with no active encounter:
 - [Back to Table of Content](#table-of-content)
 
 ## Armor
-- **Chain Mail:** While wearing this armor, the player will roll with burden against **Attack, Acrobatic & Stealth checks** and a **boost** towards Mobility Save. Cost: _30 GP, 5 Quality, 3 Slots_, -d3 _damage reduction_ when hit.
+- **Chain Mail:** While wearing this armor, the player will roll with burden against **Attack, Acrobatic & Stealth checks** and a **boost** towards AGILITY Save. Cost: _30 GP, 5 Quality, 3 Slots_, -d3 _damage reduction_ when hit.
 - **Leather:** The player rolls without burden against Attack rolls while wearing this armor. Cost: _15 GP, 3 Quality, 1 slot_, -d2 _damage reduction_ when hit. 
-- **Plate Mail:** While wearing this armor, the player will roll with burden against **Attack, Acrobatic, and stealth checks** and a **boost** on Mobility Save rolls. Cost: _60 GP, 7 Quality, 5 slots_, -d6 _damage reduction_ when hit. 
+- **Plate Mail:** While wearing this armor, the player will roll with burden against **Attack, Acrobatic, and stealth checks** and a **boost** on AGILITY Save rolls. Cost: _60 GP, 7 Quality, 5 slots_, -d6 _damage reduction_ when hit. 
 - **Shield:** Cost 10 gp **-1 damage** when being held, _1 quality, 1 slot_. The PC can ignore all damage from one attack but the shield breaks.
 
 - [Back to Table of Content](#table-of-content)
 
 ## BareBones Spell Casting
-Magic is accessible to anyone with points in their Willpower attribute. To cast a spell, roll your Willpower attribute; if you roll a 5 or 6, the spell will take effect. However, be cautious of those fumble rolls, as they may have unintended consequences for the spell-caster. If player fails to cast their spell, the gm can afflict damage or make the prWILLPOWER of the players known to the guards or monsters. Keep in mind that magic is dangerous! Only a _**brave or a foolish**_ soul may try this mysterious arcane power without considering its effects or repercussions. **Magic-User** will roll **_d3+Willpower** every morning to determine how many times they can cast their spells. 
+Magic is accessible to anyone with points in their Willpower attribute. To cast a spell, roll your Willpower attribute. If you roll a 5 or 6, the spell takes effect.
 
-The GM may allow spells from other OSR books or resources. Conversion will be necessary to align with the mechanics of BareBones RPG.
+**Spell Mishaps:** Be cautious! Fumble rolls (rolling a 1) can have unintended consequences for the spellcaster. The GM may choose to inflict damage, reveal the caster's presence to enemies, or consult the **Spell Mishap** table for a random effect.
+
+Remember, **magic is dangerous!** Only a brave or foolish soul would wield this mysterious arcane power without considering the potential repercussions.
+
+Magic-Users: Each morning, a Magic-User rolls d6 + their Willpower score to determine how many spells they can cast that day.
+
+Expanding Your Spellbook: The GM may allow spells from other OSR sources. However, conversion may be necessary to ensure they fit seamlessly with the mechanics of BareBones RPG..
 
 - [Back to Table of Content](#table-of-content)
 
