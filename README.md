@@ -232,6 +232,8 @@ In cases where a player receives aid during a check, the rolling player gains a 
 
 In scenarios where a player encounters interference during a check, the rolling player incurs a **-1 penalty** for each interfering player. This penalty can result in a successful roll of 5 turning into an unsuccessful roll of 4 due to the presence of interfering players.
 
+- [Back to TOC](#table-of-contents)
+
 ## A Boost and Burden Roll
 
 _BareBones_ uses **Boost and Burden** . 
@@ -244,6 +246,8 @@ A **Burden** can be awarded by the GM when a player character is in a **disadvan
 >
 > Player Characters may incur **Burden rolls** depending on the armor they are wearing. The **heavier the armor**, the more likely it is that the character will roll with a **Burden when attempting to hit an enemy**, representing the difficulty of moving freely in combat. However, certain types of **armor can also grant Boost rolls when defending**, providing a defensive advantage due to the increased protection.
 
+- [Back to TOC](#table-of-contents)
+
 ### Two-Weapon Fighter Rules:
 
 When a player who creates a two-weapon fighter player character will follow the Burden rule. 
@@ -251,11 +255,15 @@ When a player who creates a two-weapon fighter player character will follow the 
 - The player will tell the referee which is the dominant hand their player character uses; the dominant hand will always roll with all attributes with no Burden.
 - When attacking with the non-dominant hand, the player will roll with a Burden for their non-dominant hand attack. This can be MIGHT or INSIGHT depending on the type of weapon.
 
+- [Back to TOC](#table-of-contents)
+
 ## Burn Mechanic
 
 Players can use their attributes to push their limit once a session using the burn action with the chosen attribute.
 
 The Burn mechanic can be used when the player character succeeds or fails their roll. 
+
+- [Back to TOC](#table-of-contents)
 
 ### Minor Burn:
 
@@ -279,14 +287,20 @@ The Burn mechanic can be used when the player character succeeds or fails their 
 
 The GM has final say on whether a Critical Burn is appropriate for a given situation and its outcome.
 
+- [Back to TOC](#table-of-contents)
+
 ## Advancement:
 Advancement in the BareBones RPG differs from traditional systems. Players (PCs) mark each fumbled roll for their attributes. They should consistently check a box next to the attribute. Once all six boxes are marked, Players will roll against their stat if they beat the number they can add a point to that attribute after training. This advancement can only be completed at the end of the session in a safe location. If Player Character use the Burn Mechanic, they will not mark their attribute for advancement.
+
+- [Back to TOC](#table-of-contents)
 
 ## Death
 
 BareBones is a dangerous game for PCs, with death being a possible outcome at the table. 0 means you are dying. Player character's Hit Points below zero is automatic death. 
 - The fallen player will use **MIGHT** as their death timer. This will give enough time for other players to patch or heal the fallen player character.
 - If the PC is not handled with a medical kit or magic, the PC will roll a Saved By a Bone (Death Save).
+
+- [Back to TOC](#table-of-contents)
 
 ## Saved By A Bone
 A player may roll a Saved by a Bone. This is our death save. If the player rolls, a 1 the burn mechanic is not allowed. This will burn their MIGHT attribute. 
@@ -295,12 +309,16 @@ A player may roll a Saved by a Bone. This is our death save. If the player rolls
 - 5 they save. 5 the PC will get up with (x) amount current MIGHT as their HP.
 - 6 the PC will get (x)*2  current MIGHT as their HP.
 
+- [Back to TOC](#table-of-contents)
+
 ## Weapon Tag
 - **Small:** Takes 1 slot and does 1 dmg + (MIGHT/INSIGHT)
 - **Medium:** Takes 2 slots and does 2 dmg + (MIGHT/INSIGHT)
 - **Great:** Takes 3 slots and does 3 dmg + (MIGHT/INSIGHT)
 
 If not rolling for damage, the player will use their MIGHT/INSIGHT as a bonus.
+
+- [Back to TOC](#table-of-contents)
 
 ### Optional Rule
 PC can roll for damage instead of automatically doing damage. They will use the damage bonus instead of the attribute points.
@@ -322,10 +340,14 @@ The PC damage bonus will be half of their attributes rounded down.
 - 5 points in attributes = **2 bonus**
 - 6 points in attributes = **3 bonus**
 
+- [Back to TOC](#table-of-contents)
+
 ## Resting
 When players are in a somewhat safe area, with no active encounter:
 - The players can eat rations and use their waterskin; this is taking a breather before embarking to their next stop. A player must declare a **Breather**; this way, the referee can allow the players to use their rations with a short rest. When the PCs do this, they can roll 1d6+MIGHT health and will recover from a minor burn.
 - The player characters will recover their max health points. Players need to rest in a safe place with uninterrupted sleep for a long rest whenever they eat a ration and have a drink from their waterskin, players will also recover from their major burn.
+
+- [Back to TOC](#table-of-contents)
 
 ## Weapons and Gear
 - **Battle Axe:** 7 GP, 3 quality, 3 slots, close, great, slashing damage, slow
@@ -350,11 +372,15 @@ When players are in a somewhat safe area, with no active encounter:
 - **Sword, two-handed:** 15 GP, 3 quality, 3 slots, close, medium, slashing damage
 - **Warhammer:** 5 GP, 3 quality, 2 slots, blunt damage, close, medium
 
+- [Back to TOC](#table-of-contents)
+
 ## Armor
 - **Chain Mail:** While wearing this armor, the player will roll with burden against **Attack, Acrobatic & Stealth checks** and a **boost** towards AGILITY Save. Cost: _30 GP, 5 Quality, 3 Slots_, -d3 _damage reduction_ when hit.
 - **Leather:** The player rolls without burden against Attack rolls while wearing this armor. Cost: _15 GP, 3 Quality, 1 slot_, -d2 _damage reduction_ when hit. 
 - **Plate Mail:** While wearing this armor, the player will roll with burden against **Attack, Acrobatic, and stealth checks** and a **boost** on AGILITY Save rolls. Cost: _60 GP, 7 Quality, 5 slots_, -d6 _damage reduction_ when hit. 
 - **Shield:** Cost 10 gp **-1 damage** when being held, _1 quality, 1 slot_. The PC can ignore all damage from one attack but the shield breaks.
+
+- [Back to TOC](#table-of-contents)
 
 ## BareBones Spell Casting
 Magic is accessible to anyone with points in their Willpower attribute. To cast a spell, roll your Willpower attribute. If you roll a 5 or 6, the spell takes effect.
@@ -365,7 +391,9 @@ Remember, **magic is dangerous!** Only a brave or foolish soul would wield this 
 
 Magic-Users: Each morning, a Magic-User rolls d6 + their Willpower score to determine how many spells they can cast that day.
 
-Expanding Your Spellbook: The GM may allow spells from other OSR sources. However, conversion may be necessary to ensure they fit seamlessly with the mechanics of BareBones RPG..
+Expanding Your Spellbook: The GM may allow spells from other OSR sources. However, conversion may be necessary to ensure they fit seamlessly with the mechanics of BareBones RPG.
+
+- [Back to TOC](#table-of-contents)
 
 # 100 Level-Less Spells
 
@@ -474,6 +502,7 @@ Player can **roll or pick** their spells. Spells from [Knave](https://preview.dr
 | 99   | Wizard Mark         | Your finger can shoot a stream of ulfire-colored paint. This paint is only visible to you, and can be seen at any distance, even through solid objects. |
 | 100  | X-Ray Vision        | You gain X-Ray vision.                                       |
 
+- [Back to TOC](#table-of-contents)
 
 ## Spell Mishap
 This rule operates similarly to Critical or Fumble rules. When rolling dice for an WILLPOWER check, if both 1s and 6s appear on the same roll, the outcome is determined as follows:
@@ -482,6 +511,8 @@ This rule operates similarly to Critical or Fumble rules. When rolling dice for 
 - If there are more 1s than 6s, the roll is ruled a fumble.
 
 **Magic is a perilous power, only to be tampered with by the bravest or most foolish**. The GM can consult the following table when multiple ones are rolled on a single WILLPOWER roll. Alternatively, the GM may inflict damage on the spell caster equal to the number of rolled 1s against the casting player's Hit Points or WILLPOWER.
+
+- [Back to TOC](#table-of-contents)
 
 | Roll | Spell Mishap                                                 |
 | ---- | ------------------------------------------------------------ |
@@ -521,6 +552,8 @@ This rule operates similarly to Critical or Fumble rules. When rolling dice for 
 | 64   | Soul Exchange: Caster briefly swaps souls with a random creature in the area. |
 | 65   | Reality Shift: The environment undergoes a temporary surreal transformation. |
 | 66   | Cataclysmic Event: A major magical event occurs, reshaping the surrounding landscape or summoning a powerful entity. |
+
+- [Back to TOC](#table-of-contents)
 
 ### Wild Magic Table (d66)
 
@@ -564,6 +597,8 @@ This rule operates similarly to Critical or Fumble rules. When rolling dice for 
 |  66  | Reality Shatter: A localized distortion briefly rends the fabric of reality. |
 
 If you enjoy the game and would like to show your support, please consider clicking on the link below to buy me a coffee on Ko-fi! Your contribution helps fuel the creativity behind the game. Thank you for your generosity!
+
+- [Back to TOC](#table-of-contents)
 
 [Buy me a coffee on Ko-fi](https://ko-fi.com/barebonesrpg)
 
