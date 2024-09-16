@@ -78,7 +78,9 @@ Roll a standard six-sided die (1d6). Divide the result by 2, rounding up if nece
 Assign the rounded result to the corresponding stat in the order: **AGILITY, INSIGHT, MIGHT, and WILLPOWER**.
 > **Example:** Roll a _D6_ and get a 4. Divide 4 by 2 to get a result of 2 (rounded up), assigning it to the relevant stat.
 > **Note:** If you are new to this, remember that a standard six-sided die is commonly referred to as a D6.
-> Also Referee, Game master or Warden can give these numbers **3, 3, 2, 2, and 1.** The players can assign these numbers to the attributes that makes sense for the character they are creating. 
+> Also Referee, Game master or Warden can give these numbers **3, 3, 2, 2, and 1.** The players can assign these numbers to the attributes that makes sense for the character they are creating.
+
+- [Back to TOC](#table-of-contents)
 
 ### Customization Through Attribute Allocation
 
@@ -91,17 +93,25 @@ Players begin with 10 or 12 points to allocate among their attributes, with each
 - **MIGHT** = _Crush, lift, strike, grapple_
 - **WILLPOWER** = _Willpower, using relics/magic weapons, casting spells, rituals_
 
+- [Back to TOC](#table-of-contents)
+
 ### Calculating Hit Points
 
 In BareBones, the player will start with _10 + MIGHT_ to generate max HP.
+
+- [Back to TOC](#table-of-contents)
 
 ### How much can I hold?
 
 The playable character can hold up to 9 + MIGHT slots. Carrying more than they can handle results in being encumbered. The player will move at half their speed, and every roll will be with _[Burden](#)_ on their AGILITY, check, and defense rolls. Unless they have one, their attribute will go down to zero.
 
+- [Back to TOC](#table-of-contents)
+
 ### How Much Currency Do I Start With?
 
 The player will roll **3d6 * 10** (_fantasy setting_) or **3d6 * 100** (_modern setting_) for money, gold, or credit. This currency can be used to purchase their _starting gear, weapon, and armor_.
+
+- [Back to TOC](#table-of-contents)
 
 ### Backgrounds
 
@@ -111,6 +121,8 @@ Players will provide background information for their playable characters. When 
 Player: "My character, Marcus, grew up in the wilderness and learned survival skills from his father, who was a skilled hunter. So, when we're tracking this elusive creature through the forest, I think Marcus would have a boost due to having hunter in his background if I follow its tracks."
 
 Referee: "Hmm, that makes sense. Alright, I'll give you a boost on your tracking roll."
+
+- [Back to TOC](#table-of-contents)
 
 ## Action and Movement
 
@@ -122,6 +134,8 @@ Player's turn: they can move up to 30 feet, attack, defend, or wait for a reacti
 - _Whenever a player casts a spell_, they will use **WILLPOWER**.
 - _When a player moves and **holds their action**_, they can _lower the success threshold to 4_ due to waiting for that moment to act!
 
+- [Back to TOC](#table-of-contents)
+
 ### Initiative Rules:
 
 In a battle encounter, a designated player rolls a die on behalf of their group to determine the starting order. The player turns to initiate from the left side of the GM and progresses clockwise around the table.
@@ -129,9 +143,13 @@ In a battle encounter, a designated player rolls a die on behalf of their group 
 - 1-3... **Enemies go first**
 - 4-6... **Players go first**
 
+- [Back to TOC](#table-of-contents)
+
 #### Optional Initiative Rule:
 
 You can use individual initiative if you like. Both the enemy and the player will roll a d6 + AGILITY. The highest roll will determine the winner of the initiative. This roll will occur at the beginning of every turn.
+
+- [Back to TOC](#table-of-contents)
 
 ### Attack Roll
 
@@ -141,7 +159,7 @@ It is the player's turn, and they decide to go for an attack, depending on the t
 - If a player rolls a 6, this is a critical hit. The player will do double the damage against the enemy. This attack will reduce the enemy's armor. The armor will reduce from a d8 >> d6 >> d4 >> d2 >> 0. 
 - A player holding their **action for a round or wants to react** to an enemy's action. This can reduce the success threshold to **4** instead of **5-6** in normal circumstances. **This only happens during combat.**
 
-- [Back to Table of Content](#table-of-content)
+- [Back to TOC](#table-of-contents)
 
 ### Enemy's Turn
 
@@ -149,6 +167,8 @@ Enemies can move and attack or take cover. When attacking, the player must make 
 
 - If the PC fails, the attack occurs, and players will **roll damage reduction** if wearing armor. 
 - **On a roll of 1** with their AGILITY Save, the enemy crits their attack against the Player Character and they will **roll damage reduction** if wearing armor. This will reduce the **armor quality**.
+
+- [Back to TOC](#table-of-contents)
 
 ### Roll a AGILITY Save to Dodge an Attack
 
