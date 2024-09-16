@@ -585,6 +585,4 @@ If you enjoy the game and would like to show your support, please consider click
 
 [Buy me a coffee on Ko-fi](https://ko-fi.com/barebonesrpg)
 
-- [Back to Table of Content](#table-of-content)
-
 #### BareBones RPG is licensed under the [CC by 4.0](https://creativecommons.org/licenses/by/4.0/) Written by [Victor Gregory Matos](https://thevikkodamus.bearblog.dev) (_TheVikkodamus_)
