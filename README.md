@@ -78,7 +78,7 @@ Roll a standard six-sided die (1d6). Divide the result by 2, rounding up if nece
 Assign the rounded result to the corresponding stat in the order: **AGILITY, INSIGHT, MIGHT, and WILLPOWER**.
 > **Example:** Roll a _D6_ and get a 4. Divide 4 by 2 to get a result of 2 (rounded up), assigning it to the relevant stat.
 > **Note:** If you are new to this, remember that a standard six-sided die is commonly referred to as a D6.
-> Also Referee, Game master or Warden can give these numbers **3, 3, 2, 2, and 1.** The players can assign these numbers to the attributes that makes sense for the character they are creating.
+> Also Referee, Game master or Warden can give these numbers **3, 2, 2, and 1.** The players can assign these numbers to the attributes that makes sense for the character they are creating.
 
 - [Back to TOC](#table-of-contents)
 
