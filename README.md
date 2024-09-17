@@ -126,7 +126,7 @@ Referee: "Hmm, that makes sense. Alright, I'll give you a boost on your tracking
 
 ### Pre-packed Characters
 | **d6 Roll** | **Class/Package** | **Agility** | **Insight** | **Might** | **Willpower** | **HP** (10 + Might) | **Item Slots** (9 + Might) | **Weapons** | **Armor** | **Inventory** | **Starting Gold** |
-|-------------|-------------------|-------------|-------------|-----------|---------------|---------------------|---------------------------|-------------|-----------|---------------|-------------------|
+|---|---|---|---|---|---|---|---|---|---|---|---|
 | 1           | **Scout**         | 3           | 2           | 1         | 2             | 11 HP               | 10 slots                  | Shortbow (1d6, Near), Dagger (1d4, Close) | Leather Armor (-d2 DR), Explorer’s Cloak | Flint and steel, Rope (50 ft), Rations (3 days), Waterskin, Bandages (2 uses) | 20 Gold            |
 | 2           | **Mage**          | 1           | 3           | 2         | 2             | 12 HP               | 11 slots                  | Staff (1d6, Close), Throwing Knives (1d4, Near) | Robes () | Arcane Focus, Spellbook (2 spells), Ink and quill, Candle (4 uses), Healing salve (1 use) | 15 Gold            |
 | 3           | **Warrior**       | 2           | 1           | 3         | 2             | 13 HP               | 12 slots                  | Greatsword (1d8, Close), Hand Axe (1d6, Close/Near) | Chainmail (-d3 DR, Burden on attack and Boost on Defending), Helmet | Shield, Torches (4 uses), Grappling hook, Adventurer’s pack (rope, rations, waterskin) | 30 Gold            |
