@@ -84,7 +84,7 @@ Assign the rounded result to the corresponding stat in the order: **AGILITY, INS
 
 ### Customization Through Attribute Allocation
 
-Players begin with 10 or 12 points to allocate among their attributes, with each attribute having a minimum value of 1. This system provides the freedom to create a character quickly or collaborate with the game master (GM) for a more tailored character.
+Players begin with 10 points to allocate among their attributes, with each attribute having a minimum value of 1. This system provides the freedom to create a character quickly or collaborate with the game master (GM) for a more tailored character.
 
 **BareBones Attributes:**
 
