@@ -310,7 +310,10 @@ BareBones is a dangerous game for PCs, with death being a possible outcome at th
 - [Back to TOC](#table-of-contents)
 
 ## Saved By A Bone
-A player may roll a Saved by a Bone. This is our death save. If the player rolls, a 1 the burn mechanic is not allowed. This will burn their MIGHT attribute. 
+A player may roll a Saved by a Bone. This is our death save. Burn mechanic is not allowed when rolling for a Saved by a Bone. 
+PC has x Might as death counter. Player first must declare Saved by a Bone and then roll. This will give opportunity for other players to try to patch them up.
+If no player character has helped the fallen player character. After the death timer goes down to zero, they must roll a saved by a bone. 
+
 - If you roll a 1, this means the PC is dead.
 - 2-4, they are still bleeding out. The **GM will roll a d4 death timer**. 
 - 5 they save. 5 the PC will get up with (MIGHT) amount current MIGHT as their HP.
