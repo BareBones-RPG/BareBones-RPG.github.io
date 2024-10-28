@@ -125,7 +125,7 @@ Referee: "Hmm, that makes sense. Alright, I'll give you a boost on your tracking
 - [Back to TOC](#table-of-contents)
 
 ### Pre-packed Characters
-| **d6 Roll** | **Class/Package** | **Agility** | **Insight** | **Might** | **Willpower** | **HP** (10 + Might) | **Item Slots** (9 + Might) | **Weapons** | **Armor** | **Inventory** | **Starting Gold** |
+
 | **d6 Roll** | **Class/Package** | **Agility** | **Insight** | **Might** | **Willpower** | **HP** (10 + Might) | **Item Slots** (10 + Might) | **Weapons** | **Armor** | **Inventory** | **Starting Gold** |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---|:---|:---|:---|
 | 1 | **Scout** | 3 | 2 | 1  | 2 | 11 HP | 11 slots| Shortbow (1d6, Near), Dagger (1d4, Close) | Leather Armor (-d2 DR), Explorer’s Cloak | Flint and steel, Rope (50 ft), Rations (3 days), Waterskin, Bandages (2 uses) | 20 Gold |
