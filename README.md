@@ -261,31 +261,36 @@ When a player who creates a two-weapon fighter player character will follow the 
 
 ## Burn Mechanic
 
-Players can use their attributes to push their limit once a session using the burn action with the chosen attribute.
+Players can push their character’s limits by using the Burn action, which allows them to expend attribute points to succeed when they’ve failed a roll.
 
-The Burn mechanic can be used when the player character succeeds or fails their roll. 
+The Burn mechanic can be used when the player character fails their roll. They may choose to modify the result by sacrificing attribute points, even if the new result is better or worse.
 
 - [Back to TOC](#table-of-contents)
 
 ### Minor Burn:
 
-- Effect: The player character who uses burn will lose 1 point from their score.
-- Example: A player character is in the heat of combat and rolled a 4; this is not a hit. The player character can push harder and burn a point of their attribute (MIGHT/INSIGHT) to turn their roll of 4 into a 5, which is a success and will hit the enemy.
+- Effect: The player character loses 1 point from their chosen attribute score.
+- Example: A player character in the heat of combat rolls a 4, which is not a hit. They can push harder and burn 1 point from their MIGHT or INSIGHT to re-roll the attack. The player then rolls 3 dice for the attack (using MIGHT), resulting in 5, 1, and 4. They succeed due to the 5 rolled on one of the dice.
 - Recovery: A player character who loses a point of their attribute due to a Minor Burn can recover that point by taking a Breather.
 
 ### Major Burn:
 
-- Effect: The player character who usesf burn will lose 2 points from their score.
-- Example: A player character is climbing a cliff, and rolled a 3 on their MIGHT roll. They can push their body and use up 2 points of their MIGHT to complete their climb.
-- Recovery: A player character who loses 2 points of their attribute due to a Major Burn can recover their points with a long rest (uninterrupted sleep with ration and waterskin).
-- Minimum Attribute Score: A Major Burn cannot reduce an attribute below 1.
+- Effect: The player character loses up to 2 points from their chosen attribute score. The player rolls their attribute check twice. If the first roll is successful, they only burn 1 point. If both rolls are needed (because the first roll failed), they burn 2 points from their attribute.
+- Example: A player character is climbing a cliff and rolls 3 dice for MIGHT, resulting in 3, 3, and 2. After declaring the Burn, they roll again, getting 2, 1, and 3, which is not enough to succeed. They roll a second time and get 5, 4, and 2, successfully completing the climb due to the 5. Because they needed both rolls, they burn 2 points from MIGHT.
+- Recovery: Points lost from Major Burn can be recovered after a long rest (uninterrupted sleep with rations and waterskin).
+
 
 ### Critical Burn:
 
-- Effect: The player character expends all remaining points in the chosen attribute for a single, extraordinary action. The outcome is determined by the GM and should be narratively impactful and thematically appropriate.
-- Example: A character leaps across a seemingly impossible chasm, channels immense power for a devastating attack, or resists a mind control effect with sheer willpower.
-- Recovery: A character who uses a Critical Burn cannot recover the expended attribute points until they complete a special quest, achieve a significant milestone, or fulfill a condition set by the GM.
-- Limitations: Critical Burns are limited to one per character per session.
+- Effect: The player character expends all remaining points in the chosen attribute for a single, extraordinary action. This will reduce the attribute to 0. Once the attribute reaches 0, the character suffers a Debility associated with that attribute, preventing them from taking any further actions related to it until they recover. Recovery requires a week of rest or completion of a special condition set by the GM.
+- Example: A character leaps across a seemingly impossible chasm or unleashes immense power in combat. To perform this feat, they expend all their remaining MIGHT points, reducing MIGHT to 0. As a result, they become Fatigued (due to 0 MIGHT) and cannot perform any physically demanding actions until they recover.
+
+#### Debilities:
+
+- AGILITY: Dazed – The character is disoriented and cannot move quickly or perform actions requiring dexterity or balance.
+- INSIGHT: Frightened – The character is overwhelmed with fear or doubt, unable to make rational decisions.
+- MIGHT: Fatigued – The character is physically exhausted and cannot perform any physically demanding tasks.
+- WILLPOWER: Broken – The character's spirit is shattered, leaving them unable to resist mental influence or summon resolve.
 
 The GM has final say on whether a Critical Burn is appropriate for a given situation and its outcome.
 
@@ -308,8 +313,8 @@ BareBones is a dangerous game for PCs, with death being a possible outcome at th
 A player may roll a Saved by a Bone. This is our death save. If the player rolls, a 1 the burn mechanic is not allowed. This will burn their MIGHT attribute. 
 - If you roll a 1, this means the PC is dead.
 - 2-4, they are still bleeding out. The **GM will roll a d4 death timer**. 
-- 5 they save. 5 the PC will get up with (x) amount current MIGHT as their HP.
-- 6 the PC will get (x)*2  current MIGHT as their HP.
+- 5 they save. 5 the PC will get up with (MIGHT) amount current MIGHT as their HP.
+- 6 the PC will get (MIGHT)*2  current MIGHT as their HP.
 
 - [Back to TOC](#table-of-contents)
 
