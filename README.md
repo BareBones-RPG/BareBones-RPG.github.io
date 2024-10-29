@@ -282,10 +282,12 @@ The Burn mechanic can be used when the player character fails their roll. They m
 
 ### Critical Burn:
 
-- Effect: The player character expends all remaining points in the chosen attribute for a single, extraordinary action. This will reduce the attribute to 0. Once the attribute reaches 0, the character suffers a Debility associated with that attribute, preventing them from taking any further actions related to it until they recover. Recovery requires a week of rest or completion of a special condition set by the GM.
+- Effect: The player character expends all remaining points in the chosen attribute for a single, extraordinary action. This will reduce the attribute to 0. Once the attribute reaches 0, the character suffers a Debility associated with that attribute, preventing them from taking any further actions related to it until they recover. Recovery requires a week of rest or completion of a special condition set by the GM. 
 - Example: A character leaps across a seemingly impossible chasm or unleashes immense power in combat. To perform this feat, they expend all their remaining MIGHT points, reducing MIGHT to 0. As a result, they become Fatigued (due to 0 MIGHT) and cannot perform any physically demanding actions until they recover.
 
 #### Debilities:
+
+These are status that PCs can gain after declaring a burn on their attribute roll. The status will activate after a Major Burn or two points has been spent to re-roll. After PCs gains status whenever they roll using a burnt attribute it will roll with a Burden. 
 
 - AGILITY: Dazed – The character is disoriented and cannot move quickly or perform actions requiring dexterity or balance.
 - INSIGHT: Frightened – The character is overwhelmed with fear or doubt, unable to make rational decisions.
