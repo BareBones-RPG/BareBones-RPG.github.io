@@ -170,6 +170,7 @@ You can use individual initiative if you like. Both the enemy and the player wil
 It is the player's turn, and they decide to go for an attack, depending on the type of weapon they may hold. They will then roll for their respective Attribute. 
 
 - Anytime a player rolls a 5 or 6, the attack happens.
+- Whenever a monster or PCs roll 5, 5, 
 - If a player rolls a 6, this is a critical hit. The player will do double the damage against the enemy. This attack will reduce the enemy's armor. The armor will reduce from a d8 >> d6 >> d4 >> d2 >> 0. 
 - A player holding their **action for a round or wants to react** to an enemy's action. This can reduce the success threshold to **4** instead of **5-6** in normal circumstances. **This only happens during combat.**
 
@@ -184,7 +185,7 @@ Enemies can move and attack or take cover. When attacking, the player must make 
 
 - [Back to TOC](#table-of-contents)
 
-### Roll a AGILITY Save to Dodge an Attack
+### Roll an AGILITY Save to Dodge an Attack
 
 Players and NPCs about to be attacked will roll AGILITY save against an upcoming attack.
 
