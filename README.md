@@ -287,7 +287,7 @@ The Burn mechanic can be used when the player character fails their roll. They m
 
 #### Debilities:
 
-These are status that PCs can gain after declaring a burn on their attribute roll. The status will activate after a Major Burn or two points has been spent to re-roll. After PCs gains status whenever they roll using a burnt attribute it will roll with a Burden. 
+These are the statuses that PCs can gain after declaring a burn on their attribute roll. A status activates after a Major Burn (spending two points) to re-roll. Once a PC gains a status, any future rolls using the burned attribute will be made with a Burden. If the attribute still has at least one point remaining, the PC must roll with Bane—roll a d6 and take the lower result.
 
 - AGILITY: Dazed – The character is disoriented and cannot move quickly or perform actions requiring dexterity or balance.
 - INSIGHT: Frightened – The character is overwhelmed with fear or doubt, unable to make rational decisions.
