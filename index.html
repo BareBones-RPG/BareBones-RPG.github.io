@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>BareBones RPG</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Top -->
+    <div id="top"></div>
+
+    <!-- Header Section -->
+    <header>
+        <img src="images/Barebones_Patch_HiRez.png" alt="BB logo" width="400" height="600">
+        <h1>BareBones TTRPG</h1>
+        <h4>A fast-paced tabletop role-playing game using six-sided dice.</h4>
+        <p><i>BareBones RPG</i> is a fast-paced game for long or short sessions. Easy to learn and fun to play!</p>
+    </header>
+
+    <!-- Game Mechanics Section -->
+    <main>
+        <h2>Game Mechanics</h2>
+        <p><i>BareBones RPG</i>, players possess attributes, each associated with a specific number of six-sided dice for actions related to that attribute. Rolling a 5 on a die is a <b>soft success</b>, while a roll of 6 is a <strong>critical success</strong>. Any result below 4 is a <b>soft failure</b>, and a roll of 1 is a <strong>fumble</strong>, potentially leading to harmful consequences. However, if a player holds their action for a round or wants to react to an enemy's action, the success threshold is reduced to 4, instead of the usual 5-6.</p>
+
+        <!-- What do you need to play this game? -->
+        <div class="yellow-bg">
+            <h3>What You Need...</h3>
+            <ul>
+                <li>3 to 6 players, with one acting as the Game Master, Facilitator, or Referee.</li>
+                <li>Pencil</li>
+                <li>Index Cards or Character Sheet</li>
+                <li>At least 3 to 6 six-sided dice</li>
+                <li>Tokens or Mini-figures to represent playable characters known as <abbr>PC</abbr></li>
+                <li>Your imagination</li>
+            </ul>
+        </div>
+
+        <!-- Character Creation Section -->
+        <h3>Character Creation</h3>
+        <p>The Referee will provide these numbers for character creation:</p> 
+        <div id="output"></div>
+        <br />
+		<button onclick="generateNumbers()">Generate Again</button>
+       <div class "yellow-bg">
+        <p>Players can assign the numbers to their attributes.<br> This is the number of dice the players can roll,<br> whenever they do something that is dangerous.<br> This is named a <strong>TEST</strong>.</p>
+        </div>
+        
+        <h3>Attributes</h3>
+		<p>Barebones uses these attributes whenever a player do a test that</p>
+		<ul>
+			<li><b>AGILITY</b> = <i>Defend, balance, swim, flee</i></li>
+			<li><b>INSIGHT</b> = <i>Casting spells, perceive, aim, charm, smarts</i></li>
+			<li><b>MIGHT</b> = <i>Crush, lift, strike, grapple</i></li>	
+			<li><b>WILLPOWER</b> = <i>Resist fear, using relics/magic weapons, rituals</i></li>
+		</ul>
+        
+        <a href="#top">To top of site</a>
+    </main>
+
+    <!-- JavaScript for Random Numbers -->
+    <script>
+    function generateNumbers() {
+        let numbers = [];
+        for (let i = 0; i < 4; i++) {
+            numbers.push(Math.floor(Math.random() * 3) + 1);
+        }
+        document.getElementById("output").textContent = "Generated Numbers: " + numbers.join(", ");
+    }
+    window.onload = generateNumbers; // Generate on page load
+    </script>
+
+</body>
+</html>
